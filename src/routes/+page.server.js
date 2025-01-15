@@ -1,3 +1,4 @@
+
 import path from 'path';
 import fs from 'fs';
 
@@ -12,7 +13,7 @@ const get_sign = (w) => {
 
 export const load = async () => {
     // AIR QUALITY DATA
-    const healthy_file_path = path.resolve('static', `w_h.json`);
+    const healthy_file_path = path.resolve('static', w_h.json);
     const healthy_file_data = fs.readFileSync(healthy_file_path, 'utf-8');
     const healthy_data = JSON.parse(healthy_file_data);
 
@@ -24,7 +25,7 @@ export const load = async () => {
         RelatedOrNot: false
     }));
 
-    const infested_file_path = path.resolve('static', `w_i.json`);
+    const infested_file_path = path.resolve('static', w_i.json);
     const infested_file_data = fs.readFileSync(infested_file_path, 'utf-8');
     const infested_data = JSON.parse(infested_file_data);
 
@@ -36,7 +37,7 @@ export const load = async () => {
         RelatedOrNot: false
     }));
 
-    const r_healthy_file_path = path.resolve('static', `r_h.json`);
+    const r_healthy_file_path = path.resolve('static', r_h.json);
     const r_healthy_file_data = fs.readFileSync(r_healthy_file_path, 'utf-8');
     const r_healthy_data = JSON.parse(r_healthy_file_data);
 
@@ -48,7 +49,7 @@ export const load = async () => {
         RelatedOrNot: false
     }));
 
-    const r_infested_file_path = path.resolve('static', `r_i.json`);
+    const r_infested_file_path = path.resolve('static', r_i.json);
     const r_infested_file_data = fs.readFileSync(r_infested_file_path, 'utf-8');
     const r_infested_data = JSON.parse(r_infested_file_data);
 
@@ -60,13 +61,11 @@ export const load = async () => {
         RelatedOrNot: false
     }));
 
-    
-
     return {
         "healthy": { "nodes": healthy_nodes, "links": healthy_links },
         "infested": { "nodes": infested_nodes, "links": infested_links },
         "r_healthy": { "nodes": r_healthy_nodes, "links": r_healthy_links },
         "r_infested": { "nodes": r_infested_nodes, "links": r_infested_links },
-        
+
     }
 }
