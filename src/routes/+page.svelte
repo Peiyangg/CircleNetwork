@@ -11,6 +11,24 @@
 
   const LinkedData = createNetworkStores();
 
+// +--------------+-----------------------------+---------------------------+
+// |   rockwool   | ES (sampletime 1,2,3)       | LS (sampletime 3,4,5)    |
+// +--------------+-----------------------------+---------------------------+
+// | Healthy      | json file 1                 | json file 2              |
+// | Infested     | json file 3                 | json file 4              |
+// | In-between   | json file 5                 | json file 6              |
+// +--------------+-----------------------------+---------------------------+
+// Note: Sample time 3 is included in both stages to ensure sufficient samples for correlation
+
+//               
+// +------------+-------------+
+// | Water      | ALl samples |
+// +------------+-------------+
+// | Healthy    | json file 7 |
+// | Infested   | json file 8 |
+// | In-between | json file 9 |
+// +------------+-------------+
+// Note: data actually ask 
 </script>
 
 <main>
