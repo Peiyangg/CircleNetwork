@@ -7,9 +7,9 @@
   $: brushActive = $brushActiveStore;
 
   export let graph;
-  export let width = 800 ;
+  export let width = 800;
   export let height = 800;
-  export let sizeTime = 15;
+  export let sizeTime = 7;
 
   // Internal state for arc selection and local UI
   let selectedArc = null;
@@ -22,9 +22,8 @@
   let filteredCoreNodes = [];
   let filteredLinks = [];
   let simulation;
-  let sizeBy = "st3_per_log";
-  let linkThreshold = 0.5
-  const textThreshold = 0.65;
+  let sizeBy = "mean_abundance";
+  const textThreshold = 1;
 
   const brush = d3.brush().on("start brush end", brushed);
 
@@ -42,16 +41,9 @@
     const [[x0, y0], [x1, y1]] = event.selection;
     const selectedNodesArray = [];
     const relatedLinksArray = [];
-    
-    // Transform the brush coordinates back to the translated coordinate system
-    const transform = d3.zoomIdentity
-        .translate(-width/2, -height/2);
 
     [...filteredSubcoreNodes, ...filteredCoreNodes].forEach(node => {
-      // Transform node coordinates to the brush coordinate system
-      const nodeX = node.x + width/2;
-      const nodeY = node.y + height/2;
-      if (x0 <= nodeX && nodeX < x1 && y0 <= nodeY && nodeY < y1) {
+      if (x0 <= node.x && node.x < x1 && y0 <= node.y && node.y < y1) {
         node.RelatedOrNot = true;
         selectedNodesArray.push(node);
       } else {
@@ -71,19 +63,17 @@
     selectedNodes.set(selectedNodesArray);
     relatedLinks.set(relatedLinksArray);
     applyLocalHighlighting(new Set(selectedNodesArray), relatedLinksArray);
-}
+  }
 
   function toggleBrush() {
     brushActiveStore.update((v) => !v);
 
     if ($brushActiveStore) {
-      // Create brush group at the root SVG level, before the translated container
-      brushGroup = d3.select(svgContainer.node().parentNode)
-        .insert("g", ":first-child")
-        .attr("class", "brush");
-      
-      // Set brush extent relative to the untranslated coordinate system
-      brush.extent([[0, 0], [width, height]]);
+      brushGroup = svgContainer.append("g").attr("class", "brush");
+      brush.extent([
+        [0, 0],
+        [width, height],
+      ]);
       brushGroup.call(brush);
 
       if (simulation) {
@@ -103,7 +93,7 @@
       selectedNodes.set([]);
       relatedLinks.set([]);
     }
-}
+  }
 
   $: if (svgContainer && $selectedNodes) {
     if ($selectedNodes.length > 0) {
@@ -137,6 +127,73 @@
     }
   });
 
+
+  //  const styles = {
+  //   default: {
+  //     node: {
+  //       opacity: 1,
+  //       stroke: "#fff",
+  //       strokeWidth: (d) => (d.level === "core" ? 2 : 0.5),
+  //       fill: (d) => {
+  //         if (d.level === "core") {
+  //           return d3.color("#7fcdbb").copy({ opacity: 0.85 });
+  //         }
+  //         return undefined; // Will be set by cluster color
+  //       }
+  //     },
+  //     link: {
+  //       opacity: 1,
+  //       strokeWidth: (d) =>
+  //         d.source.level === "core" || d.target.level === "core"
+  //           ? 1
+  //           : d.sparcc < 0
+  //             ? 1.5
+  //             : 0.75,
+  //       stroke: (d) => {
+  //         if (d.sparcc < 0) {
+  //           return "rgba(255, 0, 0, 0.7)";
+  //         } else {
+  //           const alpha =
+  //             d.source.level === "core" || d.target.level === "core"
+  //               ? "0.4"
+  //               : "0.1";
+  //           return `rgba(0, 128, 0, ${alpha})`;
+  //         }
+  //       },
+  //     }
+  //   },
+  //   selected: {
+  //     node: {
+  //       opacity: 1,
+  //       stroke: "red",
+  //       strokeWidth: 2,
+  //       fill: (d) => {
+  //         if (d.level === "core") {
+  //           return d3.color("#7fcdbb").copy({ opacity: 0.85 });
+  //         }
+  //         return undefined; // Will be set by cluster color
+  //       }
+  //     }
+  //   },
+  //   dimmed: {
+  //     node: {
+  //       opacity: 0.2,
+  //       stroke: "#fff",
+  //       strokeWidth: (d) => (d.level === "core" ? 2 : 0.5),
+  //       fill: (d) => {
+  //         if (d.level === "core") {
+  //           return d3.color("#7fcdbb").copy({ opacity: 0.85 });
+  //         }
+  //         return undefined; // Will be set by cluster color
+  //       }
+  //     },
+  //     link: {
+  //       opacity: 0.1,
+  //       strokeWidth: 0.5,
+  //       stroke: "rgba(128, 128, 128, 0.1)",
+  //     }
+  //   }
+  // };
 
   function handleMouseOver(event, d) {
     const element = d3.select(this);
@@ -259,19 +316,6 @@
           "collide",
           d3.forceCollide().radius((d) => d[sizeBy] * sizeTime + 5),
         )
-
-        .force("container", alpha => {
-          filteredCoreNodes.forEach(node => {
-            const r = Math.sqrt(node.x * node.x + node.y * node.y);
-            if (r > radius*0.45) {
-              // If node is outside the container, push it back
-              const scale = radius*0.45 / r;
-              node.x *= scale;
-              node.y *= scale;
-            }
-          });
-        })
-
         .on("tick", ticked);
 
       function ticked() {
@@ -394,8 +438,14 @@
 
       node
         .append("circle")
-        .attr("r", (d) => d[sizeBy] * 15)
-        .attr("fill", (d) => clusterColorMap.get(d.cluster_hdbscan))
+        .attr("r", (d) => d[sizeBy] * 50)
+        .attr("fill", (d) => {
+          if (d.level === "core") {
+            return d3.color("#7fcdbb").copy({ opacity: 0.85 });
+          } else {
+            return clusterColorMap.get(d.cluster_hdbscan);
+          }
+        })
         .attr("cx", (d) => d.x)
         .attr("cy", (d) => d.y)
         .attr("stroke", "#fff")
@@ -409,7 +459,7 @@
         }); // Store a reference to the element
 
       node
-        .filter((d) => d && (d.level === "core" || d[sizeBy] >= textThreshold))
+        .filter((d) => d[sizeBy] >= textThreshold)
         .append("text")
         .attr("x", (d) => d.x)
         .attr("y", (d) => d.y - 10)
@@ -473,19 +523,18 @@
   function updateNodeSizes() {
     if (!svgContainer) return;
 
-    // Update circle sizes
     svgContainer.selectAll("circle")
-        .attr("r", (d) => d[sizeBy] * 15);
+        .attr("r", (d) => d[sizeBy] * sizeTime);
 
-    // Remove ALL existing node text elements
-    svgContainer.selectAll("g text:not(.arc-label)")
+    // Remove only node labels (but not arc labels)
+    svgContainer.selectAll("g text.node-label")
         .remove();
 
     // Add text labels only for nodes that meet the threshold
     svgContainer.selectAll("g")
-        .filter((d) => d && (d.level === "core" || d[sizeBy] >= textThreshold))
+        .filter((d) => d && d[sizeBy] >= textThreshold)
         .append("text")
-        .attr("class", "node-label")
+        .attr("class", "node-label")  // Add this class to distinguish from arc labels
         .attr("x", (d) => d.x)
         .attr("y", (d) => d.y - 10)
         .attr("text-anchor", "middle")
@@ -556,7 +605,7 @@
                 (l.Source === linkSourceId && l.Target === linkTargetId) ||
                 (l.Source === linkTargetId && l.Target === linkSourceId)
             );
-            return isHighlighted ? "line-highlighted" : "line-dimmed";
+            return isHighlighted ? "link-highlighted" : "link-dimmed";
         });
 }
 
@@ -694,44 +743,35 @@ function applyLocalHighlighting(nodeIds, storedLinks) {
         const linkId = `${link.source.id}-${link.target.id}`;
         
         if (linkLookup.has(linkId)) {
-            elem.attr("class", "line-highlighted");
+            elem.attr("class", "link-highlighted");
         } else {
-            elem.attr("class", "line-dimmed");
+            elem.attr("class", "link-dimmed");
         }
     });
 }
 
-function updateLinkVisibility(threshold) {
-    svgContainer.selectAll("line")
-        .style("display", d => Math.abs(d.sparcc) >= threshold ? "block" : "none");
-}
+  function applyNodeStyles(node, styles) {
+    node
+      .style("opacity", styles.node.opacity)
+      .attr("stroke", styles.node.stroke)
+      .attr("stroke-width", styles.node.strokeWidth);
+  }
 
+  function applyLinkStyles(link, styles) {
+    link
+      .style("opacity", styles.link.opacity)
+      .attr("stroke-width", styles.link.strokeWidth)
+      .attr("stroke", styles.link.stroke);
+  }
+
+  function applyTextStyles(text, styles) {
+    text.style("opacity", styles.text.opacity);
+  }
 </script>
 
 <button on:click={toggleBrush} class:brush-active={brushActive}>Toggle Brush</button>
 
-<div class="control-group">
-  <label for="sizeBy">Node size by:</label>
-  <select id="sizeBy" bind:value={sizeBy}>
-      <option value="st1_per_log">Sample Type 1</option>
-      <option value="st2_per_log">Sample Type 2</option>
-      <option value="st3_per_log">Sample Type 3</option>
-      <option value="st4_per_log">Sample Type 4</option>
-      <option value="st5_per_log">Sample Type 5</option>
-  </select>
-</div>
 
-<label for="linkThreshold">Link Threshold:</label>
-<input 
-    type="range" 
-    id="linkThreshold" 
-    bind:value={linkThreshold} 
-    min="0" 
-    max="1" 
-    step="0.1"
-    on:input={() => updateLinkVisibility(linkThreshold)}
-/>
-<span>{linkThreshold.toFixed(1)}</span>
 
 <svg bind:this={svgContainer} {width} {height}></svg>
 
@@ -769,19 +809,20 @@ function updateLinkVisibility(threshold) {
     stroke-width: 2px !important;
 }
 
-:global(line) {
-    stroke: rgba(0, 128, 0, 0.25) !important; 
-    pointer-events: none; 
+:global(link) {
+    opacity: 1 !important;
+    stroke-width: 0.75px !important;
+    stroke: rgba(0, 128, 0, 0.1) !important;
 }
 
-:global(line[data-core="true"]) {
-    stroke-width: 2px !important;
-    stroke: rgba(255, 0, 0, 0.5) !important;
-}
-
-:global(line[data-negative="true"]) {
+:global(link[data-core="true"]) {
     stroke-width: 1px !important;
-    stroke: rgba(255, 0, 0, 0.25) !important;
+    stroke: rgba(0, 128, 0, 0.4) !important;
+}
+
+:global(link[data-negative="true"]) {
+    stroke-width: 1.5px !important;
+    stroke: rgba(255, 0, 0, 0.7) !important;
 }
 
   :global(.node-selected) {
@@ -801,18 +842,14 @@ function updateLinkVisibility(threshold) {
   }
 
   /* Link styles - with :global() */
-  :global(.line-highlighted) {
-    opacity: 1 !important;
+  :global(.link-highlighted) {
+    opacity: 0.9 !important;
     stroke-width: 2px !important;
   }
 
-  :global(.line-dimmed) {
+  :global(.link-dimmed) {
     opacity: 0 !important;
     stroke-width: 0.5px !important;
     stroke: rgba(128, 128, 128, 0.1) !important;
   }
-
-  :global(text) {
-    pointer-events: none;
-}
 </style>

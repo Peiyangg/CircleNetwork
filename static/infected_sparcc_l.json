@@ -1,0 +1,5827 @@
+{
+  "nodes": [
+    {
+      "id": "Genus_67-14",
+      "label": "Genus_67-14",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0013650460419236306,
+      "st5_per": 0.0006455182589450387,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4207651190669849,
+      "st5_per_log": 0.2844005081674556,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_unknown_71_rockwool",
+      "label": "Genus_unknown_71_rockwool",
+      "level": "subcore",
+      "st3_per": 0.00039719316827750565,
+      "st4_per": 0.0004931452805996647,
+      "st5_per": 0.0010693042839002875,
+      "st3_per_log": 0.16292750216289256,
+      "st4_per_log": 0.30426157200750925,
+      "st5_per_log": 0.3543903892780086,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_A4b",
+      "label": "Genus_A4b",
+      "level": "subcore",
+      "st3_per": 0.004341622537685358,
+      "st4_per": 0.00934071062232333,
+      "st5_per": 0.004555496629255359,
+      "st3_per_log": 0.46495040584699165,
+      "st4_per_log": 0.6408321301577002,
+      "st5_per_log": 0.5553734750703855,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Altererythrobacter",
+      "label": "Genus_Altererythrobacter",
+      "level": "subcore",
+      "st3_per": 0.0015435555737295038,
+      "st4_per": 0.0015780648979189268,
+      "st5_per": 0.0018233424434498909,
+      "st3_per_log": 0.3343506409010052,
+      "st4_per_log": 0.43735844050373074,
+      "st5_per_log": 0.42839529280048944,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Aminobacter",
+      "label": "Genus_Aminobacter",
+      "level": "subcore",
+      "st3_per": 0.001965481235796327,
+      "st4_per": 0.0019237469326812836,
+      "st5_per": 0.002153583098201243,
+      "st3_per_log": 0.36486744396130527,
+      "st4_per_log": 0.46002379368857865,
+      "st5_per_log": 0.45147910995086743,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_BIrii41",
+      "label": "Genus_BIrii41",
+      "level": "subcore",
+      "st3_per": 0.0003071064430931761,
+      "st4_per": 0.0002962629383908984,
+      "st5_per": 0.00046782062420637575,
+      "st3_per_log": 0.130443193303238,
+      "st4_per_log": 0.2459541130614629,
+      "st5_per_log": 0.23975201668000254,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Azospirillum",
+      "label": "Genus_Azospirillum",
+      "level": "subcore",
+      "st3_per": 0.001160573654978032,
+      "st4_per": 0.0010807811845550313,
+      "st5_per": 0.0008688097306689834,
+      "st3_per_log": 0.2983371677184921,
+      "st4_per_log": 0.39404574710996776,
+      "st5_per_log": 0.32559632150174106,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Arctic95B-14",
+      "label": "Genus_Arctic95B-14",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00252287905021024,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.49104815470669827,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_unknown_117_rockwool",
+      "label": "Genus_unknown_117_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0030451476234608765,
+      "st4_per": 0.0003321869626387369,
+      "st5_per": 0.0002855161724517682,
+      "st3_per_log": 0.42015695667686265,
+      "st4_per_log": 0.2590504496666507,
+      "st5_per_log": 0.17127696975333934,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_unknown_113_rockwool",
+      "label": "Genus_unknown_113_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0004426387783112844,
+      "st5_per": 0.0015124432833768734,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.29189766606564715,
+      "st5_per_log": 0.4024709961830894,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_possible_genus_04",
+      "label": "Genus_possible_genus_04",
+      "level": "subcore",
+      "st3_per": 0.0014013452914798206,
+      "st4_per": 0.00019756541902720039,
+      "st5_per": 0.0007562216416884367,
+      "st3_per_log": 0.3221443677757214,
+      "st4_per_log": 0.19959050368948214,
+      "st5_per_log": 0.30634988293807824,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Bacillus",
+      "label": "Genus_Bacillus",
+      "level": "subcore",
+      "st3_per": 0.010623959526334064,
+      "st4_per": 0.0004208532800252512,
+      "st5_per": 0.00041196341764851283,
+      "st3_per_log": 0.5779590613891353,
+      "st4_per_log": 0.28612251793351134,
+      "st5_per_log": 0.22211963333768606,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_unknown_158_rockwool",
+      "label": "Genus_unknown_158_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0007460830639144492,
+      "st4_per": 0.00011046395041812153,
+      "st5_per": 0.0018222059885947188,
+      "st3_per_log": 0.24253992373785077,
+      "st4_per_log": 0.1330643676565875,
+      "st5_per_log": 0.4283088333130097,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_unknown_152_rockwool",
+      "label": "Genus_unknown_152_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0015450157096158295,
+      "st5_per": 0.002504123146108312,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4349365437681548,
+      "st5_per_log": 0.47239184600059014,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_unknown_150_rockwool",
+      "label": "Genus_unknown_150_rockwool",
+      "level": "subcore",
+      "st3_per": 0.002660458929165281,
+      "st4_per": 0.004216346181767497,
+      "st5_per": 0.0026628131910406807,
+      "st3_per_log": 0.4031019529138996,
+      "st4_per_log": 0.5498146682378461,
+      "st5_per_log": 0.48091257016598443,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_unknown_145_rockwool",
+      "label": "Genus_unknown_145_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00024170853403774107,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2226663516294556,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Blfdi19",
+      "label": "Genus_Blfdi19",
+      "level": "subcore",
+      "st3_per": 0.0006142128861863522,
+      "st4_per": 0.00038002169361073685,
+      "st5_per": 0.0003527159125264537,
+      "st3_per_log": 0.21797790445514323,
+      "st4_per_log": 0.2744444753561063,
+      "st5_per_log": 0.2005875842466943,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Blastocatellaceae_uncultured",
+      "label": "Genus_Blastocatellaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0013853087134164518,
+      "st5_per": 0.0020659937429903783,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.42245119702857925,
+      "st5_per_log": 0.445721156560617,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Blastocatellaceae_unknown",
+      "label": "Genus_Blastocatellaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.005010899851313401,
+      "st4_per": 0.003980884532208474,
+      "st5_per": 0.0025323812686815013,
+      "st3_per_log": 0.48305568294356216,
+      "st4_per_log": 0.5432390844293025,
+      "st5_per_log": 0.4739479620052868,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Bacteroides",
+      "label": "Genus_Bacteroides",
+      "level": "subcore",
+      "st3_per": 0.06272637471188673,
+      "st4_per": 0.0,
+      "st5_per": 0.0,
+      "st3_per_log": 0.8022011626953971,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Balneatrix",
+      "label": "Genus_Balneatrix",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.004326876372762011,
+      "st5_per": 0.0015391359128972626,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.5527757148194152,
+      "st5_per_log": 0.4048970538323659,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_BSV26",
+      "label": "Genus_BSV26",
+      "level": "subcore",
+      "st3_per": 0.0013873359653933093,
+      "st4_per": 0.0002751476895686655,
+      "st5_per": 0.0003181651294325822,
+      "st3_per_log": 0.3208755277865562,
+      "st4_per_log": 0.2374933897862442,
+      "st5_per_log": 0.18629140101480007,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Brevundimonas",
+      "label": "Genus_Brevundimonas",
+      "level": "subcore",
+      "st3_per": 0.0018552141205831632,
+      "st4_per": 0.0010734854640326217,
+      "st5_per": 0.0012703405722581816,
+      "st3_per_log": 0.35757607522083873,
+      "st4_per_log": 0.3932706926899834,
+      "st5_per_log": 0.37828060760573745,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_CL500-29_marine_group",
+      "label": "Genus_CL500-29_marine_group",
+      "level": "subcore",
+      "st3_per": 0.0006756341748049874,
+      "st4_per": 0.0005929064550809208,
+      "st5_per": 0.0006654164902304761,
+      "st3_per_log": 0.2300142356889629,
+      "st4_per_log": 0.325342941058992,
+      "st5_per_log": 0.28861058558119257,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_[Aquaspirillum]_arcticum_group",
+      "label": "Genus_[Aquaspirillum]_arcticum_group",
+      "level": "subcore",
+      "st3_per": 0.005309156252552479,
+      "st4_per": 9.535198113142338e-05,
+      "st5_per": 0.00032957073411881023,
+      "st3_per_log": 0.49035720684142803,
+      "st4_per_log": 0.11623041264801588,
+      "st5_per_log": 0.19117554647226723,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Xanthobacteraceae_uncultured",
+      "label": "Genus_Xanthobacteraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.005051407000831568,
+      "st4_per": 0.001334306592259452,
+      "st5_per": 0.0009842176446524654,
+      "st3_per_log": 0.48407244963261237,
+      "st4_per_log": 0.41815886323044654,
+      "st5_per_log": 0.3428920777259263,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Wandonia",
+      "label": "Genus_Wandonia",
+      "level": "subcore",
+      "st3_per": 0.001470227885322225,
+      "st4_per": 0.0009227646660715059,
+      "st5_per": 0.0039417821618905405,
+      "st3_per_log": 0.32820416040381195,
+      "st4_per_log": 0.3759586897442997,
+      "st5_per_log": 0.5353072033970336,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_WN-HWB-116",
+      "label": "Genus_WN-HWB-116",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00019289108667824013,
+      "st5_per": 0.0005323598752756864,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.19685063670795905,
+      "st5_per_log": 0.25767344951978044,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_WD260",
+      "label": "Genus_WD260",
+      "level": "subcore",
+      "st3_per": 0.0015355449735248443,
+      "st4_per": 0.0008523073176671132,
+      "st5_per": 0.0017590465249856405,
+      "st3_per_log": 0.3336935476540506,
+      "st4_per_log": 0.3668700191109105,
+      "st5_per_log": 0.42341699776876557,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_WD2101_soil_group",
+      "label": "Genus_WD2101_soil_group",
+      "level": "subcore",
+      "st3_per": 0.0015519072122845707,
+      "st4_per": 0.0016185158209921502,
+      "st5_per": 0.0018277825533610415,
+      "st3_per_log": 0.33503208776096627,
+      "st4_per_log": 0.44025463517538427,
+      "st5_per_log": 0.42873257277799576,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_WCHB1-41",
+      "label": "Genus_WCHB1-41",
+      "level": "subcore",
+      "st3_per": 0.0006619886137958427,
+      "st4_per": 0.0004545912655066957,
+      "st5_per": 0.0003304106463167505,
+      "st3_per_log": 0.22743757257712358,
+      "st4_per_log": 0.2949465576237523,
+      "st5_per_log": 0.1915285066962264,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Bosea",
+      "label": "Genus_Bosea",
+      "level": "subcore",
+      "st3_per": 0.004617117117117117,
+      "st4_per": 0.001536626850602043,
+      "st5_per": 0.0014252873563218391,
+      "st3_per_log": 0.47271981393593027,
+      "st4_per_log": 0.43431355027510626,
+      "st5_per_log": 0.39424031560181166,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Kaiserbacteria",
+      "label": "Genus_Candidatus_Kaiserbacteria",
+      "level": "subcore",
+      "st3_per": 0.0003685277317118113,
+      "st4_per": 0.0008667797926899148,
+      "st5_per": 0.002519399375188955,
+      "st3_per_log": 0.1534678340409122,
+      "st4_per_log": 0.3687967319479208,
+      "st5_per_log": 0.47323524382054927,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Kuenenbacteria",
+      "label": "Genus_Candidatus_Kuenenbacteria",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0003692567389354856,
+      "st5_per": 0.0005812022583859183,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2711562568928499,
+      "st5_per_log": 0.2698460803820384,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Alysiosphaera",
+      "label": "Genus_Candidatus_Alysiosphaera",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00037225863882819454,
+      "st5_per": 0.0011066027296200663,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2720827457953041,
+      "st5_per_log": 0.3591450142963538,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Berkiella",
+      "label": "Genus_Candidatus_Berkiella",
+      "level": "subcore",
+      "st3_per": 0.001965481235796327,
+      "st4_per": 0.0009862905611993293,
+      "st5_per": 0.002023199352576207,
+      "st3_per_log": 0.36486744396130527,
+      "st4_per_log": 0.3835769267850434,
+      "st5_per_log": 0.4428185484274696,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Ovatusbacter",
+      "label": "Genus_Candidatus_Ovatusbacter",
+      "level": "subcore",
+      "st3_per": 0.0022784944382259033,
+      "st4_per": 0.0012701078148798814,
+      "st5_per": 0.001145737855178735,
+      "st3_per_log": 0.3835296919256234,
+      "st4_per_log": 0.4125164295991965,
+      "st5_per_log": 0.36396448901201117,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_CCD24",
+      "label": "Genus_CCD24",
+      "level": "subcore",
+      "st3_per": 0.0011050476598469172,
+      "st4_per": 0.0008040301042509725,
+      "st5_per": 0.001231806512611383,
+      "st3_per_log": 0.29214588207304504,
+      "st4_per_log": 0.360197678381861,
+      "st5_per_log": 0.37400901728033015,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Adlerbacteria",
+      "label": "Genus_Candidatus_Adlerbacteria",
+      "level": "subcore",
+      "st3_per": 0.0006585446163977609,
+      "st4_per": 0.00024505922825138383,
+      "st5_per": 0.0006666666666666666,
+      "st3_per_log": 0.22677885492363511,
+      "st4_per_log": 0.2242417183000714,
+      "st5_per_log": 0.28887087914285653,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Caldilineaceae",
+      "label": "Genus_Caldilineaceae",
+      "level": "subcore",
+      "st3_per": 0.0008231807704972012,
+      "st4_per": 0.0003692567389354856,
+      "st5_per": 0.0004397859708275306,
+      "st3_per_log": 0.2549587377212835,
+      "st4_per_log": 0.2711562568928499,
+      "st5_per_log": 0.23118244625565484,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_CL500-3",
+      "label": "Genus_CL500-3",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00011748395061311672,
+      "st5_per": 0.0036118884032144962,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.14011455548605597,
+      "st5_per_log": 0.5231868374566631,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_C0119",
+      "label": "Genus_C0119",
+      "level": "subcore",
+      "st3_per": 0.0011915795048325168,
+      "st4_per": 0.0009262729524304684,
+      "st5_per": 0.0014910566158933575,
+      "st3_per_log": 0.30166673685012024,
+      "st4_per_log": 0.3763929115358156,
+      "st5_per_log": 0.4004960913974916,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Burkholderia-Caballeronia-Paraburkholderia",
+      "label": "Genus_Burkholderia-Caballeronia-Paraburkholderia",
+      "level": "subcore",
+      "st3_per": 0.0037162162162162164,
+      "st4_per": 0.001602026574349783,
+      "st5_per": 0.0006336633663366337,
+      "st3_per_log": 0.4453076289047871,
+      "st4_per_log": 0.439082878613347,
+      "st5_per_log": 0.28183010544600773,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Devosiaceae_unknown",
+      "label": "Genus_Devosiaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.006084358334158521,
+      "st4_per": 0.003266611968240687,
+      "st5_per": 0.0029661366070692923,
+      "st3_per_log": 0.5075685023705528,
+      "st4_per_log": 0.5206108947876179,
+      "st5_per_log": 0.49587226651409577,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Duganella",
+      "label": "Genus_Duganella",
+      "level": "subcore",
+      "st3_per": 0.0036013465904642604,
+      "st4_per": 0.0009463681869192398,
+      "st5_per": 0.0010790396547073105,
+      "st3_per_log": 0.44134248218427685,
+      "st4_per_log": 0.37884884725234547,
+      "st5_per_log": 0.3556472147861476,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Dyadobacter",
+      "label": "Genus_Dyadobacter",
+      "level": "subcore",
+      "st3_per": 0.0023098022231846397,
+      "st4_per": 0.0007882758685416332,
+      "st5_per": 0.0009583186097140801,
+      "st3_per_log": 0.3852531170903849,
+      "st4_per_log": 0.357933311510691,
+      "st5_per_log": 0.33919410664746535,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Dysgonomonas",
+      "label": "Genus_Dysgonomonas",
+      "level": "subcore",
+      "st3_per": 0.030457688508396443,
+      "st4_per": 0.0,
+      "st5_per": 0.0,
+      "st3_per_log": 0.710966733340934,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Dyella",
+      "label": "Genus_Dyella",
+      "level": "subcore",
+      "st3_per": 0.006756756756756757,
+      "st4_per": 0.002531837543060477,
+      "st5_per": 0.0007158272489509309,
+      "st3_per_log": 0.5208060088228726,
+      "st4_per_log": 0.4914537569994194,
+      "st5_per_log": 0.29873731432275347,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Cellvibrio",
+      "label": "Genus_Cellvibrio",
+      "level": "subcore",
+      "st3_per": 0.004994742376445847,
+      "st4_per": 0.0013303769401330377,
+      "st5_per": 0.0014945200929923613,
+      "st3_per_log": 0.4826478204834573,
+      "st4_per_log": 0.4178213657083134,
+      "st5_per_log": 0.4008178332868397,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Chitinimonas",
+      "label": "Genus_Chitinimonas",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0018853587589638624,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4577173070779029,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Chryseolinea",
+      "label": "Genus_Chryseolinea",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0009195909659383507,
+      "st5_per": 0.0008365655182903642,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.37556445521541076,
+      "st5_per_log": 0.3203517875161499,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Chitinophagaceae_unknown",
+      "label": "Genus_Chitinophagaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0011435105774728416,
+      "st4_per": 0.0006268346324109196,
+      "st5_per": 0.0037761266809728054,
+      "st3_per_log": 0.2964666932325481,
+      "st4_per_log": 0.3317104084157177,
+      "st5_per_log": 0.5293533765909259,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Coxiella",
+      "label": "Genus_Coxiella",
+      "level": "subcore",
+      "st3_per": 0.0005009254544709799,
+      "st4_per": 0.00035618878005342833,
+      "st5_per": 0.0013919645160150131,
+      "st3_per_log": 0.1922301944716122,
+      "st4_per_log": 0.26703327199050947,
+      "st5_per_log": 0.39095966547196925,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Vampirovibrionaceae",
+      "label": "Genus_Vampirovibrionaceae",
+      "level": "subcore",
+      "st3_per": 0.0006410309226174098,
+      "st4_per": 0.0002668613184518904,
+      "st5_per": 0.0010498754421733206,
+      "st3_per_log": 0.22337487214036403,
+      "st4_per_log": 0.23399431261653142,
+      "st5_per_log": 0.35184757515380627,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Caulobacter",
+      "label": "Genus_Caulobacter",
+      "level": "subcore",
+      "st3_per": 0.005591473003669404,
+      "st4_per": 0.0016324511501360375,
+      "st5_per": 0.0020973982268288616,
+      "st3_per_log": 0.49690005810160803,
+      "st4_per_log": 0.4412356354737763,
+      "st5_per_log": 0.44781322516975725,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Caulobacteraceae_uncultured",
+      "label": "Genus_Caulobacteraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0005242005940940067,
+      "st4_per": 0.0004123423951866285,
+      "st5_per": 0.0005461509142991269,
+      "st3_per_log": 0.19796573702930978,
+      "st4_per_log": 0.2837847326604854,
+      "st5_per_log": 0.26122010898991244,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_UTBCD1",
+      "label": "Genus_UTBCD1",
+      "level": "subcore",
+      "st3_per": 0.0014632524110409046,
+      "st4_per": 0.005095263385917905,
+      "st5_per": 0.004298850574712644,
+      "st3_per_log": 0.3276035729958141,
+      "st4_per_log": 0.5714807202762755,
+      "st5_per_log": 0.5473322347950939,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Undibacterium",
+      "label": "Genus_Undibacterium",
+      "level": "subcore",
+      "st3_per": 0.004456268706351845,
+      "st4_per": 0.0027356573393778334,
+      "st5_per": 0.0,
+      "st3_per_log": 0.46824187946514073,
+      "st4_per_log": 0.5003134960713312,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Unknown_Family",
+      "label": "Genus_Unknown_Family",
+      "level": "subcore",
+      "st3_per": 0.001397868250917351,
+      "st4_per": 0.0005981868549890525,
+      "st5_per": 0.000937890871104954,
+      "st3_per_log": 0.32183063579779764,
+      "st4_per_log": 0.3263575196185589,
+      "st5_per_log": 0.33620615127464415,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Tistrella",
+      "label": "Genus_Tistrella",
+      "level": "subcore",
+      "st3_per": 0.0014601836544602849,
+      "st4_per": 0.001347138897175019,
+      "st5_per": 0.0016932993903719176,
+      "st3_per_log": 0.3273384460691819,
+      "st4_per_log": 0.4192540818514076,
+      "st5_per_log": 0.4181345116528727,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Thioalkalispiraceae_uncultured",
+      "label": "Genus_Thioalkalispiraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0011915795048325168,
+      "st4_per": 0.0029231494692550757,
+      "st5_per": 0.0012052849992183166,
+      "st3_per_log": 0.30166673685012024,
+      "st4_per_log": 0.507898904623369,
+      "st5_per_log": 0.37099068577354477,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Terrimicrobium",
+      "label": "Genus_Terrimicrobium",
+      "level": "subcore",
+      "st3_per": 0.002718386524508876,
+      "st4_per": 0.0027141250823930828,
+      "st5_per": 0.0025546756316710975,
+      "st3_per_log": 0.4058221355444838,
+      "st4_per_log": 0.4994092753476352,
+      "st5_per_log": 0.4751634609318965,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Tepidisphaeraceae",
+      "label": "Genus_Tepidisphaeraceae",
+      "level": "subcore",
+      "st3_per": 0.0015887726731100226,
+      "st4_per": 0.00045525728030994267,
+      "st5_per": 0.0005074210326018013,
+      "st3_per_log": 0.337996924466703,
+      "st4_per_log": 0.29511408147950413,
+      "st5_per_log": 0.2510200886075564,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Woesebacteria",
+      "label": "Genus_Candidatus_Woesebacteria",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0002555670565234716,
+      "st5_per": 0.0009433062162508439,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.22904596071572642,
+      "st5_per_log": 0.3370045436304037,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Gemmataceae_uncultured",
+      "label": "Genus_Gemmataceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0012688447435297901,
+      "st5_per": 0.0003802570537683474,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4124025790473734,
+      "st5_per_log": 0.2110136824931832,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Ga0077536",
+      "label": "Genus_Ga0077536",
+      "level": "subcore",
+      "st3_per": 0.0009119213075206919,
+      "st4_per": 0.00011208879305914848,
+      "st5_per": 0.00025171982080127186,
+      "st3_per_log": 0.2678876192785892,
+      "st4_per_log": 0.1347352577261719,
+      "st5_per_log": 0.15380660703078247,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Fimbriimonadaceae",
+      "label": "Genus_Fimbriimonadaceae",
+      "level": "subcore",
+      "st3_per": 0.002242152466367713,
+      "st4_per": 0.001747578566985575,
+      "st5_per": 0.0011487650775416428,
+      "st3_per_log": 0.38149919612997824,
+      "st4_per_log": 0.4490337225770559,
+      "st5_per_log": 0.3643304032297445,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Flavihumibacter",
+      "label": "Genus_Flavihumibacter",
+      "level": "subcore",
+      "st3_per": 0.0015519072122845707,
+      "st4_per": 0.001062416155100407,
+      "st5_per": 0.0009089780639480191,
+      "st3_per_log": 0.33503208776096627,
+      "st4_per_log": 0.39208463733873977,
+      "st5_per_log": 0.33186391958413275,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Fodinicurvataceae_uncultured",
+      "label": "Genus_Fodinicurvataceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0007863008911410099,
+      "st4_per": 0.0007123775601068567,
+      "st5_per": 0.0005323598752756864,
+      "st3_per_log": 0.24917026056463235,
+      "st4_per_log": 0.3463486267680436,
+      "st5_per_log": 0.25767344951978044,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Fluviicola",
+      "label": "Genus_Fluviicola",
+      "level": "subcore",
+      "st3_per": 0.0010385351188849413,
+      "st4_per": 0.0014382740711146624,
+      "st5_per": 0.0009692705341757611,
+      "st3_per_log": 0.2843063967316099,
+      "st4_per_log": 0.42674462455452394,
+      "st5_per_log": 0.3407699170674317,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Frankiales",
+      "label": "Genus_Frankiales",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0003032743334330438,
+      "st5_per": 0.0006181965323690921,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.24863062913386888,
+      "st5_per_log": 0.27840328679494386,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Fusobacterium",
+      "label": "Genus_Fusobacterium",
+      "level": "subcore",
+      "st3_per": 0.07392163319064866,
+      "st4_per": 0.0,
+      "st5_per": 0.0,
+      "st3_per_log": 0.8229402757500602,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Haliangium",
+      "label": "Genus_Haliangium",
+      "level": "subcore",
+      "st3_per": 0.0024695423114916037,
+      "st4_per": 0.001161631621496464,
+      "st5_per": 0.0007491246303083696,
+      "st3_per_log": 0.3936979724085113,
+      "st4_per_log": 0.40230074389218656,
+      "st5_per_log": 0.30504231087048045,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Subgroup_10",
+      "label": "Genus_Subgroup_10",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0015532660107022765,
+      "st5_per": 0.001237453595490169,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4355459567838821,
+      "st5_per_log": 0.3746432978465101,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sulfuritalea",
+      "label": "Genus_Sulfuritalea",
+      "level": "subcore",
+      "st3_per": 0.0013578755900091007,
+      "st4_per": 0.001313152256548483,
+      "st5_per": 0.0,
+      "st3_per_log": 0.3181649369333504,
+      "st4_per_log": 0.416330168461022,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_TK10",
+      "label": "Genus_TK10",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00031942016528541643,
+      "st5_per": 0.00036648830902294216,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2545659548596043,
+      "st5_per_log": 0.20589928634517052,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Emticicia",
+      "label": "Genus_Emticicia",
+      "level": "subcore",
+      "st3_per": 0.001475351199752561,
+      "st4_per": 0.000799136249492606,
+      "st5_per": 0.0009528696034596496,
+      "st3_per_log": 0.3286434648497107,
+      "st4_per_log": 0.3594990670252228,
+      "st5_per_log": 0.3384033581935063,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_EV818SWSAP88",
+      "label": "Genus_EV818SWSAP88",
+      "level": "subcore",
+      "st3_per": 0.001971608832807571,
+      "st4_per": 0.0002942691091002722,
+      "st5_per": 0.00100336292003595,
+      "st3_per_log": 0.3652605412367235,
+      "st4_per_log": 0.24518141832018298,
+      "st5_per_log": 0.3455636912621826,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Fimbriiglobus",
+      "label": "Genus_Fimbriiglobus",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0014840465001236705,
+      "st5_per": 0.0010625110678236232,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.43032949470438914,
+      "st5_per_log": 0.3535065961099772,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_FCPU426",
+      "label": "Genus_FCPU426",
+      "level": "subcore",
+      "st3_per": 0.0013170892327955218,
+      "st4_per": 0.00034043041551400153,
+      "st5_per": 0.0006733078439771906,
+      "st3_per_log": 0.31431356607554034,
+      "st4_per_log": 0.26185539645779504,
+      "st5_per_log": 0.29024547623534475,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Gaiella",
+      "label": "Genus_Gaiella",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0006723269199553347,
+      "st5_per": 0.0014727928643176172,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.33972744788883036,
+      "st5_per_log": 0.39878701029991426,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Gemmatimonas",
+      "label": "Genus_Gemmatimonas",
+      "level": "subcore",
+      "st3_per": 0.0032406829897829157,
+      "st4_per": 0.0009549243343853686,
+      "st5_per": 0.0008034037326596875,
+      "st3_per_log": 0.4280163247067601,
+      "st4_per_log": 0.37987874488221546,
+      "st5_per_log": 0.31474279665914967,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Gemmata",
+      "label": "Genus_Gemmata",
+      "level": "subcore",
+      "st3_per": 0.008470822073056484,
+      "st4_per": 0.0014103379608293616,
+      "st5_per": 0.0006666666666666666,
+      "st3_per_log": 0.5493572989962568,
+      "st4_per_log": 0.42450018268676964,
+      "st5_per_log": 0.28887087914285653,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Stenotrophomonas",
+      "label": "Genus_Stenotrophomonas",
+      "level": "subcore",
+      "st3_per": 0.002394413036248753,
+      "st4_per": 0.0012648841976708684,
+      "st5_per": 0.0010276269530822325,
+      "st3_per_log": 0.38979640603499105,
+      "st4_per_log": 0.41204484765435073,
+      "st5_per_log": 0.3488772846950039,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Staphylococcus",
+      "label": "Genus_Staphylococcus",
+      "level": "subcore",
+      "st3_per": 0.019097793875535066,
+      "st4_per": 0.0,
+      "st5_per": 0.0,
+      "st3_per_log": 0.652020818113572,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Cupriavidus",
+      "label": "Genus_Cupriavidus",
+      "level": "subcore",
+      "st3_per": 0.008919579916558769,
+      "st4_per": 0.0018715449068922951,
+      "st5_per": 0.0027216317945311635,
+      "st3_per_log": 0.5558763397296086,
+      "st4_per_log": 0.45687581795842863,
+      "st5_per_log": 0.4839423729981855,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Dinghuibacter",
+      "label": "Genus_Dinghuibacter",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 3.452979057682015e-05,
+      "st5_per": 0.00928071292651915,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.6540540333548639,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_TRA3-20",
+      "label": "Genus_TRA3-20",
+      "level": "subcore",
+      "st3_per": 0.002777379275040595,
+      "st4_per": 0.0007851005364853666,
+      "st5_per": 0.0014603433103707094,
+      "st3_per_log": 0.4085334004162826,
+      "st4_per_log": 0.35747144240839557,
+      "st5_per_log": 0.3976098177634487,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Steroidobacteraceae_uncultured",
+      "label": "Genus_Steroidobacteraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0007090771841316307,
+      "st4_per": 0.0005338190496213767,
+      "st5_per": 0.00087536428118018,
+      "st3_per_log": 0.23611543757032546,
+      "st4_per_log": 0.3133303360049285,
+      "st5_per_log": 0.32663858727057776,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Steroidobacter",
+      "label": "Genus_Steroidobacter",
+      "level": "subcore",
+      "st3_per": 0.001965481235796327,
+      "st4_per": 0.001217346008414293,
+      "st5_per": 0.002636565872950482,
+      "st3_per_log": 0.36486744396130527,
+      "st4_per_log": 0.40766140338228585,
+      "st5_per_log": 0.4795388862073005,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Stella",
+      "label": "Genus_Stella",
+      "level": "subcore",
+      "st3_per": 0.001973966047783978,
+      "st4_per": 0.0004298890104736595,
+      "st5_per": 0.0006794312404875472,
+      "st3_per_log": 0.36541143586897756,
+      "st4_per_log": 0.2885532852112628,
+      "st5_per_log": 0.291500941314133,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Spiroplasma",
+      "label": "Genus_Spiroplasma",
+      "level": "subcore",
+      "st3_per": 0.0008021581541992108,
+      "st4_per": 0.00042909639849890565,
+      "st5_per": 0.0005346776657500764,
+      "st3_per_log": 0.2516917170273486,
+      "st4_per_log": 0.2883421129980646,
+      "st5_per_log": 0.25827589601769413,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sporichthya",
+      "label": "Genus_Sporichthya",
+      "level": "subcore",
+      "st3_per": 0.0012943700321344468,
+      "st4_per": 0.0013932237746659142,
+      "st5_per": 0.0015472668701175733,
+      "st3_per_log": 0.3121161839561205,
+      "st4_per_log": 0.4231031282516796,
+      "st5_per_log": 0.40562771059041275,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sporocytophaga",
+      "label": "Genus_Sporocytophaga",
+      "level": "subcore",
+      "st3_per": 0.0010200985653628168,
+      "st4_per": 0.0003244716884780634,
+      "st5_per": 0.0012139416305737283,
+      "st3_per_log": 0.2820443732300276,
+      "st4_per_log": 0.2563614330608525,
+      "st5_per_log": 0.3719831104382195,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Ramlibacter",
+      "label": "Genus_Ramlibacter",
+      "level": "subcore",
+      "st3_per": 0.0039277999153330976,
+      "st4_per": 0.00040973558152829616,
+      "st5_per": 0.0025541731894207793,
+      "st3_per_log": 0.4523005141052599,
+      "st4_per_log": 0.2830590274595886,
+      "st5_per_log": 0.4751361845709581,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Rhizobiales_Incertae_Sedis_uncultured",
+      "label": "Genus_Rhizobiales_Incertae_Sedis_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0016335865392469167,
+      "st4_per": 0.0007840313147914767,
+      "st5_per": 0.001846492665660658,
+      "st3_per_log": 0.3415097072827204,
+      "st4_per_log": 0.3573154978601266,
+      "st5_per_log": 0.4301448884909732,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Lautropia",
+      "label": "Genus_Lautropia",
+      "level": "subcore",
+      "st3_per": 0.0020114987355550817,
+      "st4_per": 0.001655263738689031,
+      "st5_per": 0.003177650524643342,
+      "st3_per_log": 0.3677900739471664,
+      "st4_per_log": 0.44282363070906816,
+      "st5_per_log": 0.5054243428566642,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Lechevalieria",
+      "label": "Genus_Lechevalieria",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.001270126621853994,
+      "st5_per": 0.035684783082211534,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4125181239640465,
+      "st5_per_log": 0.8408174970142778,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Legionella",
+      "label": "Genus_Legionella",
+      "level": "subcore",
+      "st3_per": 0.005004516900694858,
+      "st4_per": 0.0008845171246762418,
+      "st5_per": 0.0016479015885647015,
+      "st3_per_log": 0.48289471575621484,
+      "st4_per_log": 0.371114687840585,
+      "st5_per_log": 0.41436589225727183,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Roseiflexaceae_uncultured",
+      "label": "Genus_Roseiflexaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0014921661278288984,
+      "st4_per": 0.0006364793598836152,
+      "st5_per": 0.003671393321636111,
+      "st3_per_log": 0.33007463488975597,
+      "st4_per_log": 0.33345763366761333,
+      "st5_per_log": 0.5254528314007941,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_SBR1031",
+      "label": "Genus_SBR1031",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0006172404004430115,
+      "st5_per": 0.00283247909360669,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.32994545171283673,
+      "st5_per_log": 0.4894783154540667,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_SAR324_clade(Marine_group_B)",
+      "label": "Genus_SAR324_clade(Marine_group_B)",
+      "level": "subcore",
+      "st3_per": 0.0021654395842356,
+      "st4_per": 0.002982404725171495,
+      "st5_per": 0.0008499942449532063,
+      "st3_per_log": 0.37710281227145065,
+      "st4_per_log": 0.5101952785109513,
+      "st5_per_log": 0.32256012581023036,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_SM2D12",
+      "label": "Genus_SM2D12",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0013894191448893041,
+      "st5_per": 0.00025178391874443936,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4227902200118789,
+      "st5_per_log": 0.1538419143482262,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Latescibacterota",
+      "label": "Genus_Latescibacterota",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.000781616382679381,
+      "st5_per": 0.0016185594820609657,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.35696249921940976,
+      "st5_per_log": 0.41187446156205065,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_JGI_0001001-H03",
+      "label": "Genus_JGI_0001001-H03",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0011614139834018053,
+      "st5_per": 0.013741700011674771,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.40227930319088806,
+      "st5_per_log": 0.7084828976663858,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_KD4-96",
+      "label": "Genus_KD4-96",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0016339431639735057,
+      "st5_per": 0.0014731689449294272,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4413401715214189,
+      "st5_per_log": 0.3988224163240639,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_JG30-KF-CM45",
+      "label": "Genus_JG30-KF-CM45",
+      "level": "subcore",
+      "st3_per": 0.0003325573661456601,
+      "st4_per": 0.0004747586643456243,
+      "st5_per": 0.0003024620410138528,
+      "st3_per_log": 0.1404978194581839,
+      "st4_per_log": 0.2999136313709667,
+      "st5_per_log": 0.1792724805582259,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Isosphaeraceae_uncultured",
+      "label": "Genus_Isosphaeraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.002601300215897413,
+      "st4_per": 0.0007456419192038114,
+      "st5_per": 0.0014564231571281983,
+      "st3_per_log": 0.4002621323948859,
+      "st4_per_log": 0.3515708208571804,
+      "st5_per_log": 0.39723706147912424,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_LWQ8",
+      "label": "Genus_LWQ8",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0,
+      "st5_per": 0.004262669298159064,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.5461601502792282,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Kapabacteriales",
+      "label": "Genus_Kapabacteriales",
+      "level": "subcore",
+      "st3_per": 0.0011916501087039484,
+      "st4_per": 0.0017287857477730896,
+      "st5_per": 0.0008720517208010959,
+      "st3_per_log": 0.30167421936288635,
+      "st4_per_log": 0.44779654315142925,
+      "st5_per_log": 0.3261128226705987,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Lactobacillus",
+      "label": "Genus_Lactobacillus",
+      "level": "subcore",
+      "st3_per": 0.002662556053811659,
+      "st4_per": 0.0015335147167944597,
+      "st5_per": 0.0015779944641905897,
+      "st3_per_log": 0.4032014594058726,
+      "st4_per_log": 0.4340815642550393,
+      "st5_per_log": 0.4083546754369427,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Lactococcus",
+      "label": "Genus_Lactococcus",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00023971234518577707,
+      "st5_per": 0.00039297225133118905,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2217174067232036,
+      "st5_per_log": 0.2155748632653827,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_IMCC26134",
+      "label": "Genus_IMCC26134",
+      "level": "subcore",
+      "st3_per": 0.0015772870662460567,
+      "st4_per": 0.00041537065683639406,
+      "st5_per": 0.00018262338492443957,
+      "st3_per_log": 0.33708065843907514,
+      "st4_per_log": 0.28462202542181486,
+      "st5_per_log": 0.10930759653498473,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_IMCC26207",
+      "label": "Genus_IMCC26207",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00029810440668455294,
+      "st5_per": 0.00043030684187878585,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.24666315594088112,
+      "st5_per_log": 0.2281608018144712,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_IMCC26256",
+      "label": "Genus_IMCC26256",
+      "level": "subcore",
+      "st3_per": 0.0017892638816354943,
+      "st4_per": 0.0015712003249685523,
+      "st5_per": 0.002964128001935757,
+      "st3_per_log": 0.3530050534511345,
+      "st4_per_log": 0.43685959417433096,
+      "st5_per_log": 0.4957783279668615,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_IS-44",
+      "label": "Genus_IS-44",
+      "level": "subcore",
+      "st3_per": 0.003168415098348763,
+      "st4_per": 0.0016064034419553473,
+      "st5_per": 0.0029418051424694594,
+      "st3_per_log": 0.42516824781698426,
+      "st4_per_log": 0.4393950786246632,
+      "st5_per_log": 0.494730025292903,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Hyphomicrobiaceae_unknown",
+      "label": "Genus_Hyphomicrobiaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0014386419220256078,
+      "st4_per": 0.0005226875431943178,
+      "st5_per": 0.0007561329196718852,
+      "st3_per_log": 0.32546150181151784,
+      "st4_per_log": 0.31091898958387454,
+      "st5_per_log": 0.3063336124301477,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Hyphomicrobiaceae_uncultured",
+      "label": "Genus_Hyphomicrobiaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.004521587207350283,
+      "st4_per": 0.0030421149216283824,
+      "st5_per": 0.002481947005404771,
+      "st3_per_log": 0.470079501031252,
+      "st4_per_log": 0.512463586915747,
+      "st5_per_log": 0.4711583044743967,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Hydrogenophaga",
+      "label": "Genus_Hydrogenophaga",
+      "level": "subcore",
+      "st3_per": 0.0015787137067271926,
+      "st4_per": 0.0016471333544504276,
+      "st5_per": 0.0011407711613050423,
+      "st3_per_log": 0.3371948311490068,
+      "st4_per_log": 0.44226019487984497,
+      "st5_per_log": 0.36336204251409754,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Hydrogenedensaceae",
+      "label": "Genus_Hydrogenedensaceae",
+      "level": "subcore",
+      "st3_per": 0.0007445212036930311,
+      "st4_per": 0.0004994569857190148,
+      "st5_per": 0.0013568773957948737,
+      "st3_per_log": 0.2422752780631517,
+      "st4_per_log": 0.30571682699841324,
+      "st5_per_log": 0.3874193262576435,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sphingobacteriaceae_unknown",
+      "label": "Genus_Sphingobacteriaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00028617320809315547,
+      "st5_per": 0.0010743313488505019,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.24198917422053629,
+      "st5_per_log": 0.35504079993962645,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sphingomonadaceae_unknown",
+      "label": "Genus_Sphingomonadaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.005329372706622401,
+      "st4_per": 0.0033584856282985126,
+      "st5_per": 0.002357593733363754,
+      "st3_per_log": 0.4908371709515633,
+      "st4_per_log": 0.5237847593135809,
+      "st5_per_log": 0.4640302337264552,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sphingomonas",
+      "label": "Genus_Sphingomonas",
+      "level": "core",
+      "st3_per": 0.006889096193194682,
+      "st4_per": 0.002657495701109895,
+      "st5_per": 0.0032080659945004585,
+      "st3_per_log": 0.5232555629919605,
+      "st4_per_log": 0.49699651399925304,
+      "st5_per_log": 0.5067453692836196,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Spirochaeta_2",
+      "label": "Genus_Spirochaeta_2",
+      "level": "subcore",
+      "st3_per": 0.00391175739014396,
+      "st4_per": 0.00024957001061948897,
+      "st5_per": 0.0007524752475247525,
+      "st3_per_log": 0.45178366158936895,
+      "st4_per_log": 0.22632883116354396,
+      "st5_per_log": 0.30566117404227267,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Singulisphaera",
+      "label": "Genus_Singulisphaera",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00033246522967806286,
+      "st5_per": 0.0009226303598558676,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.25914626370759575,
+      "st5_per_log": 0.33393122399041963,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Solitalea",
+      "label": "Genus_Solitalea",
+      "level": "subcore",
+      "st3_per": 0.005076303324798536,
+      "st4_per": 0.00060371195783119,
+      "st5_per": 0.0,
+      "st3_per_log": 0.48469333248839447,
+      "st4_per_log": 0.32740957190616954,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Simkaniaceae_uncultured",
+      "label": "Genus_Simkaniaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.001328591393836235,
+      "st4_per": 0.0006997014346192844,
+      "st5_per": 0.0007381056053702884,
+      "st3_per_log": 0.3154116349984577,
+      "st4_per_log": 0.3442941510665426,
+      "st5_per_log": 0.30298738465115277,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sericytochromatia",
+      "label": "Genus_Sericytochromatia",
+      "level": "subcore",
+      "st3_per": 0.0013170892327955218,
+      "st4_per": 0.00036657471007599295,
+      "st5_per": 0.0006455182589450387,
+      "st3_per_log": 0.31431356607554034,
+      "st4_per_log": 0.27032209791119927,
+      "st5_per_log": 0.2844005081674556,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_unknown_167_rockwool",
+      "label": "Genus_unknown_167_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0005180249122889637,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.30989365643739564,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Phaselicystis",
+      "label": "Genus_Phaselicystis",
+      "level": "subcore",
+      "st3_per": 0.0014127311390992985,
+      "st4_per": 0.0004765812623554244,
+      "st5_per": 0.000689655172413793,
+      "st3_per_log": 0.3231662872748561,
+      "st4_per_log": 0.30035207877681774,
+      "st5_per_log": 0.29357212438945385,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_AKYG587",
+      "label": "Genus_AKYG587",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00015899042206031098,
+      "st5_per": 0.0002959956023510508,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.17473381792701978,
+      "st5_per_log": 0.17627558247865818,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_unknown_159_rockwool",
+      "label": "Genus_unknown_159_rockwool",
+      "level": "subcore",
+      "st3_per": 0.041132962281713314,
+      "st4_per": 0.0039849976558837315,
+      "st5_per": 0.0008559405442528007,
+      "st3_per_log": 0.748912025494527,
+      "st4_per_log": 0.5433572523880603,
+      "st5_per_log": 0.32352686522328755,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Aeromonas",
+      "label": "Genus_Aeromonas",
+      "level": "subcore",
+      "st3_per": 0.008821367311933349,
+      "st4_per": 0.00015174196807689512,
+      "st5_per": 0.0,
+      "st3_per_log": 0.5544781062429448,
+      "st4_per_log": 0.16939433184867958,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Alkanibacter",
+      "label": "Genus_Alkanibacter",
+      "level": "subcore",
+      "st3_per": 0.007882882882882882,
+      "st4_per": 0.0007602153943617358,
+      "st5_per": 0.0014970595739301556,
+      "st3_per_log": 0.5402730651869314,
+      "st4_per_log": 0.35378572363392613,
+      "st5_per_log": 0.4010532665463829,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Aeromicrobium",
+      "label": "Genus_Aeromicrobium",
+      "level": "subcore",
+      "st3_per": 0.001989554837105198,
+      "st4_per": 0.0022475564357355665,
+      "st5_per": 0.003072069080039854,
+      "st3_per_log": 0.3664048225063386,
+      "st4_per_log": 0.4778251983284515,
+      "st5_per_log": 0.5007384569022246,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Parvibaculum",
+      "label": "Genus_Parvibaculum",
+      "level": "subcore",
+      "st3_per": 0.0015527342964558337,
+      "st4_per": 0.0005124018941830503,
+      "st5_per": 0.001328462304882099,
+      "st3_per_log": 0.3350993735109617,
+      "st4_per_log": 0.30864478293736014,
+      "st5_per_log": 0.3844844529800445,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Abditibacterium",
+      "label": "Genus_Abditibacterium",
+      "level": "subcore",
+      "st3_per": 0.0005973528116639972,
+      "st4_per": 0.0005714200737222527,
+      "st5_per": 0.00018326571545072552,
+      "st3_per_log": 0.21446290392324244,
+      "st4_per_log": 0.3211191774980189,
+      "st5_per_log": 0.10979448878578499,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Acidibacter",
+      "label": "Genus_Acidibacter",
+      "level": "subcore",
+      "st3_per": 0.0010244919129524948,
+      "st4_per": 0.0006819852756339102,
+      "st5_per": 0.0015813028779646248,
+      "st3_per_log": 0.28258709186871545,
+      "st4_per_log": 0.34135957347818474,
+      "st5_per_log": 0.4086451130129933,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Paracoccus",
+      "label": "Genus_Paracoccus",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00044521395003710115,
+      "st5_per": 0.0010378611756891398,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2925614523667261,
+      "st5_per_log": 0.3502515134658711,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Parcubacteria",
+      "label": "Genus_Parcubacteria",
+      "level": "subcore",
+      "st3_per": 0.00625207848353841,
+      "st4_per": 0.0014341683447071979,
+      "st5_per": 0.0002520666262522691,
+      "st3_per_log": 0.5110025562078252,
+      "st4_per_log": 0.4264175093156744,
+      "st5_per_log": 0.1539975320444547,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Parabacteroides",
+      "label": "Genus_Parabacteroides",
+      "level": "subcore",
+      "st3_per": 0.24366150806717154,
+      "st4_per": 0.0,
+      "st5_per": 0.0,
+      "st3_per_log": 0.9735708667966495,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Pandoraea",
+      "label": "Genus_Pandoraea",
+      "level": "subcore",
+      "st3_per": 0.0029127499007017077,
+      "st4_per": 0.0003616367105088767,
+      "st5_per": 0.000560699998975595,
+      "st3_per_log": 0.41454332611475364,
+      "st4_per_log": 0.26877020401750756,
+      "st5_per_log": 0.2648659261498854,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Pirellulaceae_uncultured",
+      "label": "Genus_Pirellulaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0009878169245966415,
+      "st4_per": 0.0017502962945521046,
+      "st5_per": 0.0014436958614051972,
+      "st3_per_log": 0.2779833784589577,
+      "st4_per_log": 0.44921153559144844,
+      "st5_per_log": 0.3960199049626231,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Pirellula",
+      "label": "Genus_Pirellula",
+      "level": "subcore",
+      "st3_per": 0.0037968048679424674,
+      "st4_per": 0.0008767776667192733,
+      "st5_per": 0.000697907465799588,
+      "st3_per_log": 0.44801695186334844,
+      "st4_per_log": 0.370109046552487,
+      "st5_per_log": 0.2952216175129017,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Oxalobacteraceae_unknown",
+      "label": "Genus_Oxalobacteraceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.001676229709433857,
+      "st4_per": 0.0015586317024206752,
+      "st5_per": 0.0009504950495049505,
+      "st3_per_log": 0.3447639839269974,
+      "st4_per_log": 0.43594056183465046,
+      "st5_per_log": 0.3380573522219109,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_PAUC26f",
+      "label": "Genus_PAUC26f",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0004452359750667854,
+      "st5_per": 0.0004779033663475401,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.29256711304935623,
+      "st5_per_log": 0.24270903514644657,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_PB19",
+      "label": "Genus_PB19",
+      "level": "subcore",
+      "st3_per": 0.004127262344421009,
+      "st4_per": 0.0011835486734391952,
+      "st5_per": 0.0009587727708533077,
+      "st3_per_log": 0.4585560688550927,
+      "st4_per_log": 0.4044395940024487,
+      "st5_per_log": 0.33925981044791514,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Pseudorhodoferax",
+      "label": "Genus_Pseudorhodoferax",
+      "level": "subcore",
+      "st3_per": 0.0051635111876075735,
+      "st4_per": 0.0006380567178741831,
+      "st5_per": 0.001470841809042616,
+      "st3_per_log": 0.4868444240254105,
+      "st4_per_log": 0.33374086426236427,
+      "st5_per_log": 0.39860318340397943,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Opitutus",
+      "label": "Genus_Opitutus",
+      "level": "subcore",
+      "st3_per": 0.0009976720984369804,
+      "st4_per": 0.00046157065056605287,
+      "st5_per": 0.00046911414289045215,
+      "st3_per_log": 0.2792370541454118,
+      "st4_per_log": 0.2966900302467423,
+      "st5_per_log": 0.24013491807981607,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Opitutaceae_unknown",
+      "label": "Genus_Opitutaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0014563749503508539,
+      "st4_per": 0.0002344849148038143,
+      "st5_per": 0.0003596366635384245,
+      "st3_per_log": 0.32700861496284844,
+      "st4_per_log": 0.21919445688174663,
+      "st5_per_log": 0.20328218990237534,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Ohtaekwangia",
+      "label": "Genus_Ohtaekwangia",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0014014236994003152,
+      "st5_per": 0.0026480390814043737,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.423774628048888,
+      "st5_per_log": 0.48014102466474284,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_RBG-13-54-9",
+      "label": "Genus_RBG-13-54-9",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0001456664238892935,
+      "st5_per": 0.0006482581124932113,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.1647185505000582,
+      "st5_per_log": 0.2849878515905033,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_PLTA13",
+      "label": "Genus_PLTA13",
+      "level": "subcore",
+      "st3_per": 0.0007081319718490678,
+      "st4_per": 0.004064405189932781,
+      "st5_per": 0.005924315123908912,
+      "st3_per_log": 0.23594698396554808,
+      "st4_per_log": 0.545614992460268,
+      "st5_per_log": 0.5918072257004686,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Phaeodactylibacter",
+      "label": "Genus_Phaeodactylibacter",
+      "level": "subcore",
+      "st3_per": 0.003647517201359529,
+      "st4_per": 0.0013299494154610976,
+      "st5_per": 0.0010337820729930847,
+      "st3_per_log": 0.4429512241543893,
+      "st4_per_log": 0.41778458771115157,
+      "st5_per_log": 0.3497054117284782,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Paludibaculum",
+      "label": "Genus_Paludibaculum",
+      "level": "subcore",
+      "st3_per": 0.004545175357779006,
+      "st4_per": 0.0009183992496482726,
+      "st5_per": 0.0007377351530800443,
+      "st3_per_log": 0.470736594973335,
+      "st4_per_log": 0.37541606968703994,
+      "st5_per_log": 0.30291776752045063,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Paenarthrobacter",
+      "label": "Genus_Paenarthrobacter",
+      "level": "subcore",
+      "st3_per": 0.0030578367988817056,
+      "st4_per": 0.0009588493807431083,
+      "st5_per": 0.00076002343923713,
+      "st3_per_log": 0.4206820984948273,
+      "st4_per_log": 0.3803481162782718,
+      "st5_per_log": 0.3070452975602869,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Rhodocyclaceae_unknown",
+      "label": "Genus_Rhodocyclaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0013487386452659387,
+      "st4_per": 0.0008702016384960663,
+      "st5_per": 0.002215093186678888,
+      "st3_per_log": 0.3173123059225821,
+      "st4_per_log": 0.3692475773319355,
+      "st5_per_log": 0.455384357010425,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Rhodocyclaceae_uncultured",
+      "label": "Genus_Rhodocyclaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00034265072276071945,
+      "st5_per": 0.0006665641183407681,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2625992785745826,
+      "st5_per_log": 0.2888495464063475,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Rhodanobacteraceae_unknown",
+      "label": "Genus_Rhodanobacteraceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0008967663659861792,
+      "st5_per": 0.00039603960396039607,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3726884706571527,
+      "st5_per_log": 0.21665307906641554,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Rhodanobacter",
+      "label": "Genus_Rhodanobacter",
+      "level": "subcore",
+      "st3_per": 0.006306268462598386,
+      "st4_per": 0.0011085497246687138,
+      "st5_per": 0.0050702548796266326,
+      "st3_per_log": 0.5120924245540966,
+      "st4_per_log": 0.39694861141861054,
+      "st5_per_log": 0.5702193743789906,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Neisseriaceae_uncultured",
+      "label": "Genus_Neisseriaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0007370554634236226,
+      "st4_per": 0.00036889652844820144,
+      "st5_per": 0.000576748784707918,
+      "st3_per_log": 0.2410025451928174,
+      "st4_per_log": 0.2710445778593866,
+      "st5_per_log": 0.2687794003642833,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Morganellaceae_unknown",
+      "label": "Genus_Morganellaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.03572604543957853,
+      "st4_per": 0.0,
+      "st5_per": 0.0,
+      "st3_per_log": 0.7311145778425661,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Methylotenera",
+      "label": "Genus_Methylotenera",
+      "level": "subcore",
+      "st3_per": 0.0023426994328727144,
+      "st4_per": 0.0015668508477434673,
+      "st5_per": 0.002205490911856415,
+      "st3_per_log": 0.3870390477880203,
+      "st4_per_log": 0.4365423898322283,
+      "st5_per_log": 0.4547819105125112,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Micromonosporaceae_unknown",
+      "label": "Genus_Micromonosporaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.013363671682058043,
+      "st5_per": 0.001153497569415836,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.6818153438103297,
+      "st5_per_log": 0.36490051360929443,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Micropepsaceae_unknown",
+      "label": "Genus_Micropepsaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.001463963963963964,
+      "st4_per": 0.0004570186018352407,
+      "st5_per": 0.0004367816091954023,
+      "st3_per_log": 0.3276649685928937,
+      "st4_per_log": 0.29555593141358355,
+      "st5_per_log": 0.23023185934439677,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_NS9_marine_group",
+      "label": "Genus_NS9_marine_group",
+      "level": "subcore",
+      "st3_per": 0.001397868250917351,
+      "st4_per": 0.0025207128341410037,
+      "st5_per": 0.001780578003013286,
+      "st3_per_log": 0.32183063579779764,
+      "st4_per_log": 0.49094986146270464,
+      "st5_per_log": 0.4251041152696538,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Mycobacterium",
+      "label": "Genus_Mycobacterium",
+      "level": "subcore",
+      "st3_per": 0.0005162848740169521,
+      "st4_per": 0.0005268232585938249,
+      "st5_per": 0.0007083407118824154,
+      "st3_per_log": 0.19604420501184194,
+      "st4_per_log": 0.3118208260371097,
+      "st5_per_log": 0.297279349334074,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sandaracinus",
+      "label": "Genus_Sandaracinus",
+      "level": "subcore",
+      "st3_per": 0.0011347648620153362,
+      "st4_per": 0.00021291753001508357,
+      "st5_per": 0.00015684229379352485,
+      "st3_per_log": 0.2954971301161146,
+      "st4_per_log": 0.20815372958739617,
+      "st5_per_log": 0.08820354596755395,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_MM2",
+      "label": "Genus_MM2",
+      "level": "subcore",
+      "st3_per": 0.009533283594462406,
+      "st4_per": 0.0,
+      "st5_per": 0.0,
+      "st3_per_log": 0.5642794486660518,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Saprospiraceae_uncultured",
+      "label": "Genus_Saprospiraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.004591784278155555,
+      "st4_per": 0.0022032161012771785,
+      "st5_per": 0.0014945200929923613,
+      "st3_per_log": 0.4720250104755672,
+      "st4_per_log": 0.47554517264450114,
+      "st5_per_log": 0.4008178332868397,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Limnobacter",
+      "label": "Genus_Limnobacter",
+      "level": "subcore",
+      "st3_per": 0.005734034453305573,
+      "st4_per": 0.001052806560647199,
+      "st5_per": 0.0016237623762376237,
+      "st3_per_log": 0.5000795096376268,
+      "st4_per_log": 0.3910449236743018,
+      "st5_per_log": 0.41231951541789447,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Lysobacter",
+      "label": "Genus_Lysobacter",
+      "level": "subcore",
+      "st3_per": 0.0018882368831905035,
+      "st4_per": 0.0021455731882571286,
+      "st5_per": 0.0027990362717719925,
+      "st3_per_log": 0.3598041889395918,
+      "st4_per_log": 0.4725115273745457,
+      "st5_per_log": 0.48783126814533573,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_MND1",
+      "label": "Genus_MND1",
+      "level": "subcore",
+      "st3_per": 0.002487928009101496,
+      "st4_per": 0.0014335363995862413,
+      "st5_per": 0.002198929854137653,
+      "st3_per_log": 0.3946346859937919,
+      "st4_per_log": 0.4263670772516113,
+      "st5_per_log": 0.45436875961109585,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_MBNT15",
+      "label": "Genus_MBNT15",
+      "level": "subcore",
+      "st3_per": 0.0005242005940940067,
+      "st4_per": 0.002110038508202775,
+      "st5_per": 0.00111059620936983,
+      "st3_per_log": 0.19796573702930978,
+      "st4_per_log": 0.4706005202099119,
+      "st5_per_log": 0.3596445547003359,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Methylophilus",
+      "label": "Genus_Methylophilus",
+      "level": "subcore",
+      "st3_per": 0.002102017937219731,
+      "st4_per": 0.0011223873099594213,
+      "st5_per": 0.0009054205412301962,
+      "st3_per_log": 0.373348891311044,
+      "st4_per_log": 0.3983681276833144,
+      "st5_per_log": 0.3313201200115054,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Massilia",
+      "label": "Genus_Massilia",
+      "level": "core",
+      "st3_per": 0.006063230835859679,
+      "st4_per": 0.0006731631842536762,
+      "st5_per": 0.001595987824774893,
+      "st3_per_log": 0.5071292205250888,
+      "st4_per_log": 0.3398696889259154,
+      "st5_per_log": 0.4099269767001262,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Nitrospira",
+      "label": "Genus_Nitrospira",
+      "level": "subcore",
+      "st3_per": 0.0011357679538703477,
+      "st4_per": 0.0008796259447584385,
+      "st5_per": 0.0019873990443570553,
+      "st3_per_log": 0.2956087130526948,
+      "st4_per_log": 0.3704801715831145,
+      "st5_per_log": 0.4403427661382024,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Nitrosospira",
+      "label": "Genus_Nitrosospira",
+      "level": "subcore",
+      "st3_per": 0.0013068692313975333,
+      "st4_per": 0.0015797320379530623,
+      "st5_per": 0.0017302463541237537,
+      "st3_per_log": 0.313329824485072,
+      "st4_per_log": 0.4374792635351258,
+      "st5_per_log": 0.4211277603851975,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Pseudomonas",
+      "label": "Genus_Pseudomonas",
+      "level": "core",
+      "st3_per": 0.02601251234771156,
+      "st4_per": 0.0024450777907285624,
+      "st5_per": 0.0021342234148978034,
+      "st3_per_log": 0.6910437707283534,
+      "st4_per_log": 0.4874638400577952,
+      "st5_per_log": 0.45022686483415686,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Pir4_lineage",
+      "label": "Genus_Pir4_lineage",
+      "level": "subcore",
+      "st3_per": 0.0007460830639144492,
+      "st4_per": 0.0006643739252774738,
+      "st5_per": 0.0006844626967830253,
+      "st3_per_log": 0.24253992373785077,
+      "st4_per_log": 0.33836580444418474,
+      "st5_per_log": 0.2925240891795706,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Obscuribacteraceae",
+      "label": "Genus_Obscuribacteraceae",
+      "level": "subcore",
+      "st3_per": 0.0024456912674435333,
+      "st4_per": 0.0005800495686983603,
+      "st5_per": 0.0005105609945082045,
+      "st3_per_log": 0.39247236471114805,
+      "st4_per_log": 0.3228343303283473,
+      "st5_per_log": 0.2518755668585204,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Phenylobacterium",
+      "label": "Genus_Phenylobacterium",
+      "level": "subcore",
+      "st3_per": 0.001388548558359879,
+      "st4_per": 0.0014407011234838672,
+      "st5_per": 0.002256311670881087,
+      "st3_per_log": 0.3209858590304454,
+      "st4_per_log": 0.4269375560510383,
+      "st5_per_log": 0.4579410798497418,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Novispirillum",
+      "label": "Genus_Novispirillum",
+      "level": "subcore",
+      "st3_per": 0.002431624842719372,
+      "st4_per": 0.0008014247551202137,
+      "st5_per": 0.00041379310344827585,
+      "st3_per_log": 0.39174393296617704,
+      "st4_per_log": 0.3598262885430136,
+      "st5_per_log": 0.22273417105492707,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Phycisphaeraceae_uncultured",
+      "label": "Genus_Phycisphaeraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.00043159257660768235,
+      "st4_per": 0.00020857016452309333,
+      "st5_per": 0.0006704299710053046,
+      "st3_per_log": 0.17341672024538163,
+      "st4_per_log": 0.2057931510108903,
+      "st5_per_log": 0.28965148358410103,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Niastella",
+      "label": "Genus_Niastella",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0028438260522861683,
+      "st5_per": 0.005201065584168464,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.5047508482385532,
+      "st5_per_log": 0.5737517250694654,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Niabella",
+      "label": "Genus_Niabella",
+      "level": "subcore",
+      "st3_per": 0.001378777618922324,
+      "st4_per": 0.001060562679644146,
+      "st5_per": 0.0013258081349042871,
+      "st3_per_log": 0.3200940690008725,
+      "st4_per_log": 0.39188483383893424,
+      "st5_per_log": 0.384207116478154,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Solibacter",
+      "label": "Genus_Candidatus_Solibacter",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0,
+      "st5_per": 0.01092527650391152,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.6766773151347714,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Amphiplicatus",
+      "label": "Genus_Amphiplicatus",
+      "level": "subcore",
+      "st3_per": 0.00010931948619841486,
+      "st4_per": 0.0003319623243599898,
+      "st5_per": 0.005306225378729509,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2589730427311402,
+      "st5_per_log": 0.5765275802069483,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Rhodothermaceae_uncultured",
+      "label": "Genus_Rhodothermaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0,
+      "st5_per": 0.04426522568275192,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.8706981651794319,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Chelativorans",
+      "label": "Genus_Chelativorans",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0017835031843773975,
+      "st5_per": 0.0028715168252730315,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.45136214176545153,
+      "st5_per_log": 0.49137648707414017,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Candidatus_Protochlamydia",
+      "label": "Genus_Candidatus_Protochlamydia",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0009380593106702808,
+      "st5_per": 0.008955423377664907,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3778397628851713,
+      "st5_per_log": 0.6491062955733047,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Zixibacteria",
+      "label": "Genus_Zixibacteria",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 8.130695116356055e-05,
+      "st5_per": 0.0017591438833101224,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.09799706449184259,
+      "st5_per_log": 0.423424672745677,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Pantoea",
+      "label": "Genus_Pantoea",
+      "level": "subcore",
+      "st3_per": 0.007737899242673691,
+      "st4_per": 0.0,
+      "st5_per": 0.0048556784461828975,
+      "st3_per_log": 0.5379287633190194,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.564222821582965,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_OM60(NOR5)_clade",
+      "label": "Genus_OM60(NOR5)_clade",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0,
+      "st5_per": 0.005012363830782597,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.5686269230297606,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Polycyclovorans",
+      "label": "Genus_Polycyclovorans",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0,
+      "st5_per": 0.010036769139733472,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.6649145077578068,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_unknown_19_rockwool",
+      "label": "Genus_unknown_19_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0012204693217506793,
+      "st5_per": 0.000380565774451351,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4079546120436976,
+      "st5_per_log": 0.21112622213844845,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Actinoplanes",
+      "label": "Genus_Actinoplanes",
+      "level": "subcore",
+      "st3_per": 0.0009383571531687599,
+      "st4_per": 0.00018056918234804058,
+      "st5_per": 0.0027689614458448904,
+      "st3_per_log": 0.2714964831933769,
+      "st4_per_log": 0.18929705559053,
+      "st5_per_log": 0.48633319981173523,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Microscillaceae_unknown",
+      "label": "Genus_Microscillaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00012274887334069826,
+      "st5_per": 0.0069504778453518675,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.1451309421765782,
+      "st5_per_log": 0.6139596612367745,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_unknown_52_rockwool",
+      "label": "Genus_unknown_52_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0004395362892148783,
+      "st5_per": 0.0007963973594736385,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.29109280840729684,
+      "st5_per_log": 0.3135281404344157,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Rhodopseudomonas",
+      "label": "Genus_Rhodopseudomonas",
+      "level": "subcore",
+      "st3_per": 0.003441756503146715,
+      "st4_per": 0.0005860290670417253,
+      "st5_per": 0.00234552517774683,
+      "st3_per_log": 0.4356184634289934,
+      "st4_per_log": 0.32400788283068294,
+      "st5_per_log": 0.46331853921478505,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Luteibacter",
+      "label": "Genus_Luteibacter",
+      "level": "subcore",
+      "st3_per": 0.02074737396018749,
+      "st4_per": 0.0031675641431738993,
+      "st5_per": 0.000367816091954023,
+      "st3_per_log": 0.6624832076213004,
+      "st4_per_log": 0.517087607030436,
+      "st5_per_log": 0.20640079074813183,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Hephaestia",
+      "label": "Genus_Hephaestia",
+      "level": "subcore",
+      "st3_per": 0.006196262250456119,
+      "st4_per": 0.0005103274538251791,
+      "st5_per": 0.0,
+      "st3_per_log": 0.5098700598749929,
+      "st4_per_log": 0.308180585609845,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Micrococcaceae_unknown",
+      "label": "Genus_Micrococcaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.002220286210705072,
+      "st4_per": 0.0002593242600461414,
+      "st5_per": 0.0,
+      "st3_per_log": 0.38026156713871967,
+      "st4_per_log": 0.23071596916132592,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Mucilaginibacter",
+      "label": "Genus_Mucilaginibacter",
+      "level": "subcore",
+      "st3_per": 0.0019734948514550186,
+      "st4_per": 0.0017007146827264811,
+      "st5_per": 0.0004228508605015011,
+      "st3_per_log": 0.36538128714740437,
+      "st4_per_log": 0.44592327679324767,
+      "st5_per_log": 0.22573692869707207,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Neochlamydia",
+      "label": "Genus_Neochlamydia",
+      "level": "subcore",
+      "st3_per": 0.003006285870456409,
+      "st4_per": 0.0005152212499436788,
+      "st5_per": 0.0006591414682376205,
+      "st3_per_log": 0.41853494143673725,
+      "st4_per_log": 0.3092726661899993,
+      "st5_per_log": 0.28729665971727836,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Acetobacteraceae_unknown",
+      "label": "Genus_Acetobacteraceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0010135135135135136,
+      "st4_per": 0.00011293292205596781,
+      "st5_per": 0.0002871912693854107,
+      "st3_per_log": 0.2812265161048312,
+      "st4_per_log": 0.1355937734060357,
+      "st5_per_log": 0.17208817673972238,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Pseudaminobacter",
+      "label": "Genus_Pseudaminobacter",
+      "level": "subcore",
+      "st3_per": 0.023964198065540638,
+      "st4_per": 0.0004489447817302595,
+      "st5_per": 0.0012762304875541686,
+      "st3_per_log": 0.6806862188396283,
+      "st4_per_log": 0.29351634679996536,
+      "st5_per_log": 0.37892207908373005,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Nubsella",
+      "label": "Genus_Nubsella",
+      "level": "subcore",
+      "st3_per": 0.0031839773804773815,
+      "st4_per": 0.0,
+      "st5_per": 0.0009165902841429881,
+      "st3_per_log": 0.42578700701507655,
+      "st4_per_log": 0.0,
+      "st5_per_log": 0.33302040214659234,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Variovorax",
+      "label": "Genus_Variovorax",
+      "level": "subcore",
+      "st3_per": 0.0023503689532659196,
+      "st4_per": 0.0025436248977718243,
+      "st5_per": 0.0019936752371786056,
+      "st3_per_log": 0.3874518067847067,
+      "st4_per_log": 0.49198525706331514,
+      "st5_per_log": 0.4407800059344396,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Chitinophaga",
+      "label": "Genus_Chitinophaga",
+      "level": "subcore",
+      "st3_per": 0.00568051794426813,
+      "st4_per": 0.0001438741274034173,
+      "st5_per": 0.0018332278282002555,
+      "st3_per_log": 0.49889533185198054,
+      "st4_per_log": 0.16330188339650994,
+      "st5_per_log": 0.42914509038642795,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Cytophaga",
+      "label": "Genus_Cytophaga",
+      "level": "subcore",
+      "st3_per": 0.0009890304686282635,
+      "st4_per": 0.00018991384817251085,
+      "st5_per": 0.000695111052265731,
+      "st3_per_log": 0.2781384268580755,
+      "st4_per_log": 0.1950706913833023,
+      "st5_per_log": 0.29466485701364686,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_DEV008",
+      "label": "Genus_DEV008",
+      "level": "subcore",
+      "st3_per": 0.00098015192354815,
+      "st4_per": 0.0014316321593949627,
+      "st5_per": 0.0006084112860293558,
+      "st3_per_log": 0.2769996368684894,
+      "st4_per_log": 0.4262149757785168,
+      "st5_per_log": 0.27619070887277547,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Babeliales",
+      "label": "Genus_Babeliales",
+      "level": "subcore",
+      "st3_per": 0.002157508413986367,
+      "st4_per": 0.0003863914433929324,
+      "st5_per": 0.0010790396547073105,
+      "st3_per_log": 0.37663942661560057,
+      "st4_per_log": 0.27634656612537983,
+      "st5_per_log": 0.3556472147861476,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Fibrisoma",
+      "label": "Genus_Fibrisoma",
+      "level": "subcore",
+      "st3_per": 0.0027401550144836766,
+      "st4_per": 0.00013678286696889168,
+      "st5_per": 0.0011979649672256626,
+      "st3_per_log": 0.4068293891358243,
+      "st4_per_log": 0.15751823590234776,
+      "st5_per_log": 0.37014591534284247,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Gloeobacter_PCC-7421",
+      "label": "Genus_Gloeobacter_PCC-7421",
+      "level": "subcore",
+      "st3_per": 0.009545647099512335,
+      "st4_per": 0.0005146728169134454,
+      "st5_per": 0.0,
+      "st3_per_log": 0.5644431199459466,
+      "st4_per_log": 0.3091507972893182,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Thiobacillus",
+      "label": "Genus_Thiobacillus",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.002423010786306081,
+      "st5_per": 0.000977400476195014,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.48642643182384615,
+      "st5_per_log": 0.341928216219664,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Beijerinckiaceae",
+      "label": "Genus_Beijerinckiaceae",
+      "level": "subcore",
+      "st3_per": 0.0014968150581358129,
+      "st4_per": 0.00038558266144115834,
+      "st5_per": 0.0002039401231798344,
+      "st3_per_log": 0.330467474292468,
+      "st4_per_log": 0.27610679842200275,
+      "st5_per_log": 0.12461720272674197,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_unknown_46_rockwool",
+      "label": "Genus_unknown_46_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00019358598020618835,
+      "st5_per": 0.0013274868529063824,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.1972621243644789,
+      "st5_per_log": 0.38438259161738475,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Kribbella",
+      "label": "Genus_Kribbella",
+      "level": "subcore",
+      "st3_per": 0.0005480310028967353,
+      "st4_per": 0.0009103738790291557,
+      "st5_per": 0.0026317203811995057,
+      "st3_per_log": 0.20358008403436548,
+      "st4_per_log": 0.37441175489412026,
+      "st5_per_log": 0.4792837970828291,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Acanthopleuribacter",
+      "label": "Genus_Acanthopleuribacter",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0002129337085570576,
+      "st5_per": 0.0018561803932352536,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2081624240605591,
+      "st5_per_log": 0.4308705446224133,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Aquisphaera",
+      "label": "Genus_Aquisphaera",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00037225863882819454,
+      "st5_per": 0.0006342762907522517,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2720827457953041,
+      "st5_per_log": 0.28196417547297525,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Brenneria",
+      "label": "Genus_Brenneria",
+      "level": "subcore",
+      "st3_per": 0.0017958097771865647,
+      "st4_per": 0.0016895882771564195,
+      "st5_per": 0.0,
+      "st3_per_log": 0.3534662184184084,
+      "st4_per_log": 0.44517220795661977,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_unknown_133_rockwool",
+      "label": "Genus_unknown_133_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0012138868657441126,
+      "st5_per": 0.0005346776657500764,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4073357886741022,
+      "st5_per_log": 0.25827589601769413,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Berkelbacteria",
+      "label": "Genus_Berkelbacteria",
+      "level": "subcore",
+      "st3_per": 0.00021863897239682973,
+      "st4_per": 0.0008790436005625879,
+      "st5_per": 0.0028587237181851716,
+      "st3_per_log": 0.08753471115190521,
+      "st4_per_log": 0.370404391106935,
+      "st5_per_log": 0.49075729237413035,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_unknown_34_rockwool",
+      "label": "Genus_unknown_34_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0006392329204954055,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.33395160800201973,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Pedosphaeraceae_unknown",
+      "label": "Genus_Pedosphaeraceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0007464497888634739,
+      "st4_per": 0.00032370316419843,
+      "st5_per": 0.0003564356435643564,
+      "st3_per_log": 0.24260198225638824,
+      "st4_per_log": 0.25609008456146926,
+      "st5_per_log": 0.2020423725077918,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Pajaroellobacter",
+      "label": "Genus_Pajaroellobacter",
+      "level": "subcore",
+      "st3_per": 0.001470227885322225,
+      "st4_per": 0.0004416775980568378,
+      "st5_per": 0.0005085224769177854,
+      "st3_per_log": 0.32820416040381195,
+      "st4_per_log": 0.2916489183222008,
+      "st5_per_log": 0.25132077687504717,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Unknown_Family_unknown",
+      "label": "Genus_Unknown_Family_unknown",
+      "level": "subcore",
+      "st3_per": 0.0007829014327096218,
+      "st4_per": 0.0011077702168064568,
+      "st5_per": 0.0008500995303417547,
+      "st3_per_log": 0.24862309808453775,
+      "st4_per_log": 0.3968681199466362,
+      "st5_per_log": 0.3225773016727077,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Turneriella",
+      "label": "Genus_Turneriella",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0004319694528216879,
+      "st5_per": 0.0002245245963134941,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.28910572173535004,
+      "st5_per_log": 0.13795187901771297,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_unknown_72_rockwool",
+      "label": "Genus_unknown_72_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0007157097035722066,
+      "st4_per": 0.0005831448283987442,
+      "st5_per": 0.001031211329575141,
+      "st3_per_log": 0.2372911919269035,
+      "st4_per_log": 0.32344331676844473,
+      "st5_per_log": 0.3493601379360259,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_unknown_104_rockwool",
+      "label": "Genus_unknown_104_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0003954223660447673,
+      "st5_per": 0.0006187110444403248,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.27899025235229,
+      "st5_per_log": 0.27851865381377106,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Spirosoma",
+      "label": "Genus_Spirosoma",
+      "level": "subcore",
+      "st3_per": 0.0013513513513513514,
+      "st4_per": 0.00048341706807548214,
+      "st5_per": 0.0,
+      "st3_per_log": 0.31755670372141387,
+      "st4_per_log": 0.3019817064069898,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Candidatus_Nomurabacteria",
+      "label": "Genus_Candidatus_Nomurabacteria",
+      "level": "subcore",
+      "st3_per": 0.0002802690582959641,
+      "st4_per": 0.0047589427643336,
+      "st5_per": 0.0,
+      "st3_per_log": 0.11889506267426261,
+      "st4_per_log": 0.5636669188295201,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Candidatus_Kerfeldbacteria",
+      "label": "Genus_Candidatus_Kerfeldbacteria",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0006904033928395306,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3427633730230497,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Candidatus_Captivus",
+      "label": "Genus_Candidatus_Captivus",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0006613274519644787,
+      "st5_per": 0.0008316831683168317,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3378398910389394,
+      "st5_per_log": 0.3195400928689158,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Candidatus_Falkowbacteria",
+      "label": "Genus_Candidatus_Falkowbacteria",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0012821777295591282,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.41359871047083335,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Candidatus_Peribacteria",
+      "label": "Genus_Candidatus_Peribacteria",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0007254267175075915,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3484257220953229,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Candidatus_Magasanikbacteria",
+      "label": "Genus_Candidatus_Magasanikbacteria",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00043699927166788056,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.29043041355384447,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Candidatus_Paracaedibacter",
+      "label": "Genus_Candidatus_Paracaedibacter",
+      "level": "subcore",
+      "st3_per": 0.00014436263894903998,
+      "st4_per": 0.0005479705643692695,
+      "st5_per": 0.0005312555339118116,
+      "st3_per_log": 0.03511427248276406,
+      "st4_per_log": 0.31632430088481245,
+      "st5_per_log": 0.25738548286496604,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Bdellovibrio",
+      "label": "Genus_Bdellovibrio",
+      "level": "subcore",
+      "st3_per": 0.0004973887092762995,
+      "st4_per": 0.00043952180028129393,
+      "st5_per": 0.0,
+      "st3_per_log": 0.1913354002025282,
+      "st4_per_log": 0.29108903632940086,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_unknown_32_rockwool",
+      "label": "Genus_unknown_32_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0078110056997783926,
+      "st5_per": 0.0005458001349282164,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.6203668652109878,
+      "st5_per_log": 0.2611310138084856,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Silvanigrella",
+      "label": "Genus_Silvanigrella",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0001563232765358762,
+      "st5_per": 0.00015276504735716468,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.17279794860549463,
+      "st5_per_log": 0.08455092888066702,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_PeM15",
+      "label": "Genus_PeM15",
+      "level": "subcore",
+      "st3_per": 0.000320587827834282,
+      "st4_per": 0.0007869698468253153,
+      "st5_per": 0.0004563084645220169,
+      "st3_per_log": 0.13586867081378323,
+      "st4_per_log": 0.3577435692823445,
+      "st5_per_log": 0.2362968424036674,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Solimonas",
+      "label": "Genus_Solimonas",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0009962494139709329,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.38472654283299207,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_JG36-GS-52",
+      "label": "Genus_JG36-GS-52",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.002639459828051009,
+      "st5_per": 0.006916267060125415,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.49621726845559766,
+      "st5_per_log": 0.6132754145172138,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Polynucleobacter",
+      "label": "Genus_Polynucleobacter",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0006625194261928925,
+      "st5_per": 0.0009221689413500553,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3380459497757522,
+      "st5_per_log": 0.33386185438586946,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_env.OPS_17",
+      "label": "Genus_env.OPS_17",
+      "level": "subcore",
+      "st3_per": 0.003150279288858413,
+      "st4_per": 0.0006681458071879933,
+      "st5_per": 0.0002829179469671105,
+      "st3_per_log": 0.42444331856483797,
+      "st4_per_log": 0.3390136140809222,
+      "st5_per_log": 0.17000925060122912,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Candidatus_Xiphinematobacter",
+      "label": "Genus_Candidatus_Xiphinematobacter",
+      "level": "subcore",
+      "st3_per": 0.0011210762331838565,
+      "st4_per": 0.00032377189576359556,
+      "st5_per": 0.0004599829152441265,
+      "st3_per_log": 0.29396448497807304,
+      "st4_per_log": 0.2561143783360129,
+      "st5_per_log": 0.23740904647685612,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Enterobacteriaceae_unknown",
+      "label": "Genus_Enterobacteriaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0011743521490644327,
+      "st4_per": 0.0005965135353630492,
+      "st5_per": 0.0005616825400380583,
+      "st3_per_log": 0.2998276216198603,
+      "st4_per_log": 0.32603697979833357,
+      "st5_per_log": 0.26510871751969267,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Micrococcus",
+      "label": "Genus_Micrococcus",
+      "level": "subcore",
+      "st3_per": 0.0015658028654192437,
+      "st4_per": 0.000873292682740799,
+      "st5_per": 0.0008019782129252155,
+      "st3_per_log": 0.33615780923644295,
+      "st4_per_log": 0.36965331651008665,
+      "st5_per_log": 0.31449652280890067,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Solimonadaceae_unknown",
+      "label": "Genus_Solimonadaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.015247108307045216,
+      "st4_per": 0.0006978671435425481,
+      "st5_per": 0.0005383957745503107,
+      "st3_per_log": 0.6235833869417844,
+      "st4_per_log": 0.3439937806334255,
+      "st5_per_log": 0.2592368834608451,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Isosphaeraceae_unknown",
+      "label": "Genus_Isosphaeraceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0045319001737163175,
+      "st4_per": 0.0006057526965765203,
+      "st5_per": 0.0008040126318707449,
+      "st3_per_log": 0.4703672095534097,
+      "st4_per_log": 0.32779572226877784,
+      "st5_per_log": 0.31484785737928894,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Prosthecobacter",
+      "label": "Genus_Prosthecobacter",
+      "level": "subcore",
+      "st3_per": 0.0021007476548713664,
+      "st4_per": 0.0005352645406051451,
+      "st5_per": 0.001483679525222552,
+      "st3_per_log": 0.37327255169944074,
+      "st4_per_log": 0.31363976841085606,
+      "st5_per_log": 0.39980829342952195,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_unknown_26_rockwool",
+      "label": "Genus_unknown_26_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0004375624927702225,
+      "st5_per": 0.0007282115785640992,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2905777975398576,
+      "st5_per_log": 0.30111594823411314,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_AKYH767",
+      "label": "Genus_AKYH767",
+      "level": "subcore",
+      "st3_per": 0.00017473353136466887,
+      "st4_per": 0.0006187536614963292,
+      "st5_per": 0.0006294140247491342,
+      "st3_per_log": 0.05922650234208212,
+      "st4_per_log": 0.33022564614002786,
+      "st5_per_log": 0.2808970302441312,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_AB1",
+      "label": "Genus_AB1",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0009347152810520686,
+      "st5_per": 0.00014158666494525453,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3774311172409305,
+      "st5_per_log": 0.07401325793580751,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Achromobacter",
+      "label": "Genus_Achromobacter",
+      "level": "subcore",
+      "st3_per": 0.001397868250917351,
+      "st4_per": 0.0003507110666877093,
+      "st5_per": 0.00041248453183005636,
+      "st3_per_log": 0.32183063579779764,
+      "st4_per_log": 0.265259850716106,
+      "st5_per_log": 0.22229493782559592,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Acetobacteraceae_uncultured",
+      "label": "Genus_Acetobacteraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0011524530786960817,
+      "st4_per": 0.0008931858160509878,
+      "st5_per": 0.0015347382090785669,
+      "st3_per_log": 0.2974504348230164,
+      "st4_per_log": 0.37223067603052273,
+      "st5_per_log": 0.40450026127192557,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_R7C24",
+      "label": "Genus_R7C24",
+      "level": "subcore",
+      "st3_per": 0.0005754567688102431,
+      "st4_per": 0.0006793424513810043,
+      "st5_per": 0.0005640157924421884,
+      "st3_per_log": 0.20974690786196426,
+      "st4_per_log": 0.3409152820392761,
+      "st5_per_log": 0.26568357958097844,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Pediococcus",
+      "label": "Genus_Pediococcus",
+      "level": "subcore",
+      "st3_per": 0.01965082596101151,
+      "st4_per": 0.0005468066343482792,
+      "st5_per": 0.0006049240820277055,
+      "st3_per_log": 0.6556258442610864,
+      "st4_per_log": 0.3160809891272993,
+      "st5_per_log": 0.275393593803237,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Parasegetibacter",
+      "label": "Genus_Parasegetibacter",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0006876876157091299,
+      "st5_per": 0.0009881859847400984,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.34231237089026967,
+      "st5_per_log": 0.3434500813298036,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Paludisphaera",
+      "label": "Genus_Paludisphaera",
+      "level": "subcore",
+      "st3_per": 0.001463963963963964,
+      "st4_per": 0.0005430328880463651,
+      "st5_per": 0.0006525761759777196,
+      "st3_per_log": 0.3276649685928937,
+      "st4_per_log": 0.31528853580829147,
+      "st5_per_log": 0.28590849610316316,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Planctomicrobium",
+      "label": "Genus_Planctomicrobium",
+      "level": "subcore",
+      "st3_per": 0.0006619886137958427,
+      "st4_per": 0.0011580336025916772,
+      "st5_per": 0.0003211751889942297,
+      "st3_per_log": 0.22743757257712358,
+      "st4_per_log": 0.40194576683617417,
+      "st5_per_log": 0.18759717956968572,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Microtrichaceae_uncultured",
+      "label": "Genus_Microtrichaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.00013302294645826406,
+      "st4_per": 0.0006286649867942621,
+      "st5_per": 0.0005902839265686796,
+      "st3_per_log": 0.024783225508630418,
+      "st4_per_log": 0.3320440504125558,
+      "st5_per_log": 0.2719961894235898,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Luteolibacter",
+      "label": "Genus_Luteolibacter",
+      "level": "subcore",
+      "st3_per": 0.0009976720984369804,
+      "st4_per": 0.0026492868881494375,
+      "st5_per": 0.0007562216416884367,
+      "st3_per_log": 0.2792370541454118,
+      "st4_per_log": 0.4966425075150967,
+      "st5_per_log": 0.30634988293807824,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_NS11-12_marine_group",
+      "label": "Genus_NS11-12_marine_group",
+      "level": "subcore",
+      "st3_per": 0.0013799337861756691,
+      "st4_per": 0.0007203413309691361,
+      "st5_per": 0.0005827130413390387,
+      "st3_per_log": 0.32019992104695166,
+      "st4_per_log": 0.34762073495351464,
+      "st5_per_log": 0.2702060818480617,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Minicystis",
+      "label": "Genus_Minicystis",
+      "level": "subcore",
+      "st3_per": 0.0034423407917383822,
+      "st4_per": 0.0037868441220942333,
+      "st5_per": 0.0012500161114405912,
+      "st3_per_log": 0.4356399004900879,
+      "st4_per_log": 0.5375210034231827,
+      "st5_per_log": 0.3760440001559446,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Rhodanobacteraceae_uncultured",
+      "label": "Genus_Rhodanobacteraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.008144526580809476,
+      "st4_per": 0.0010084022723290302,
+      "st5_per": 0.004045721689626417,
+      "st3_per_log": 0.5443966066693229,
+      "st4_per_log": 0.38611395864205045,
+      "st5_per_log": 0.5389164578453904,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_OM190",
+      "label": "Genus_OM190",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0002344849148038143,
+      "st5_per": 0.0007304935396977583,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.21919445688174663,
+      "st5_per_log": 0.301549823025007,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Haliscomenobacter",
+      "label": "Genus_Haliscomenobacter",
+      "level": "subcore",
+      "st3_per": 0.004501522573811731,
+      "st4_per": 0.04327164409990856,
+      "st5_per": 0.000604123951979976,
+      "st3_per_log": 0.46951785778056415,
+      "st4_per_log": 0.8162632373430528,
+      "st5_per_log": 0.27521004970909413,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Herpetosiphon",
+      "label": "Genus_Herpetosiphon",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.006147184561487023,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.5929568656235644,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Flavitalea",
+      "label": "Genus_Flavitalea",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0007579939622491321,
+      "st5_per": 0.0006817131148517053,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.35345086346055254,
+      "st5_per_log": 0.29196589669305517,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Devosiaceae_uncultured",
+      "label": "Genus_Devosiaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0034993529310860068,
+      "st5_per": 0.021563562861955418,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.5284863610744643,
+      "st5_per_log": 0.7709649927080676,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_CCM19a",
+      "label": "Genus_CCM19a",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0007657056741220919,
+      "st5_per": 0.0011056710001648724,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3546091524956301,
+      "st5_per_log": 0.3590282058317508,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_D05-2",
+      "label": "Genus_D05-2",
+      "level": "subcore",
+      "st3_per": 0.0012177410608611187,
+      "st4_per": 0.0008183306055646482,
+      "st5_per": 0.0006187267977450845,
+      "st3_per_log": 0.30440939001752304,
+      "st4_per_log": 0.36221500814573016,
+      "st5_per_log": 0.27852218460149897,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Chiayiivirga",
+      "label": "Genus_Chiayiivirga",
+      "level": "subcore",
+      "st3_per": 0.0014563749503508539,
+      "st4_per": 0.0026786801412394985,
+      "st5_per": 0.008366771369500994,
+      "st3_per_log": 0.32700861496284844,
+      "st4_per_log": 0.4979050684198255,
+      "st5_per_log": 0.639677715372214,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Candidatus_Azambacteria",
+      "label": "Genus_Candidatus_Azambacteria",
+      "level": "subcore",
+      "st3_per": 0.0025155567324242024,
+      "st4_per": 0.016636553024693187,
+      "st5_per": 0.0015066429256266264,
+      "st3_per_log": 0.39602937535917987,
+      "st4_per_log": 0.7068821767936336,
+      "st5_per_log": 0.4019381484442846,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Inquilinus",
+      "label": "Genus_Inquilinus",
+      "level": "subcore",
+      "st3_per": 0.0011915795048325168,
+      "st4_per": 0.0006364793598836152,
+      "st5_per": 0.0005057471264367816,
+      "st3_per_log": 0.30166673685012024,
+      "st4_per_log": 0.33345763366761333,
+      "st5_per_log": 0.2505618693915062,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Ilumatobacteraceae_uncultured",
+      "label": "Genus_Ilumatobacteraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.000684776255008658,
+      "st4_per": 0.0003060730823534058,
+      "st5_per": 0.000503319146538315,
+      "st3_per_log": 0.23171156632240153,
+      "st4_per_log": 0.24968177702942554,
+      "st5_per_log": 0.24989452569740753,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Roseimicrobium",
+      "label": "Genus_Roseimicrobium",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.001535515338374032,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.43423074943233986,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Fontimonas",
+      "label": "Genus_Fontimonas",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0002146329574274067,
+      "st5_per": 0.00045730180329675547,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.20907195450959923,
+      "st5_per_log": 0.23659839280743342,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_SH-PL14",
+      "label": "Genus_SH-PL14",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0031794036679461827,
+      "st5_per": 0.0018210992500659693,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.5175145110896371,
+      "st5_per_log": 0.42822458275014796,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_unknown_118_rockwool",
+      "label": "Genus_unknown_118_rockwool",
+      "level": "subcore",
+      "st3_per": 0.01933006752283861,
+      "st4_per": 0.007590569677664985,
+      "st5_per": 0.0,
+      "st3_per_log": 0.6535474834701013,
+      "st4_per_log": 0.6170911292902606,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Blastopirellula",
+      "label": "Genus_Blastopirellula",
+      "level": "subcore",
+      "st3_per": 0.008221125263312139,
+      "st4_per": 0.001288767209724137,
+      "st5_per": 0.0012168225720587116,
+      "st3_per_log": 0.5455787659630369,
+      "st4_per_log": 0.41418528221162026,
+      "st5_per_log": 0.3723118221177865,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Verrucomicrobiaceae_uncultured",
+      "label": "Genus_Verrucomicrobiaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.004868508908845413,
+      "st5_per": 0.0001511639625113373,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.5662715461333889,
+      "st5_per_log": 0.08308986388557024,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Arenimonas",
+      "label": "Genus_Arenimonas",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.001211075404623951,
+      "st5_per": 0.0015003457225851676,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4070704570004158,
+      "st5_per_log": 0.4013573307084718,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Ardenticatenaceae_uncultured",
+      "label": "Genus_Ardenticatenaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.009505561243768279,
+      "st5_per": 0.0006799802685761025,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.6428340100592183,
+      "st5_per_log": 0.2916129539382536,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Alterococcus",
+      "label": "Genus_Alterococcus",
+      "level": "subcore",
+      "st3_per": 0.0008790579537660118,
+      "st4_per": 0.0005081424782535122,
+      "st5_per": 0.00035136309829507183,
+      "st3_per_log": 0.2632525640660249,
+      "st4_per_log": 0.3076896089512403,
+      "st5_per_log": 0.20005469049683552,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_unknown_86_rockwool",
+      "label": "Genus_unknown_86_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0008059320026320814,
+      "st5_per": 0.0001097939280978385,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3604680329189267,
+      "st5_per_log": 0.03874765924786077,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_unknown_140_rockwool",
+      "label": "Genus_unknown_140_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0005754567688102431,
+      "st4_per": 0.0006838865800410332,
+      "st5_per": 0.00043792216589514955,
+      "st3_per_log": 0.20974690786196426,
+      "st4_per_log": 0.3416781426781481,
+      "st5_per_log": 0.23059350183526112,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Rhodospirillaceae_uncultured",
+      "label": "Genus_Rhodospirillaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0003267173078493833,
+      "st4_per": 0.0002433147315296648,
+      "st5_per": 0.0005603984469190932,
+      "st3_per_log": 0.1382604021812616,
+      "st4_per_log": 0.22342423044112453,
+      "st5_per_log": 0.26479132562534163,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Kaistia",
+      "label": "Genus_Kaistia",
+      "level": "subcore",
+      "st3_per": 0.0012387387387387387,
+      "st4_per": 0.0004397242176084061,
+      "st5_per": 0.000735632183908046,
+      "st3_per_log": 0.3065683942175593,
+      "st4_per_log": 0.29114172279787237,
+      "st5_per_log": 0.302521903993143,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Stenotrophobacter",
+      "label": "Genus_Stenotrophobacter",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0006828510207445431,
+      "st5_per": 0.0023667001334466034,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3415047416300868,
+      "st5_per_log": 0.4645648395520759,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Rhizomicrobium",
+      "label": "Genus_Rhizomicrobium",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0011145384476520129,
+      "st5_per": 0.0010888633476498699,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.39756512179840553,
+      "st5_per_log": 0.35690400048962445,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Sandaracinaceae_uncultured",
+      "label": "Genus_Sandaracinaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0018347020793290233,
+      "st4_per": 0.0004325700070215401,
+      "st5_per": 0.0003382806884012009,
+      "st3_per_log": 0.3561720280805963,
+      "st4_per_log": 0.289264696892774,
+      "st5_per_log": 0.19479284183165324,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Methylobacterium-Methylorubrum",
+      "label": "Genus_Methylobacterium-Methylorubrum",
+      "level": "subcore",
+      "st3_per": 0.0002647954455183371,
+      "st4_per": 0.00015272583018831923,
+      "st5_per": 0.00024289721358780977,
+      "st3_per_log": 0.11172297862756998,
+      "st4_per_log": 0.17013386251371193,
+      "st5_per_log": 0.14885897641875118,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Lacunisphaera",
+      "label": "Genus_Lacunisphaera",
+      "level": "subcore",
+      "st3_per": 0.00122708243106684,
+      "st4_per": 0.00043872018152947285,
+      "st5_per": 0.0005984576433649036,
+      "st3_per_log": 0.30537444048385315,
+      "st4_per_log": 0.290880147314989,
+      "st5_per_log": 0.2739032404219093,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Enhydrobacter",
+      "label": "Genus_Enhydrobacter",
+      "level": "subcore",
+      "st3_per": 0.0003943217665615142,
+      "st4_per": 0.0001471345545501361,
+      "st5_per": 0.0002419696328110822,
+      "st3_per_log": 0.16201123613526472,
+      "st4_per_log": 0.1658660635426488,
+      "st5_per_log": 0.14832839369280718,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Chthonomonadales",
+      "label": "Genus_Chthonomonadales",
+      "level": "subcore",
+      "st3_per": 0.00042994902033044653,
+      "st4_per": 0.0004782184760234747,
+      "st5_per": 8.749145852181847e-05,
+      "st3_per_log": 0.17293489040497093,
+      "st4_per_log": 0.3007445025432295,
+      "st5_per_log": 0.007259902432823218,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Chthonomonas",
+      "label": "Genus_Chthonomonas",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0004509485423477815,
+      "st5_per": 0.00031246119198016233,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.29402593261477095,
+      "st5_per_log": 0.18378276396993332,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Herminiimonas",
+      "label": "Genus_Herminiimonas",
+      "level": "subcore",
+      "st3_per": 0.0009827406178981636,
+      "st4_per": 0.0005815982319413749,
+      "st5_per": 0.0008506982031144296,
+      "st3_per_log": 0.2773327328094,
+      "st4_per_log": 0.3231394319944317,
+      "st5_per_log": 0.32267492647857504,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Sphingomonadaceae_uncultured",
+      "label": "Genus_Sphingomonadaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.002624384909786769,
+      "st4_per": 0.0001413520446618773,
+      "st5_per": 0.0001839080459770115,
+      "st3_per_log": 0.4013778866326169,
+      "st4_per_log": 0.16127819760763892,
+      "st5_per_log": 0.11027967750312082,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_EC3",
+      "label": "Genus_EC3",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0005862122870095357,
+      "st5_per": 0.0008615738081562321,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3240436527181277,
+      "st5_per_log": 0.3244365367606366,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Holophagaceae_unknown",
+      "label": "Genus_Holophagaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0011524530786960817,
+      "st4_per": 0.0003716889196048482,
+      "st5_per": 0.00046108447067502766,
+      "st3_per_log": 0.2974504348230164,
+      "st4_per_log": 0.27190748675005777,
+      "st5_per_log": 0.23774074114085836,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_169_rockwool",
+      "label": "Genus_unknown_169_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0017812173699404213,
+      "st4_per": 0.0004797060072359591,
+      "st5_per": 0.0005321594133782686,
+      "st3_per_log": 0.3524358513917163,
+      "st4_per_log": 0.30109988580467684,
+      "st5_per_log": 0.25762122173167823,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Parvibium",
+      "label": "Genus_Parvibium",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0003955166570200152,
+      "st5_per": 0.00038014729791009606,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2790175351518495,
+      "st5_per_log": 0.21097365057078013,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Ochrobactrum",
+      "label": "Genus_Ochrobactrum",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0007605379547563428,
+      "st5_per": 0.0007605141075366948,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3538342652322791,
+      "st5_per_log": 0.30713479573819435,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Methyloligella",
+      "label": "Genus_Methyloligella",
+      "level": "subcore",
+      "st3_per": 0.003924176920518789,
+      "st4_per": 0.000256903987664986,
+      "st5_per": 0.00040098910646260775,
+      "st3_per_log": 0.4521839744923768,
+      "st4_per_log": 0.22964299943750494,
+      "st5_per_log": 0.2183754095638895,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Ralstonia",
+      "label": "Genus_Ralstonia",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0003167564143173899,
+      "st5_per": 0.0006049240820277055,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.25360770163898677,
+      "st5_per_log": 0.275393593803237,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Vampirovibrio",
+      "label": "Genus_Vampirovibrio",
+      "level": "subcore",
+      "st3_per": 0.0003325573661456601,
+      "st4_per": 0.00040846288479506074,
+      "st5_per": 0.0003382806884012009,
+      "st3_per_log": 0.1404978194581839,
+      "st4_per_log": 0.28270304514351074,
+      "st5_per_log": 0.19479284183165324,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Candidatus_Nucleicultrix",
+      "label": "Genus_Candidatus_Nucleicultrix",
+      "level": "subcore",
+      "st3_per": 0.0048051721125283945,
+      "st4_per": 0.0006620708880461359,
+      "st5_per": 0.0005515590854773647,
+      "st3_per_log": 0.4777614437788193,
+      "st4_per_log": 0.33796845371419965,
+      "st5_per_log": 0.2625865461038299,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_WS2",
+      "label": "Genus_WS2",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0017094376954232653,
+      "st5_per": 0.0005025847214244687,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.44650868050576886,
+      "st5_per_log": 0.24969203063173834,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Xanthomonadaceae_uncultured",
+      "label": "Genus_Xanthomonadaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0008181411981025227,
+      "st5_per": 0.0009963467286615742,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3621885200726541,
+      "st5_per_log": 0.3445905865109366,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Cephaloticoccus",
+      "label": "Genus_Cephaloticoccus",
+      "level": "subcore",
+      "st3_per": 0.0021183635641466966,
+      "st4_per": 0.00018391819318767014,
+      "st5_per": 0.0006227167054134839,
+      "st3_per_log": 0.3743271120832856,
+      "st4_per_log": 0.19139990460149572,
+      "st5_per_log": 0.2794135601313443,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_31_rockwool",
+      "label": "Genus_unknown_31_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00044842389862203387,
+      "st5_per": 0.00034302231363760516,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.29338350608003955,
+      "st5_per_log": 0.19672310827966955,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Absconditabacteriales_(SR1)",
+      "label": "Genus_Absconditabacteriales_(SR1)",
+      "level": "subcore",
+      "st3_per": 0.0032671730784938333,
+      "st4_per": 0.000650812016539781,
+      "st5_per": 0.0004951995825039796,
+      "st3_per_log": 0.4290444184346256,
+      "st4_per_log": 0.33600581065896473,
+      "st5_per_log": 0.2476391993414947,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Parachlamydiaceae_unknown",
+      "label": "Genus_Parachlamydiaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0009082175303627871,
+      "st5_per": 0.0003448275862068965,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.37414039487659806,
+      "st5_per_log": 0.19745101114444272,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Legionellaceae_uncultured",
+      "label": "Genus_Legionellaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0003234136549952214,
+      "st5_per": 8.302889405513119e-05,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2559876983387416,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Bacteroidetes_VC2.1_Bac22",
+      "label": "Genus_Bacteroidetes_VC2.1_Bac22",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0005862122870095357,
+      "st5_per": 0.0013694510727378577,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3240436527181277,
+      "st5_per_log": 0.38869844400617515,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_156_rockwool",
+      "label": "Genus_unknown_156_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.000656738458319039,
+      "st5_per": 0.0003666006812696731,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3370431010129452,
+      "st5_per_log": 0.2059417997312649,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Babeliaceae",
+      "label": "Genus_Babeliaceae",
+      "level": "subcore",
+      "st3_per": 0.0002865761680048521,
+      "st4_per": 0.0004395362892148783,
+      "st5_per": 0.0004943561011782154,
+      "st3_per_log": 0.12170546601308682,
+      "st4_per_log": 0.29109280840729684,
+      "st5_per_log": 0.2474027932481704,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_74_rockwool",
+      "label": "Genus_unknown_74_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0020009807624018533,
+      "st4_per": 0.0003083806458555994,
+      "st5_per": 0.0004465306798678634,
+      "st3_per_log": 0.36712800218709457,
+      "st4_per_log": 0.2505412422857413,
+      "st5_per_log": 0.23329304668080214,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_0319-6G20",
+      "label": "Genus_0319-6G20",
+      "level": "subcore",
+      "st3_per": 0.0006166759415800362,
+      "st4_per": 0.0002770543580650524,
+      "st5_per": 0.0006342762907522517,
+      "st3_per_log": 0.2184833108894742,
+      "st4_per_log": 0.23828359649019065,
+      "st5_per_log": 0.28196417547297525,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_136_rockwool",
+      "label": "Genus_unknown_136_rockwool",
+      "level": "subcore",
+      "st3_per": 0.001683656179109298,
+      "st4_per": 0.0006243628167681744,
+      "st5_per": 0.0005057471264367816,
+      "st3_per_log": 0.34532225281964785,
+      "st4_per_log": 0.3312582895839189,
+      "st5_per_log": 0.2505618693915062,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Azospirillaceae_uncultured",
+      "label": "Genus_Azospirillaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0006619886137958427,
+      "st4_per": 0.00012196042674534082,
+      "st5_per": 0.0002871912693854107,
+      "st3_per_log": 0.22743757257712358,
+      "st4_per_log": 0.14439357276809459,
+      "st5_per_log": 0.17208817673972238,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Noviherbaspirillum",
+      "label": "Genus_Noviherbaspirillum",
+      "level": "subcore",
+      "st3_per": 0.009151772004176648,
+      "st4_per": 0.0026377493923392275,
+      "st5_per": 0.0020821367030442275,
+      "st3_per_log": 0.5591217193973613,
+      "st4_per_log": 0.49614309230974213,
+      "st5_per_log": 0.4468004916244693,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Rhodobacter",
+      "label": "Genus_Rhodobacter",
+      "level": "subcore",
+      "st3_per": 0.0020475569486586393,
+      "st4_per": 0.0003510528708643382,
+      "st5_per": 0.0,
+      "st3_per_log": 0.3700338290516372,
+      "st4_per_log": 0.2653713181898482,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_22_rockwool",
+      "label": "Genus_unknown_22_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0018347020793290233,
+      "st4_per": 0.00025553613222833316,
+      "st5_per": 0.00011494252873563218,
+      "st3_per_log": 0.3561720280805963,
+      "st4_per_log": 0.2290321138007576,
+      "st5_per_log": 0.045102651123528396,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_191_rockwool",
+      "label": "Genus_unknown_191_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0003310527477378062,
+      "st5_per": 0.0004620645443641963,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.25865908009515304,
+      "st5_per_log": 0.23803519036176513,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_173_rockwool",
+      "label": "Genus_unknown_173_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0014615717205431348,
+      "st5_per": 0.0,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.42858331387048393,
+      "st5_per_log": 0.0,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_59_rockwool",
+      "label": "Genus_unknown_59_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0001927289721301396,
+      "st5_per": 0.0006917781676013215,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.196754425823993,
+      "st5_per_log": 0.2939983531439753,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_42_rockwool",
+      "label": "Genus_unknown_42_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.001029231431005339,
+      "st5_per": 0.0004271168807487549,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3884534559324778,
+      "st5_per_log": 0.22712895500305325,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Armatimonadales",
+      "label": "Genus_Armatimonadales",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.00032965221691115873,
+      "st5_per": 0.0005812022583859183,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.2581739619060149,
+      "st5_per_log": 0.2698460803820384,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_WPS-2",
+      "label": "Genus_WPS-2",
+      "level": "subcore",
+      "st3_per": 0.0004973887092762995,
+      "st4_per": 0.0002577101034121121,
+      "st5_per": 0.00016605778811026238,
+      "st3_per_log": 0.1913354002025282,
+      "st4_per_log": 0.2300014901363032,
+      "st5_per_log": 0.09612111324501113,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_unknown_49_rockwool",
+      "label": "Genus_unknown_49_rockwool",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.000495336967222843,
+      "st5_per": 0.00016005412762475709,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.3047689972877032,
+      "st5_per_log": 0.09101463066848617,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Thermomonas",
+      "label": "Genus_Thermomonas",
+      "level": "subcore",
+      "st3_per": 0.002837437440206863,
+      "st4_per": 0.0016284004705446145,
+      "st5_per": 0.0020999653712528202,
+      "st3_per_log": 0.4112351051090889,
+      "st4_per_log": 0.4409513472411325,
+      "st5_per_log": 0.44798285299385454,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Xanthobacteraceae_unknown",
+      "label": "Genus_Xanthobacteraceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0020600064527852985,
+      "st4_per": 0.002968165160512519,
+      "st5_per": 0.003155097974094985,
+      "st3_per_log": 0.37079934447530916,
+      "st4_per_log": 0.5096476314180008,
+      "st5_per_log": 0.5044366348213205,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Bryobacter",
+      "label": "Genus_Bryobacter",
+      "level": "subcore",
+      "st3_per": 0.0010618312505104959,
+      "st4_per": 0.0005538433750466578,
+      "st5_per": 0.002204789006819464,
+      "st3_per_log": 0.28710790173996925,
+      "st4_per_log": 0.31754414309404955,
+      "st5_per_log": 0.4547377701867034,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Candidatus_Moranbacteria",
+      "label": "Genus_Candidatus_Moranbacteria",
+      "level": "subcore",
+      "st3_per": 0.002040493842443342,
+      "st4_per": 0.007712610707746855,
+      "st5_per": 0.002393723875340508,
+      "st3_per_log": 0.3695974491661078,
+      "st4_per_log": 0.6189162650741539,
+      "st5_per_log": 0.4661392858034726,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Sediminibacterium",
+      "label": "Genus_Sediminibacterium",
+      "level": "subcore",
+      "st3_per": 0.004123429511929791,
+      "st4_per": 0.002611638343264916,
+      "st5_per": 0.002369327972429638,
+      "st3_per_log": 0.4584387374313182,
+      "st4_per_log": 0.49500472856321304,
+      "st5_per_log": 0.46471872864902214,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Caldilineaceae_uncultured",
+      "label": "Genus_Caldilineaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0022053418279833373,
+      "st4_per": 0.005024816007321016,
+      "st5_per": 0.0022382191035025104,
+      "st3_per_log": 0.3794086839391344,
+      "st4_per_log": 0.5698875956952979,
+      "st5_per_log": 0.45682462410500946,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Iamia",
+      "label": "Genus_Iamia",
+      "level": "subcore",
+      "st3_per": 0.0018721140955657123,
+      "st4_per": 0.0018430626235086086,
+      "st5_per": 0.001400057438253877,
+      "st3_per_log": 0.35872126177021296,
+      "st4_per_log": 0.4551209995345006,
+      "st5_per_log": 0.39176358222938007,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_SJA-28",
+      "label": "Genus_SJA-28",
+      "level": "subcore",
+      "st3_per": 0.009267840593141797,
+      "st4_per": 0.0014158323045182996,
+      "st5_per": 0.0009587727708533077,
+      "st3_per_log": 0.5607132859322205,
+      "st4_per_log": 0.4249451005600321,
+      "st5_per_log": 0.33925981044791514,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Rhizobacter",
+      "label": "Genus_Rhizobacter",
+      "level": "subcore",
+      "st3_per": 0.008220465043451029,
+      "st4_per": 0.002959655455343565,
+      "st5_per": 0.0027205181321134685,
+      "st3_per_log": 0.545568623823052,
+      "st4_per_log": 0.509319096477306,
+      "st5_per_log": 0.4838856177019792,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Rhodobacteraceae_unknown",
+      "label": "Genus_Rhodobacteraceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0032098958741094497,
+      "st4_per": 0.0020703972920880806,
+      "st5_per": 0.0036334543746885427,
+      "st3_per_log": 0.4268108490367284,
+      "st4_per_log": 0.468430317834902,
+      "st5_per_log": 0.5240123709515078,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Reyranella",
+      "label": "Genus_Reyranella",
+      "level": "subcore",
+      "st3_per": 0.0006756341748049874,
+      "st4_per": 0.0016787190901193312,
+      "st5_per": 0.002385595593489505,
+      "st3_per_log": 0.2300142356889629,
+      "st4_per_log": 0.44443371108455165,
+      "st5_per_log": 0.4656675960540706,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Diplorickettsiaceae_uncultured",
+      "label": "Genus_Diplorickettsiaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0022488586384037763,
+      "st4_per": 0.0032309154260373773,
+      "st5_per": 0.0031928839678217425,
+      "st3_per_log": 0.38187634752795147,
+      "st4_per_log": 0.5193535794726163,
+      "st5_per_log": 0.5060875456700741,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Novosphingobium",
+      "label": "Genus_Novosphingobium",
+      "level": "subcore",
+      "st3_per": 0.0018018018018018018,
+      "st4_per": 0.0026753518669303247,
+      "st5_per": 0.003794647771939074,
+      "st3_per_log": 0.3538868913379965,
+      "st4_per_log": 0.49776280278333496,
+      "st5_per_log": 0.5300318775249769,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Edaphobaculum",
+      "label": "Genus_Edaphobaculum",
+      "level": "subcore",
+      "st3_per": 0.006088062123524729,
+      "st4_per": 0.0016100505232844505,
+      "st5_per": 0.0021282774042077055,
+      "st3_per_log": 0.5076453541957411,
+      "st4_per_log": 0.439654574285372,
+      "st5_per_log": 0.44983997722699953,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Taibaiella",
+      "label": "Genus_Taibaiella",
+      "level": "subcore",
+      "st3_per": 0.0012434717731907485,
+      "st4_per": 0.00078598813487802,
+      "st5_per": 0.0019381140145692708,
+      "st3_per_log": 0.3070499941520818,
+      "st4_per_log": 0.35760073619716726,
+      "st5_per_log": 0.43686047767273334,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Caulobacteraceae_unknown",
+      "label": "Genus_Caulobacteraceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0014386419220256078,
+      "st4_per": 0.0009441044510837134,
+      "st5_per": 0.0008203866071886377,
+      "st3_per_log": 0.32546150181151784,
+      "st4_per_log": 0.37857480510410435,
+      "st5_per_log": 0.31764361418261505,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_SC-I-84",
+      "label": "Genus_SC-I-84",
+      "level": "subcore",
+      "st3_per": 0.0010557377846752666,
+      "st4_per": 0.002663861849227064,
+      "st5_per": 0.0070159415476585855,
+      "st3_per_log": 0.2863811052201413,
+      "st4_per_log": 0.4972703031981381,
+      "st5_per_log": 0.6152596571625428,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_SM1A02",
+      "label": "Genus_SM1A02",
+      "level": "subcore",
+      "st3_per": 0.0037404689972665803,
+      "st4_per": 0.0038188761593016913,
+      "st5_per": 0.001298624638451095,
+      "st3_per_log": 0.4461291185725771,
+      "st4_per_log": 0.5384848514989338,
+      "st5_per_log": 0.3813342944465565,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Ferruginibacter",
+      "label": "Genus_Ferruginibacter",
+      "level": "subcore",
+      "st3_per": 0.004470182613980116,
+      "st4_per": 0.0027395640998487195,
+      "st5_per": 0.004258879002205491,
+      "st3_per_log": 0.468635570444789,
+      "st4_per_log": 0.5004767926087305,
+      "st5_per_log": 0.5460367892548139,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Chryseobacterium",
+      "label": "Genus_Chryseobacterium",
+      "level": "subcore",
+      "st3_per": 0.0012025143481825635,
+      "st4_per": 0.003435704417371833,
+      "st5_per": 0.003587810639316967,
+      "st3_per_log": 0.30282034748718367,
+      "st4_per_log": 0.526385911741331,
+      "st5_per_log": 0.5222593100425205,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Tahibacter",
+      "label": "Genus_Tahibacter",
+      "level": "subcore",
+      "st3_per": 0.0031545741324921135,
+      "st4_per": 0.003493263813354972,
+      "st5_per": 0.0034480672675579215,
+      "st3_per_log": 0.42461536959098034,
+      "st4_per_log": 0.5282870751797399,
+      "st5_per_log": 0.5167500488000085,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Dongia",
+      "label": "Genus_Dongia",
+      "level": "subcore",
+      "st3_per": 0.0020205006076254063,
+      "st4_per": 0.001711818540677677,
+      "st5_per": 0.005313038483630098,
+      "st3_per_log": 0.3683539685569141,
+      "st4_per_log": 0.4466679407739671,
+      "st5_per_log": 0.5767055203969358,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Aquicella",
+      "label": "Genus_Aquicella",
+      "level": "subcore",
+      "st3_per": 0.0032675953563159853,
+      "st4_per": 0.0015335147167944597,
+      "st5_per": 0.00154926874690811,
+      "st3_per_log": 0.4290607396655185,
+      "st4_per_log": 0.4340815642550393,
+      "st5_per_log": 0.4058070123914193,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_cvE6",
+      "label": "Genus_cvE6",
+      "level": "subcore",
+      "st3_per": 0.002041522222590697,
+      "st4_per": 0.002983347102509343,
+      "st5_per": 0.0014802237694682466,
+      "st3_per_log": 0.36966107944420307,
+      "st4_per_log": 0.510231429606263,
+      "st5_per_log": 0.39948492133935753,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Vicinamibacteraceae",
+      "label": "Genus_Vicinamibacteraceae",
+      "level": "subcore",
+      "st3_per": 0.00043159257660768235,
+      "st4_per": 0.0024139840956362685,
+      "st5_per": 0.0013926555742871803,
+      "st3_per_log": 0.17341672024538163,
+      "st4_per_log": 0.4859993459154306,
+      "st5_per_log": 0.3910284945660388,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Vermiphilaceae",
+      "label": "Genus_Vermiphilaceae",
+      "level": "subcore",
+      "st3_per": 0.0028732204424700425,
+      "st4_per": 0.0025205871308702577,
+      "st5_per": 0.00414891944438136,
+      "st3_per_log": 0.4128177415251227,
+      "st4_per_log": 0.4909441550149625,
+      "st5_per_log": 0.5424093614143688,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Asticcacaulis",
+      "label": "Genus_Asticcacaulis",
+      "level": "subcore",
+      "st3_per": 0.002927927927927928,
+      "st4_per": 0.003782389510446781,
+      "st5_per": 0.004923147160929708,
+      "st3_per_log": 0.4151996797447989,
+      "st4_per_log": 0.5373863182485263,
+      "st5_per_log": 0.5661363986339498,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Anaerolineaceae_uncultured",
+      "label": "Genus_Anaerolineaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.000275115722623848,
+      "st4_per": 0.002355969133336293,
+      "st5_per": 0.0011870520020088571,
+      "st3_per_log": 0.11655141804698092,
+      "st4_per_log": 0.48321573125123146,
+      "st5_per_log": 0.3688768684937506,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_A0839",
+      "label": "Genus_A0839",
+      "level": "subcore",
+      "st3_per": 0.0011454165353014488,
+      "st4_per": 0.0016842154169594684,
+      "st5_per": 0.0027381752019669074,
+      "st3_per_log": 0.2966770063019311,
+      "st4_per_log": 0.44480774960736386,
+      "st5_per_log": 0.48478274646287983,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Microscillaceae_uncultured",
+      "label": "Genus_Microscillaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.005077186287294429,
+      "st4_per": 0.003040956042523247,
+      "st5_per": 0.004258598710575635,
+      "st3_per_log": 0.48471529650518563,
+      "st4_per_log": 0.512419987862302,
+      "st5_per_log": 0.5460276623725143,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_OLB17",
+      "label": "Genus_OLB17",
+      "level": "subcore",
+      "st3_per": 0.0020939272777612855,
+      "st4_per": 0.00318920581746813,
+      "st5_per": 0.0048705557235226415,
+      "st3_per_log": 0.37286187950601385,
+      "st4_per_log": 0.5178667512355344,
+      "st5_per_log": 0.564647052585208,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_OLB14",
+      "label": "Genus_OLB14",
+      "level": "subcore",
+      "st3_per": 0.0005215799681920117,
+      "st4_per": 0.0032959329357793578,
+      "st5_per": 0.0022719328366292025,
+      "st3_per_log": 0.19733281500203279,
+      "st4_per_log": 0.521633412182136,
+      "st5_per_log": 0.4588978522104659,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Nordella",
+      "label": "Genus_Nordella",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0016138177694421424,
+      "st5_per": 0.001538132212538699,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.4399220034151684,
+      "st5_per_log": 0.40480659268685215,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Pedobacter",
+      "label": "Genus_Pedobacter",
+      "level": "subcore",
+      "st3_per": 0.0037162162162162164,
+      "st4_per": 0.0007757522025821466,
+      "st5_per": 0.0025500933117244013,
+      "st3_per_log": 0.4453076289047871,
+      "st4_per_log": 0.3561007522832652,
+      "st5_per_log": 0.474914499104503,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Pseudoxanthomonas",
+      "label": "Genus_Pseudoxanthomonas",
+      "level": "subcore",
+      "st3_per": 0.0027291909222659128,
+      "st4_per": 0.0025003794217806794,
+      "st5_per": 0.0036252780753069126,
+      "st3_per_log": 0.4063230719070708,
+      "st4_per_log": 0.4900230823292936,
+      "st5_per_log": 0.523699964850675,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Reyranellaceae_uncultured",
+      "label": "Genus_Reyranellaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0012251899044351876,
+      "st4_per": 0.002511477232659126,
+      "st5_per": 0.0019391239235795068,
+      "st3_per_log": 0.30517951966613777,
+      "st4_per_log": 0.4905298410067678,
+      "st5_per_log": 0.4369327185697192,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Parafilimonas",
+      "label": "Genus_Parafilimonas",
+      "level": "subcore",
+      "st3_per": 0.00284353025444088,
+      "st4_per": 0.003903571240175133,
+      "st5_per": 0.0022975301550832855,
+      "st3_per_log": 0.41150598740484134,
+      "st4_per_log": 0.540994901932808,
+      "st5_per_log": 0.4604515164747557,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Afipia",
+      "label": "Genus_Afipia",
+      "level": "subcore",
+      "st3_per": 0.004606596646397641,
+      "st4_per": 0.0031770308653550116,
+      "st5_per": 0.0028217273002116294,
+      "st3_per_log": 0.4724317330919246,
+      "st4_per_log": 0.517429081198001,
+      "st5_per_log": 0.48895092398172757,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Pedosphaeraceae_uncultured",
+      "label": "Genus_Pedosphaeraceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.002932512691343571,
+      "st4_per": 0.0014505199432887058,
+      "st5_per": 0.0011407711613050423,
+      "st3_per_log": 0.4153972727590486,
+      "st4_per_log": 0.4277147715734119,
+      "st5_per_log": 0.36336204251409754,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Pedosphaeraceae",
+      "label": "Genus_Pedosphaeraceae",
+      "level": "subcore",
+      "st3_per": 0.003971931682775056,
+      "st4_per": 0.0012892959398793172,
+      "st5_per": 0.0009573717625718028,
+      "st3_per_log": 0.45371151841625645,
+      "st4_per_log": 0.41423221780805264,
+      "st5_per_log": 0.3390570254409653,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Pedomicrobium",
+      "label": "Genus_Pedomicrobium",
+      "level": "subcore",
+      "st3_per": 0.001985965841387528,
+      "st4_per": 0.003692464523089055,
+      "st5_per": 0.005223420772299769,
+      "st3_per_log": 0.36617680726435126,
+      "st4_per_log": 0.5346329745478808,
+      "st5_per_log": 0.5743464931541242,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Mesorhizobium",
+      "label": "Genus_Mesorhizobium",
+      "level": "subcore",
+      "st3_per": 0.0035033632286995517,
+      "st4_per": 0.003722696835417308,
+      "st5_per": 0.004323617608193053,
+      "st3_per_log": 0.437858961725275,
+      "st4_per_log": 0.5355660461497005,
+      "st5_per_log": 0.5481288836051801,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Saccharimonadales",
+      "label": "Genus_Saccharimonadales",
+      "level": "subcore",
+      "st3_per": 0.0,
+      "st4_per": 0.0013786348646838522,
+      "st5_per": 0.001374885426214482,
+      "st3_per_log": 0.0,
+      "st4_per_log": 0.42189859835851684,
+      "st5_per_log": 0.3892476489224954,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Nocardioides",
+      "label": "Genus_Nocardioides",
+      "level": "subcore",
+      "st3_per": 0.0015241924804589601,
+      "st4_per": 0.0019885572925650817,
+      "st5_per": 0.002663960421159457,
+      "st3_per_log": 0.3327564304453544,
+      "st4_per_log": 0.46381531369536055,
+      "st5_per_log": 0.48097230252048684,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Hirschia",
+      "label": "Genus_Hirschia",
+      "level": "subcore",
+      "st3_per": 0.0021239905774385563,
+      "st4_per": 0.004577481400829246,
+      "st5_per": 0.0030223838714578508,
+      "st3_per_log": 0.3746621208050236,
+      "st4_per_log": 0.5592183522396509,
+      "st5_per_log": 0.4984773279170508,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Ferrovibrio",
+      "label": "Genus_Ferrovibrio",
+      "level": "subcore",
+      "st3_per": 0.00672952626131274,
+      "st4_per": 0.0010691526093777766,
+      "st5_per": 0.003137267410373237,
+      "st3_per_log": 0.5202960340401638,
+      "st4_per_log": 0.3928078987101335,
+      "st5_per_log": 0.5036507197275306,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Xanthomonadaceae_unknown",
+      "label": "Genus_Xanthomonadaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0066078863443548765,
+      "st4_per": 0.005882610848641281,
+      "st5_per": 0.006379257226515131,
+      "st3_per_log": 0.5179924640739223,
+      "st4_per_log": 0.5879227835257351,
+      "st5_per_log": 0.60206720011093,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Bradyrhizobium",
+      "label": "Genus_Bradyrhizobium",
+      "level": "subcore",
+      "st3_per": 0.011762410888893193,
+      "st4_per": 0.0045288177572248645,
+      "st5_per": 0.007765650568788378,
+      "st3_per_log": 0.5908146049382184,
+      "st4_per_log": 0.5579953460660623,
+      "st5_per_log": 0.6293385227227739,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Terrimonas",
+      "label": "Genus_Terrimonas",
+      "level": "subcore",
+      "st3_per": 0.00822072072072072,
+      "st4_per": 0.016017469379221428,
+      "st5_per": 0.015334610211514698,
+      "st3_per_log": 0.545572551572907,
+      "st4_per_log": 0.7025428086847747,
+      "st5_per_log": 0.7236922376962743,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Streptomyces",
+      "label": "Genus_Streptomyces",
+      "level": "subcore",
+      "st3_per": 0.00675008231807705,
+      "st4_per": 0.004781873022879423,
+      "st5_per": 0.01012922014916437,
+      "st3_per_log": 0.5206811998253793,
+      "st4_per_log": 0.564216948456269,
+      "st5_per_log": 0.6661860139938581,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Devosia",
+      "label": "Genus_Devosia",
+      "level": "subcore",
+      "st3_per": 0.01644144144144144,
+      "st4_per": 0.035176319988777245,
+      "st5_per": 0.04172378953738952,
+      "st3_per_log": 0.6331072627248121,
+      "st4_per_log": 0.792562431208145,
+      "st5_per_log": 0.8624986899827489,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Dokdonella",
+      "label": "Genus_Dokdonella",
+      "level": "subcore",
+      "st3_per": 0.013954826643648397,
+      "st4_per": 0.008468285865950945,
+      "st5_per": 0.014156534604934438,
+      "st3_per_log": 0.6123989498267538,
+      "st4_per_log": 0.6296119944844842,
+      "st5_per_log": 0.7126072293148678,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Comamonadaceae_unknown",
+      "label": "Genus_Comamonadaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.03298727758496016,
+      "st4_per": 0.03760799762707677,
+      "st5_per": 0.02475273786747751,
+      "st3_per_log": 0.7210422640594698,
+      "st4_per_log": 0.8002112021410732,
+      "st5_per_log": 0.7900923771839201,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Chitinophagaceae_uncultured",
+      "label": "Genus_Chitinophagaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.0036036036036036037,
+      "st4_per": 0.006495376483039097,
+      "st5_per": 0.015604572888668362,
+      "st3_per_log": 0.4414216024899017,
+      "st4_per_log": 0.599261432856156,
+      "st5_per_log": 0.726112314964952,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Gemmatimonadaceae_uncultured",
+      "label": "Genus_Gemmatimonadaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.002593947455936149,
+      "st4_per": 0.007929544561137314,
+      "st5_per": 0.010475882081467623,
+      "st3_per_log": 0.3999046709064709,
+      "st4_per_log": 0.622090363500943,
+      "st5_per_log": 0.6708525614551104,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Shinella",
+      "label": "Genus_Shinella",
+      "level": "subcore",
+      "st3_per": 0.004151759419169015,
+      "st4_per": 0.0055967155663136665,
+      "st5_per": 0.010376237623762377,
+      "st3_per_log": 0.4593034141560594,
+      "st4_per_log": 0.5822218994887299,
+      "st5_per_log": 0.6695272145418217,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Sphingopyxis",
+      "label": "Genus_Sphingopyxis",
+      "level": "subcore",
+      "st3_per": 0.00494299797159021,
+      "st4_per": 0.005513383939272872,
+      "st5_per": 0.007545491505548363,
+      "st3_per_log": 0.4813327031154522,
+      "st4_per_log": 0.5805053281260218,
+      "st5_per_log": 0.6253502739283363,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Hyphomicrobium",
+      "label": "Genus_Hyphomicrobium",
+      "level": "subcore",
+      "st3_per": 0.01380394897780884,
+      "st4_per": 0.009870504334789372,
+      "st5_per": 0.009911321833646949,
+      "st3_per_log": 0.6110261292987056,
+      "st4_per_log": 0.6471449574120225,
+      "st5_per_log": 0.6631703367983022,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Sphingobium",
+      "label": "Genus_Sphingobium",
+      "level": "subcore",
+      "st3_per": 0.017029873294954204,
+      "st4_per": 0.011980286983131739,
+      "st5_per": 0.013739390157250855,
+      "st3_per_log": 0.6375479786065464,
+      "st4_per_log": 0.6693109627378354,
+      "st5_per_log": 0.7084595859645131,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Flavobacterium",
+      "label": "Genus_Flavobacterium",
+      "level": "core",
+      "st3_per": 0.04633500198849873,
+      "st4_per": 0.008056073882071624,
+      "st5_per": 0.01977208734114517,
+      "st3_per_log": 0.7639511418032925,
+      "st4_per_log": 0.6239018396079739,
+      "st5_per_log": 0.7589373208968404,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Luteimonas",
+      "label": "Genus_Luteimonas",
+      "level": "subcore",
+      "st3_per": 0.01058565805076133,
+      "st4_per": 0.016094477658945682,
+      "st5_per": 0.01255143116283616,
+      "st3_per_log": 0.5775029530870888,
+      "st4_per_log": 0.7030916330974718,
+      "st5_per_log": 0.6959190397464006,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_SWB02",
+      "label": "Genus_SWB02",
+      "level": "subcore",
+      "st3_per": 0.0019259380437604474,
+      "st4_per": 0.004790416840146059,
+      "st5_per": 0.006870315632164533,
+      "st3_per_log": 0.36230081267323644,
+      "st4_per_log": 0.5644212153718321,
+      "st5_per_log": 0.6123509988090603,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Pseudolabrys",
+      "label": "Genus_Pseudolabrys",
+      "level": "subcore",
+      "st3_per": 0.011934052507732232,
+      "st4_per": 0.02082587483129248,
+      "st5_per": 0.02527590860018466,
+      "st3_per_log": 0.5926441010921952,
+      "st4_per_log": 0.7325819818121436,
+      "st5_per_log": 0.7929928169179554,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_OLB8",
+      "label": "Genus_OLB8",
+      "level": "subcore",
+      "st3_per": 0.012841620019756339,
+      "st4_per": 0.011661706874721591,
+      "st5_per": 0.005677393826330856,
+      "st3_per_log": 0.6019003003214756,
+      "st4_per_log": 0.6662269039360676,
+      "st5_per_log": 0.5859035091421159,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Rhizobiaceae_unknown",
+      "label": "Genus_Rhizobiaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.0065181243764549385,
+      "st4_per": 0.007715431648182596,
+      "st5_per": 0.008728246205618774,
+      "st3_per_log": 0.5162652299150139,
+      "st4_per_log": 0.6189581102024986,
+      "st5_per_log": 0.6455431011699864,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Moraxellaceae_uncultured",
+      "label": "Genus_Moraxellaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.005560704355885079,
+      "st4_per": 0.006249577626732228,
+      "st5_per": 0.00916918724855837,
+      "st3_per_log": 0.49620321551798935,
+      "st4_per_log": 0.5948471796480838,
+      "st5_per_log": 0.6523775105409737,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Microbacteriaceae_unknown",
+      "label": "Genus_Microbacteriaceae_unknown",
+      "level": "subcore",
+      "st3_per": 0.01840168243953733,
+      "st4_per": 0.026081936125497567,
+      "st5_per": 0.026041597468637788,
+      "st3_per_log": 0.6473317310564979,
+      "st4_per_log": 0.7583336048580989,
+      "st5_per_log": 0.7971313111003889,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Micropepsaceae_uncultured",
+      "label": "Genus_Micropepsaceae_uncultured",
+      "level": "subcore",
+      "st3_per": 0.01411229060193498,
+      "st4_per": 0.00711273822145511,
+      "st5_per": 0.00721618735324488,
+      "st3_per_log": 0.6138159592871499,
+      "st4_per_log": 0.6096511033173835,
+      "st5_per_log": 0.6191621808413399,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+      "label": "Genus_Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+      "level": "core",
+      "st3_per": 0.035210590152289736,
+      "st4_per": 0.04989939423751525,
+      "st5_per": 0.03521127354443935,
+      "st3_per_log": 0.7292792532098622,
+      "st4_per_log": 0.8325705032374852,
+      "st5_per_log": 0.8389650899174067,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Paenibacillus",
+      "label": "Genus_Paenibacillus",
+      "level": "core",
+      "st3_per": 0.30038355339644573,
+      "st4_per": 0.21555087655161895,
+      "st5_per": 0.11246239681302336,
+      "st3_per_log": 1.0,
+      "st4_per_log": 1.0,
+      "st5_per_log": 1.0,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_uncultured_uncultured",
+      "label": "Genus_uncultured_uncultured",
+      "level": "subcore",
+      "st3_per": 0.005828962614885148,
+      "st4_per": 0.011257710681098914,
+      "st5_per": 0.009141145242443492,
+      "st3_per_log": 0.5021530822567153,
+      "st4_per_log": 0.662192489702504,
+      "st5_per_log": 0.6519527574819614,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Bauldia",
+      "label": "Genus_Bauldia",
+      "level": "subcore",
+      "st3_per": 0.0034819710725782806,
+      "st4_per": 0.007191370355573312,
+      "st5_per": 0.009430374933455016,
+      "st3_per_log": 0.43708547376246765,
+      "st4_per_log": 0.610909175168439,
+      "st5_per_log": 0.6562724602164774,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Amb-16S-1323",
+      "label": "Genus_Amb-16S-1323",
+      "level": "subcore",
+      "st3_per": 0.0060327428382559965,
+      "st4_per": 0.008313713891672075,
+      "st5_per": 0.007667556400615238,
+      "st3_per_log": 0.5064926099832355,
+      "st4_per_log": 0.6275040404774775,
+      "st5_per_log": 0.6275756693799219,
+      "cluster_hdbscan": "8"
+    }
+  ],
+  "links": [
+    {
+      "Source": "Genus_A0839",
+      "Target": "Genus_Acidibacter",
+      "sparcc": 0.528752500027399
+    },
+    {
+      "Source": "Genus_A0839",
+      "Target": "Genus_SC-I-84",
+      "sparcc": 0.5129805314088155
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_Acetobacteraceae_unknown",
+      "sparcc": -0.5027951250424815
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_Anaerolineaceae_uncultured",
+      "sparcc": 0.5059263555699136
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_Caldilineaceae_uncultured",
+      "sparcc": 0.6634300887756368
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_Dokdonella",
+      "sparcc": 0.8079526922672875
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_Gemmatimonadaceae_uncultured",
+      "sparcc": 0.6812714473859014
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_Nordella",
+      "sparcc": 0.502375721122802
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_OLB14",
+      "sparcc": 0.6252584695195813
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_Pedomicrobium",
+      "sparcc": 0.6323192389719818
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_SM1A02",
+      "sparcc": 0.5644594137896525
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_SWB02",
+      "sparcc": 0.5039615624274257
+    },
+    {
+      "Source": "Genus_A4b",
+      "Target": "Genus_Vicinamibacteraceae",
+      "sparcc": 0.5023087131729637
+    },
+    {
+      "Source": "Genus_Acetobacteraceae_unknown",
+      "Target": "Genus_Caldilineaceae_uncultured",
+      "sparcc": -0.6031569129328821
+    },
+    {
+      "Source": "Genus_Acidibacter",
+      "Target": "Genus_Gemmatimonadaceae_uncultured",
+      "sparcc": 0.5157611359407508
+    },
+    {
+      "Source": "Genus_Acidibacter",
+      "Target": "Genus_Pedomicrobium",
+      "sparcc": 0.5124512408372988
+    },
+    {
+      "Source": "Genus_Acidibacter",
+      "Target": "Genus_SC-I-84",
+      "sparcc": 0.512520075750337
+    },
+    {
+      "Source": "Genus_Acidibacter",
+      "Target": "Genus_SWB02",
+      "sparcc": 0.5340701847856635
+    },
+    {
+      "Source": "Genus_Alkanibacter",
+      "Target": "Genus_Azospirillum",
+      "sparcc": 0.5209729250365697
+    },
+    {
+      "Source": "Genus_Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+      "Target": "Genus_Devosia",
+      "sparcc": 0.6724702800891282
+    },
+    {
+      "Source": "Genus_Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+      "Target": "Genus_Rhizobiaceae_unknown",
+      "sparcc": 0.5509810019122794
+    },
+    {
+      "Source": "Genus_Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+      "Target": "Genus_Sphingobium",
+      "sparcc": 0.6535036760688863
+    },
+    {
+      "Source": "Genus_Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+      "Target": "Genus_Sphingopyxis",
+      "sparcc": 0.6027305601692183
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Genus_Bauldia",
+      "sparcc": 0.5702204254932776
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Genus_Candidatus_Ovatusbacter",
+      "sparcc": 0.5272015925144414
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Genus_Micropepsaceae_uncultured",
+      "sparcc": 0.5052524932188245
+    },
+    {
+      "Source": "Genus_Amb-16S-1323",
+      "Target": "Genus_Bauldia",
+      "sparcc": 0.5296292469548918
+    },
+    {
+      "Source": "Genus_Amb-16S-1323",
+      "Target": "Genus_Dokdonella",
+      "sparcc": 0.5348333681668981
+    },
+    {
+      "Source": "Genus_Amb-16S-1323",
+      "Target": "Genus_Micropepsaceae_uncultured",
+      "sparcc": 0.6396551969198025
+    },
+    {
+      "Source": "Genus_Amb-16S-1323",
+      "Target": "Genus_Parafilimonas",
+      "sparcc": 0.5374125123944536
+    },
+    {
+      "Source": "Genus_Amb-16S-1323",
+      "Target": "Genus_SWB02",
+      "sparcc": 0.5047523613080394
+    },
+    {
+      "Source": "Genus_Anaerolineaceae_uncultured",
+      "Target": "Genus_Candidatus_Moranbacteria",
+      "sparcc": 0.5001592048396524
+    },
+    {
+      "Source": "Genus_Anaerolineaceae_uncultured",
+      "Target": "Genus_OLB14",
+      "sparcc": 0.5987563054574363
+    },
+    {
+      "Source": "Genus_Anaerolineaceae_uncultured",
+      "Target": "Genus_Sphingobium",
+      "sparcc": -0.5021503269559836
+    },
+    {
+      "Source": "Genus_Ardenticatenaceae_uncultured",
+      "Target": "Genus_Devosiaceae_uncultured",
+      "sparcc": 0.5736284818206627
+    },
+    {
+      "Source": "Genus_Arenimonas",
+      "Target": "Genus_SH-PL14",
+      "sparcc": 0.5151945570997729
+    },
+    {
+      "Source": "Genus_Bacteroides",
+      "Target": "Genus_Fusobacterium",
+      "sparcc": 0.5054233088531945
+    },
+    {
+      "Source": "Genus_Bacteroides",
+      "Target": "Genus_Morganellaceae_unknown",
+      "sparcc": 0.5006443229325916
+    },
+    {
+      "Source": "Genus_Bacteroides",
+      "Target": "Genus_Parabacteroides",
+      "sparcc": 0.523671441295715
+    },
+    {
+      "Source": "Genus_Bauldia",
+      "Target": "Genus_Micropepsaceae_uncultured",
+      "sparcc": 0.6002492318987138
+    },
+    {
+      "Source": "Genus_Bauldia",
+      "Target": "Genus_OLB14",
+      "sparcc": 0.5239509564465213
+    },
+    {
+      "Source": "Genus_Bauldia",
+      "Target": "Genus_Pseudolabrys",
+      "sparcc": 0.5407117699670607
+    },
+    {
+      "Source": "Genus_Bauldia",
+      "Target": "Genus_Xanthomonadaceae_unknown",
+      "sparcc": 0.7010378624921829
+    },
+    {
+      "Source": "Genus_Berkelbacteria",
+      "Target": "Genus_Solimonas",
+      "sparcc": 0.5001069218197262
+    },
+    {
+      "Source": "Genus_Blastocatellaceae_unknown",
+      "Target": "Genus_PLTA13",
+      "sparcc": 0.5666462265442251
+    },
+    {
+      "Source": "Genus_Bosea",
+      "Target": "Genus_Caulobacter",
+      "sparcc": 0.5587096785553409
+    },
+    {
+      "Source": "Genus_Bosea",
+      "Target": "Genus_Duganella",
+      "sparcc": 0.5553465566277523
+    },
+    {
+      "Source": "Genus_C0119",
+      "Target": "Genus_Roseiflexaceae_uncultured",
+      "sparcc": 0.5150783689476577
+    },
+    {
+      "Source": "Genus_C0119",
+      "Target": "Genus_Xanthobacteraceae_unknown",
+      "sparcc": 0.5031719634807619
+    },
+    {
+      "Source": "Genus_C0119",
+      "Target": "Genus_uncultured_uncultured",
+      "sparcc": 0.5279121416450242
+    },
+    {
+      "Source": "Genus_CL500-3",
+      "Target": "Genus_JGI_0001001-H03",
+      "sparcc": 0.5443206261457887
+    },
+    {
+      "Source": "Genus_Caldilineaceae_uncultured",
+      "Target": "Genus_Dokdonella",
+      "sparcc": 0.594371177494579
+    },
+    {
+      "Source": "Genus_Candidatus_Kuenenbacteria",
+      "Target": "Genus_Latescibacterota",
+      "sparcc": 0.5278106717387968
+    },
+    {
+      "Source": "Genus_Candidatus_Kuenenbacteria",
+      "Target": "Genus_WCHB1-41",
+      "sparcc": 0.5189115313796775
+    },
+    {
+      "Source": "Genus_Candidatus_Moranbacteria",
+      "Target": "Genus_Haliscomenobacter",
+      "sparcc": -0.5147935902229458
+    },
+    {
+      "Source": "Genus_Candidatus_Nucleicultrix",
+      "Target": "Genus_Duganella",
+      "sparcc": 0.5143052533223739
+    },
+    {
+      "Source": "Genus_Candidatus_Nucleicultrix",
+      "Target": "Genus_Noviherbaspirillum",
+      "sparcc": 0.5663764906120794
+    },
+    {
+      "Source": "Genus_Candidatus_Nucleicultrix",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.5483803770845774
+    },
+    {
+      "Source": "Genus_Candidatus_Nucleicultrix",
+      "Target": "Genus_UTBCD1",
+      "sparcc": 0.5661098848406716
+    },
+    {
+      "Source": "Genus_Candidatus_Nucleicultrix",
+      "Target": "Genus_unknown_136_rockwool",
+      "sparcc": 0.5559066650414943
+    },
+    {
+      "Source": "Genus_Candidatus_Nucleicultrix",
+      "Target": "Genus_unknown_150_rockwool",
+      "sparcc": 0.5442630760332086
+    },
+    {
+      "Source": "Genus_Candidatus_Solibacter",
+      "Target": "Genus_Rhodothermaceae_uncultured",
+      "sparcc": 0.5415366902635622
+    },
+    {
+      "Source": "Genus_Caulobacter",
+      "Target": "Genus_Duganella",
+      "sparcc": 0.5778240948773219
+    },
+    {
+      "Source": "Genus_Cellvibrio",
+      "Target": "Genus_Thioalkalispiraceae_uncultured",
+      "sparcc": 0.5239618273936688
+    },
+    {
+      "Source": "Genus_Chitinophagaceae_uncultured",
+      "Target": "Genus_Devosia",
+      "sparcc": 0.513129734490265
+    },
+    {
+      "Source": "Genus_Chitinophagaceae_uncultured",
+      "Target": "Genus_Ferrovibrio",
+      "sparcc": 0.5126348713847715
+    },
+    {
+      "Source": "Genus_Chitinophagaceae_uncultured",
+      "Target": "Genus_Paenibacillus",
+      "sparcc": -0.5435085612835199
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Taibaiella",
+      "sparcc": 0.5411229360689306
+    },
+    {
+      "Source": "Genus_Comamonadaceae_unknown",
+      "Target": "Genus_Terrimonas",
+      "sparcc": 0.6554719965915317
+    },
+    {
+      "Source": "Genus_DEV008",
+      "Target": "Genus_Streptomyces",
+      "sparcc": -0.523868983019849
+    },
+    {
+      "Source": "Genus_DEV008",
+      "Target": "Genus_unknown_72_rockwool",
+      "sparcc": 0.5616902640253385
+    },
+    {
+      "Source": "Genus_Devosia",
+      "Target": "Genus_Flavobacterium",
+      "sparcc": 0.6731638593202922
+    },
+    {
+      "Source": "Genus_Devosia",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.5606037523024279
+    },
+    {
+      "Source": "Genus_Devosia",
+      "Target": "Genus_Paenibacillus",
+      "sparcc": -0.5220395393736041
+    },
+    {
+      "Source": "Genus_Devosia",
+      "Target": "Genus_Pseudoxanthomonas",
+      "sparcc": 0.5660137871885641
+    },
+    {
+      "Source": "Genus_Devosia",
+      "Target": "Genus_Shinella",
+      "sparcc": 0.5996919829165668
+    },
+    {
+      "Source": "Genus_Devosia",
+      "Target": "Genus_Sphingopyxis",
+      "sparcc": 0.5898452745931865
+    },
+    {
+      "Source": "Genus_Dokdonella",
+      "Target": "Genus_Gemmatimonadaceae_uncultured",
+      "sparcc": 0.6728304908603785
+    },
+    {
+      "Source": "Genus_Dokdonella",
+      "Target": "Genus_Luteibacter",
+      "sparcc": -0.5201850176861114
+    },
+    {
+      "Source": "Genus_Dokdonella",
+      "Target": "Genus_Pedomicrobium",
+      "sparcc": 0.5494109885032464
+    },
+    {
+      "Source": "Genus_Dokdonella",
+      "Target": "Genus_SWB02",
+      "sparcc": 0.5179166661463339
+    },
+    {
+      "Source": "Genus_Duganella",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.5563575970932619
+    },
+    {
+      "Source": "Genus_Duganella",
+      "Target": "Genus_Vicinamibacteraceae",
+      "sparcc": -0.5024660332828353
+    },
+    {
+      "Source": "Genus_Duganella",
+      "Target": "Genus_env.OPS_17",
+      "sparcc": 0.5249200277378503
+    },
+    {
+      "Source": "Genus_Dyadobacter",
+      "Target": "Genus_Flavobacterium",
+      "sparcc": 0.5015893439979762
+    },
+    {
+      "Source": "Genus_Dyella",
+      "Target": "Genus_Luteibacter",
+      "sparcc": 0.5595043730126621
+    },
+    {
+      "Source": "Genus_EC3",
+      "Target": "Genus_JGI_0001001-H03",
+      "sparcc": 0.5349855075383287
+    },
+    {
+      "Source": "Genus_EC3",
+      "Target": "Genus_Niastella",
+      "sparcc": 0.5048998761907624
+    },
+    {
+      "Source": "Genus_Fibrisoma",
+      "Target": "Genus_Luteibacter",
+      "sparcc": 0.5247219623613983
+    },
+    {
+      "Source": "Genus_Flavihumibacter",
+      "Target": "Genus_JGI_0001001-H03",
+      "sparcc": -0.515464321913812
+    },
+    {
+      "Source": "Genus_Flavihumibacter",
+      "Target": "Genus_unknown_150_rockwool",
+      "sparcc": -0.5112302705081511
+    },
+    {
+      "Source": "Genus_Flavobacterium",
+      "Target": "Genus_Micropepsaceae_uncultured",
+      "sparcc": -0.5488150272539496
+    },
+    {
+      "Source": "Genus_Flavobacterium",
+      "Target": "Genus_Parafilimonas",
+      "sparcc": -0.5889320104001203
+    },
+    {
+      "Source": "Genus_Flavobacterium",
+      "Target": "Genus_Sphingobium",
+      "sparcc": 0.5456047852948651
+    },
+    {
+      "Source": "Genus_Fusobacterium",
+      "Target": "Genus_Parabacteroides",
+      "sparcc": 0.5482757102014025
+    },
+    {
+      "Source": "Genus_Gemmatimonadaceae_uncultured",
+      "Target": "Genus_Moraxellaceae_uncultured",
+      "sparcc": 0.5320756702983974
+    },
+    {
+      "Source": "Genus_Gemmatimonadaceae_uncultured",
+      "Target": "Genus_Nordella",
+      "sparcc": 0.502041848213421
+    },
+    {
+      "Source": "Genus_Gemmatimonadaceae_uncultured",
+      "Target": "Genus_OLB14",
+      "sparcc": 0.567061735612931
+    },
+    {
+      "Source": "Genus_Gemmatimonadaceae_uncultured",
+      "Target": "Genus_Pedomicrobium",
+      "sparcc": 0.6059831165022569
+    },
+    {
+      "Source": "Genus_Gemmatimonadaceae_uncultured",
+      "Target": "Genus_SM1A02",
+      "sparcc": 0.5281223788922216
+    },
+    {
+      "Source": "Genus_Gemmatimonadaceae_uncultured",
+      "Target": "Genus_SWB02",
+      "sparcc": 0.6148681219248963
+    },
+    {
+      "Source": "Genus_Gemmatimonadaceae_uncultured",
+      "Target": "Genus_Xanthomonadaceae_unknown",
+      "sparcc": 0.6201135842966724
+    },
+    {
+      "Source": "Genus_Gemmatimonas",
+      "Target": "Genus_Isosphaeraceae_uncultured",
+      "sparcc": 0.5060302103887053
+    },
+    {
+      "Source": "Genus_Gemmatimonas",
+      "Target": "Genus_Luteimonas",
+      "sparcc": 0.5719109591337082
+    },
+    {
+      "Source": "Genus_Gloeobacter_PCC-7421",
+      "Target": "Genus_Hephaestia",
+      "sparcc": 0.5832546990709093
+    },
+    {
+      "Source": "Genus_Gloeobacter_PCC-7421",
+      "Target": "Genus_Mucilaginibacter",
+      "sparcc": 0.5025305207997584
+    },
+    {
+      "Source": "Genus_Haliscomenobacter",
+      "Target": "Genus_Minicystis",
+      "sparcc": 0.6433259641436782
+    },
+    {
+      "Source": "Genus_Haliscomenobacter",
+      "Target": "Genus_unknown_118_rockwool",
+      "sparcc": 0.549893583838545
+    },
+    {
+      "Source": "Genus_Hirschia",
+      "Target": "Genus_Pirellulaceae_uncultured",
+      "sparcc": 0.5117506247157687
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Genus_Pseudoxanthomonas",
+      "sparcc": 0.5604699504465562
+    },
+    {
+      "Source": "Genus_Hyphomicrobiaceae_uncultured",
+      "Target": "Genus_Niastella",
+      "sparcc": 0.5152131550253574
+    },
+    {
+      "Source": "Genus_Hyphomicrobiaceae_uncultured",
+      "Target": "Genus_Nitrospira",
+      "sparcc": 0.5071442765802889
+    },
+    {
+      "Source": "Genus_IMCC26256",
+      "Target": "Genus_KD4-96",
+      "sparcc": 0.5030693320880064
+    },
+    {
+      "Source": "Genus_JGI_0001001-H03",
+      "Target": "Genus_Niastella",
+      "sparcc": 0.7351086825255133
+    },
+    {
+      "Source": "Genus_JGI_0001001-H03",
+      "Target": "Genus_Nitrospira",
+      "sparcc": 0.5059385330425742
+    },
+    {
+      "Source": "Genus_JGI_0001001-H03",
+      "Target": "Genus_Roseiflexaceae_uncultured",
+      "sparcc": -0.5053569956412958
+    },
+    {
+      "Source": "Genus_JGI_0001001-H03",
+      "Target": "Genus_UTBCD1",
+      "sparcc": 0.6243607838571452
+    },
+    {
+      "Source": "Genus_JGI_0001001-H03",
+      "Target": "Genus_WS2",
+      "sparcc": 0.5612324980905661
+    },
+    {
+      "Source": "Genus_JGI_0001001-H03",
+      "Target": "Genus_unknown_150_rockwool",
+      "sparcc": 0.683202664521946
+    },
+    {
+      "Source": "Genus_Lautropia",
+      "Target": "Genus_Tistrella",
+      "sparcc": 0.5376478135093558
+    },
+    {
+      "Source": "Genus_Luteimonas",
+      "Target": "Genus_uncultured_uncultured",
+      "sparcc": 0.706606017625828
+    },
+    {
+      "Source": "Genus_Lysobacter",
+      "Target": "Genus_Niabella",
+      "sparcc": 0.6288726522352606
+    },
+    {
+      "Source": "Genus_MBNT15",
+      "Target": "Genus_Nordella",
+      "sparcc": 0.5536483391591913
+    },
+    {
+      "Source": "Genus_Methylotenera",
+      "Target": "Genus_Moraxellaceae_uncultured",
+      "sparcc": 0.5977090720035816
+    },
+    {
+      "Source": "Genus_Methylotenera",
+      "Target": "Genus_PLTA13",
+      "sparcc": 0.5014751982280462
+    },
+    {
+      "Source": "Genus_Micrococcus",
+      "Target": "Genus_Paenibacillus",
+      "sparcc": 0.5759881457853653
+    },
+    {
+      "Source": "Genus_Micromonosporaceae_unknown",
+      "Target": "Genus_Rhizobacter",
+      "sparcc": 0.5248943746767216
+    },
+    {
+      "Source": "Genus_Micromonosporaceae_unknown",
+      "Target": "Genus_Streptomyces",
+      "sparcc": -0.5049068525756284
+    },
+    {
+      "Source": "Genus_Micromonosporaceae_unknown",
+      "Target": "Genus_unknown_72_rockwool",
+      "sparcc": 0.5190594718526272
+    },
+    {
+      "Source": "Genus_Micropepsaceae_uncultured",
+      "Target": "Genus_Parafilimonas",
+      "sparcc": 0.5955312119826626
+    },
+    {
+      "Source": "Genus_Micropepsaceae_uncultured",
+      "Target": "Genus_Pseudoxanthomonas",
+      "sparcc": -0.5448652342457421
+    },
+    {
+      "Source": "Genus_Microscillaceae_unknown",
+      "Target": "Genus_Rhodothermaceae_uncultured",
+      "sparcc": 0.5151628170334592
+    },
+    {
+      "Source": "Genus_Minicystis",
+      "Target": "Genus_unknown_118_rockwool",
+      "sparcc": 0.5462495032466234
+    },
+    {
+      "Source": "Genus_Moraxellaceae_uncultured",
+      "Target": "Genus_PLTA13",
+      "sparcc": 0.6706410198368988
+    },
+    {
+      "Source": "Genus_Moraxellaceae_uncultured",
+      "Target": "Genus_Shinella",
+      "sparcc": 0.5134976265025426
+    },
+    {
+      "Source": "Genus_Morganellaceae_unknown",
+      "Target": "Genus_Parabacteroides",
+      "sparcc": 0.5247304693942495
+    },
+    {
+      "Source": "Genus_NS9_marine_group",
+      "Target": "Genus_OLB17",
+      "sparcc": 0.5388679576559119
+    },
+    {
+      "Source": "Genus_NS9_marine_group",
+      "Target": "Genus_Thioalkalispiraceae_uncultured",
+      "sparcc": 0.6186147805834552
+    },
+    {
+      "Source": "Genus_Niastella",
+      "Target": "Genus_UTBCD1",
+      "sparcc": 0.6005150741449323
+    },
+    {
+      "Source": "Genus_Niastella",
+      "Target": "Genus_WS2",
+      "sparcc": 0.5768946474770944
+    },
+    {
+      "Source": "Genus_Niastella",
+      "Target": "Genus_unknown_150_rockwool",
+      "sparcc": 0.6750783468694186
+    },
+    {
+      "Source": "Genus_Nitrosospira",
+      "Target": "Genus_SM1A02",
+      "sparcc": 0.5439663679968032
+    },
+    {
+      "Source": "Genus_Nordella",
+      "Target": "Genus_OLB14",
+      "sparcc": 0.5051662010518039
+    },
+    {
+      "Source": "Genus_Nordella",
+      "Target": "Genus_Pedomicrobium",
+      "sparcc": 0.5109870225690847
+    },
+    {
+      "Source": "Genus_Nordella",
+      "Target": "Genus_Reyranellaceae_uncultured",
+      "sparcc": 0.5053522823307803
+    },
+    {
+      "Source": "Genus_Nordella",
+      "Target": "Genus_SC-I-84",
+      "sparcc": 0.5935239324816306
+    },
+    {
+      "Source": "Genus_Nordella",
+      "Target": "Genus_Vicinamibacteraceae",
+      "sparcc": 0.5130871544344903
+    },
+    {
+      "Source": "Genus_Novispirillum",
+      "Target": "Genus_Vermiphilaceae",
+      "sparcc": -0.5028245991200202
+    },
+    {
+      "Source": "Genus_OLB14",
+      "Target": "Genus_Parafilimonas",
+      "sparcc": 0.5096046575208335
+    },
+    {
+      "Source": "Genus_OLB14",
+      "Target": "Genus_Pedomicrobium",
+      "sparcc": 0.7002011181468722
+    },
+    {
+      "Source": "Genus_OLB14",
+      "Target": "Genus_Pedosphaeraceae",
+      "sparcc": 0.5121857719116116
+    },
+    {
+      "Source": "Genus_OLB14",
+      "Target": "Genus_SM1A02",
+      "sparcc": 0.5211155211519374
+    },
+    {
+      "Source": "Genus_OLB14",
+      "Target": "Genus_uncultured_uncultured",
+      "sparcc": 0.5787382054246881
+    },
+    {
+      "Source": "Genus_OLB17",
+      "Target": "Genus_PLTA13",
+      "sparcc": 0.5091962711760318
+    },
+    {
+      "Source": "Genus_OLB17",
+      "Target": "Genus_Pedomicrobium",
+      "sparcc": 0.5235508542140876
+    },
+    {
+      "Source": "Genus_OLB8",
+      "Target": "Genus_Saprospiraceae_uncultured",
+      "sparcc": 0.559666396752006
+    },
+    {
+      "Source": "Genus_Paenibacillus",
+      "Target": "Genus_Shinella",
+      "sparcc": -0.6076915956265059
+    },
+    {
+      "Source": "Genus_Paenibacillus",
+      "Target": "Genus_env.OPS_17",
+      "sparcc": 0.5631937818516181
+    },
+    {
+      "Source": "Genus_Pantoea",
+      "Target": "Genus_Rhodothermaceae_uncultured",
+      "sparcc": 0.5130025072250816
+    },
+    {
+      "Source": "Genus_Parafilimonas",
+      "Target": "Genus_SC-I-84",
+      "sparcc": 0.5021610894252099
+    },
+    {
+      "Source": "Genus_Pedomicrobium",
+      "Target": "Genus_SC-I-84",
+      "sparcc": 0.5253257370834669
+    },
+    {
+      "Source": "Genus_Pedomicrobium",
+      "Target": "Genus_SM1A02",
+      "sparcc": 0.6292033580044938
+    },
+    {
+      "Source": "Genus_Pedomicrobium",
+      "Target": "Genus_SWB02",
+      "sparcc": 0.5972472992691245
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Genus_Roseiflexaceae_uncultured",
+      "sparcc": -0.5189628754620464
+    },
+    {
+      "Source": "Genus_Pseudoxanthomonas",
+      "Target": "Genus_Shinella",
+      "sparcc": 0.5502754779304209
+    },
+    {
+      "Source": "Genus_Reyranellaceae_uncultured",
+      "Target": "Genus_SC-I-84",
+      "sparcc": 0.5537684377612406
+    },
+    {
+      "Source": "Genus_Reyranellaceae_uncultured",
+      "Target": "Genus_Vicinamibacteraceae",
+      "sparcc": 0.5517962489702345
+    },
+    {
+      "Source": "Genus_Rhizobiaceae_unknown",
+      "Target": "Genus_Sphingopyxis",
+      "sparcc": 0.777400891209175
+    },
+    {
+      "Source": "Genus_Rhodanobacter",
+      "Target": "Genus_WD260",
+      "sparcc": 0.5034104823926195
+    },
+    {
+      "Source": "Genus_SAR324_clade(Marine_group_B)",
+      "Target": "Genus_SM2D12",
+      "sparcc": 0.520546479431993
+    },
+    {
+      "Source": "Genus_SC-I-84",
+      "Target": "Genus_SWB02",
+      "sparcc": 0.5283229128735146
+    },
+    {
+      "Source": "Genus_SC-I-84",
+      "Target": "Genus_Vicinamibacteraceae",
+      "sparcc": 0.6161945451986923
+    },
+    {
+      "Source": "Genus_SM1A02",
+      "Target": "Genus_SWB02",
+      "sparcc": 0.5392566884952579
+    },
+    {
+      "Source": "Genus_Saccharimonadales",
+      "Target": "Genus_uncultured_uncultured",
+      "sparcc": 0.5083258330526725
+    },
+    {
+      "Source": "Genus_Shinella",
+      "Target": "Genus_env.OPS_17",
+      "sparcc": -0.5723041104725437
+    },
+    {
+      "Source": "Genus_Sphingobium",
+      "Target": "Genus_Sphingopyxis",
+      "sparcc": 0.6322130283712659
+    },
+    {
+      "Source": "Genus_Streptomyces",
+      "Target": "Genus_unknown_72_rockwool",
+      "sparcc": -0.5310398483407992
+    },
+    {
+      "Source": "Genus_Terrimicrobium",
+      "Target": "Genus_unknown_159_rockwool",
+      "sparcc": 0.6165609661577118
+    },
+    {
+      "Source": "Genus_Terrimonas",
+      "Target": "Genus_Xanthomonadaceae_unknown",
+      "sparcc": 0.5175086597713398
+    },
+    {
+      "Source": "Genus_Thioalkalispiraceae_uncultured",
+      "Target": "Genus_unknown_72_rockwool",
+      "sparcc": -0.5229361184356447
+    },
+    {
+      "Source": "Genus_UTBCD1",
+      "Target": "Genus_WS2",
+      "sparcc": 0.504750783348799
+    },
+    {
+      "Source": "Genus_UTBCD1",
+      "Target": "Genus_unknown_150_rockwool",
+      "sparcc": 0.674480965040503
+    },
+    {
+      "Source": "Genus_Vampirovibrio",
+      "Target": "Genus_unknown_150_rockwool",
+      "sparcc": 0.5258592762121553
+    },
+    {
+      "Source": "Genus_WS2",
+      "Target": "Genus_unknown_136_rockwool",
+      "sparcc": 0.5106002420278946
+    },
+    {
+      "Source": "Genus_WS2",
+      "Target": "Genus_unknown_150_rockwool",
+      "sparcc": 0.5745270919677474
+    }
+  ]
+}

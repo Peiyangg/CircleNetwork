@@ -1,13 +1,21 @@
 <script>
   import NetworkGraphLeft from '$lib/components/NetworkGraphLeft.svelte';
   import NetworkGraphRight from '$lib/components/NetworkGraphRight.svelte';
+  // import NetworkGraphLeft from '$lib/components/NetworkGraphLeft_mice_e.svelte';
+  // import NetworkGraphRight from '$lib/components/NetworkGraphRigh_mice_l.svelte';
+  
   import { createNetworkStores } from './stores';
 
 
   export let data = {};
   let sizeTime = 7;
-  let networkHeight = 600;
-  let networkWidth = 600;
+  let networkHeight ;
+  let networkWidth ;
+
+  $: if (typeof window !== 'undefined') {
+   networkWidth = Math.min(window.innerWidth * 0.45); // 45% of viewport width, max 800px
+   networkHeight = window.innerHeight * 0.35; // 40% of viewport height
+ }
 
   const LinkedData = createNetworkStores();
 
@@ -37,12 +45,12 @@
   <div class="graphs-container">
       <div class="graph-wrapper">
           <h2>Healthy Greenhouse Water Sample</h2>
-          <NetworkGraphLeft graph={data.healthy} {networkWidth} {networkHeight} {sizeTime} stores={LinkedData}/>
+          <NetworkGraphLeft graph={data.r_healthy_l} {networkWidth} {networkHeight} {sizeTime} stores={LinkedData}/>
         </div>
 
         <div class="graph-wrapper">
           <h2>Infested Greenhouse Water Sample</h2>
-          <NetworkGraphRight graph={data.infested} {networkWidth} {networkHeight} {sizeTime} stores={LinkedData}/>
+          <NetworkGraphRight graph={data.r_infested_l} {networkWidth} {networkHeight} {sizeTime} stores={LinkedData}/>
         </div>
 
         <!-- <div class="graph-wrapper">
@@ -73,14 +81,16 @@
 
   .graphs-container {
     display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+    justify-content: space-between; /* Changed from space-around */
+    width: 100%; /* Add this */
+    max-width: 100vw; /* Add this */
+    padding: 0 20px; /* Optional padding */
   }
 
   .graph-wrapper {
-    flex: 1 1 45%; /* Allows each graph-wrapper to take up 45% of the container's width */
-    margin: 10px; /* Adds some margin between the graph wrappers */
-    box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+    flex: 0 0 48%; /* Changed from 45% */
+    min-width: 300px;
+    max-width: none; /* Remove any max-width constraints */
   }
 
   NetworkGraph {
