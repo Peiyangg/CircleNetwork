@@ -7,7 +7,7 @@
   $: brushActive = $brushActiveStore;
 
   export let graph;
-  export let width = 800 ;
+  export let width = 800;
   export let height = 800;
   export let sizeTime = 15;
 
@@ -342,7 +342,7 @@
           return "hdbscanArc_" + i;
         }) // Unique id for each slice
         .attr("d", arc)
-        .style("fill", (d, i) => color(i)) // Apply rainbow color scale
+        .style("fill", (d) => d.data.cluster_hdbscan === '-1' ? "#808080" : color(clusterData.indexOf(d.data)))
         .attr("stroke", "#fff") // Add white stroke
         .attr("stroke-width", 2)
         .on("mouseover", function (event, d) {
@@ -385,6 +385,8 @@
         clusterColorMap.set(d.data.cluster_hdbscan, color(i));
       });
 
+      clusterColorMap.set(-1, "#808080"); 
+
       const node = svgContainer
         .append("g")
         .selectAll("g")
@@ -395,7 +397,7 @@
       node
         .append("circle")
         .attr("r", (d) => d[sizeBy] * 15)
-        .attr("fill", (d) => clusterColorMap.get(d.cluster_hdbscan))
+        .attr("fill", (d) => d.cluster_hdbscan === '-1' ? clusterColorMap.get(-1) : clusterColorMap.get(d.cluster_hdbscan))
         .attr("cx", (d) => d.x)
         .attr("cy", (d) => d.y)
         .attr("stroke", "#fff")
