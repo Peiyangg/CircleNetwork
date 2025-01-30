@@ -23,7 +23,7 @@
   let filteredLinks = [];
   let simulation;
   let sizeBy = "st3_per_log";
-  let linkThreshold = 0.5
+  let linkThreshold = 0.3
   const textThreshold = 0.65;
 
   const brush = d3.brush().on("start brush end", brushed);
