@@ -196,10 +196,16 @@
     const nodeIds = new Set(
       [...filteredSubcoreNodes, ...filteredCoreNodes].map((n) => n.id),
     );
+    
+    // Apply threshold filter during initial data processing
     filteredLinks = graph.links
-      .filter((link) => nodeIds.has(link.Source) && nodeIds.has(link.Target))
+      .filter((link) => 
+        nodeIds.has(link.Source) && 
+        nodeIds.has(link.Target) &&
+        Math.abs(link.sparcc) >= linkThreshold
+      )
       .map((d) => ({ ...d, RelatedOrNot: false }));
-  }
+}
 
   function createGraph(svg) {
     const radius = Math.min(width, height) / 2;
@@ -218,7 +224,12 @@
         ]),
       );
 
-      filteredLinks.forEach((link) => {
+      // Apply threshold filter during initial link creation
+      const thresholdFilteredLinks = filteredLinks.filter(link => 
+        Math.abs(link.sparcc) >= linkThreshold
+      );
+
+      thresholdFilteredLinks.forEach((link) => {
         link.source = nodeMap.get(link.Source);
         link.target = nodeMap.get(link.Target);
       });
@@ -249,7 +260,7 @@
         .force(
           "link",
           d3
-            .forceLink(filteredLinks)
+            .forceLink(thresholdFilteredLinks) // Use filtered links here
             .id((d) => d.id)
             .distance(100),
         )
@@ -297,11 +308,12 @@
       const link = svgContainer
         .append("g")
         .selectAll("line")
-        .data(filteredLinks)
+        .data(thresholdFilteredLinks)
         .enter()
         .append("line")
         .attr("data-core", d => d.source.level === "core" || d.target.level === "core")
         .attr("data-negative", d => d.sparcc < 0)
+        .style("display", d => Math.abs(d.sparcc) >= linkThreshold ? "block" : "none")
         .each(function (d) {
           d.element = this;
         });
@@ -704,8 +716,22 @@ function applyLocalHighlighting(nodeIds, storedLinks) {
 }
 
 function updateLinkVisibility(threshold) {
+    if (!svgContainer) return;
+    
     svgContainer.selectAll("line")
         .style("display", d => Math.abs(d.sparcc) >= threshold ? "block" : "none");
+    
+    // Update simulation with filtered links when threshold changes
+    if (simulation) {
+        const visibleLinks = filteredLinks.filter(link => 
+            Math.abs(link.sparcc) >= threshold
+        );
+        
+        simulation.force("link")
+            .links(visibleLinks);
+        
+        simulation.alpha(1).restart();
+    }
 }
 
 </script>
