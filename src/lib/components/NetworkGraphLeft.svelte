@@ -22,7 +22,7 @@
   let filteredCoreNodes = [];
   let filteredLinks = [];
   let simulation;
-  let sizeBy = "st3_per_log";
+  let sizeBy = "average_value_log";
   let linkThreshold = 0.5
   const textThreshold = 0.65;
 
@@ -710,43 +710,39 @@ function updateLinkVisibility(threshold) {
 
 </script>
 
-<button on:click={toggleBrush} class:brush-active={brushActive}>Toggle Brush</button>
+<div class="controls-container">
 
-<div class="control-group">
-  <label for="sizeBy">Node size by:</label>
-  <select id="sizeBy" bind:value={sizeBy}>
-      <option value="st1_per_log">Sample Type 1</option>
-      <option value="st2_per_log">Sample Type 2</option>
-      <option value="st3_per_log">Sample Type 3</option>
-      <option value="st4_per_log">Sample Type 4</option>
-      <option value="st5_per_log">Sample Type 5</option>
-  </select>
+
+
+  <div class="threshold-group">
+    <label for="linkThreshold">Link Threshold:</label>
+    <input 
+      type="range" 
+      id="linkThreshold" 
+      bind:value={linkThreshold} 
+      min="0" 
+      max="1" 
+      step="0.1"
+      on:input={() => updateLinkVisibility(linkThreshold)}
+    />
+    <span>{linkThreshold.toFixed(1)}</span>
+  </div>
+
+  <button on:click={toggleBrush} class:brush-active={brushActive}>Toggle Brush</button>
 </div>
-
-<label for="linkThreshold">Link Threshold:</label>
-<input 
-    type="range" 
-    id="linkThreshold" 
-    bind:value={linkThreshold} 
-    min="0" 
-    max="1" 
-    step="0.1"
-    on:input={() => updateLinkVisibility(linkThreshold)}
-/>
-<span>{linkThreshold.toFixed(1)}</span>
 
 <svg bind:this={svgContainer} {width} {height}></svg>
 
 <style>
   svg {
-    background: #f9f9f9;
+    background: #ffffff;
     border: 1px solid #ccc;
     margin: auto;
     display: block;
   }
   select {
     display: block;
-    margin: 10px auto;
+   
   }
 
   .brush-active {
@@ -816,5 +812,43 @@ function updateLinkVisibility(threshold) {
 
   :global(text) {
     pointer-events: none;
+}
+
+.controls-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;  /* Consistent spacing between elements */
+  margin-bottom : 1%;
+  align-items: center
+}
+
+.control-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.threshold-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Rest of your existing styles remain the same */
+.control-group label,
+.threshold-group label {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 16px;
+  margin-right: 8px;
+  white-space: nowrap;
+}
+
+button {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 16px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
 }
 </style>

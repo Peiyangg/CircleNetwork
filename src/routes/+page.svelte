@@ -13,8 +13,8 @@
   // Create an array of all available datasets
   $: datasets = Object.keys(data);
   
-  let leftGraphDataset = 'r_healthy_e_sparcc';
-  let rightGraphDataset = 'r_infected_e_sparcc';
+  let leftGraphDataset = 'CON_14';
+  let rightGraphDataset = 'FMT1_14';
 
   function handleLeftGraphChange(event) {
     leftGraphDataset = event.detail.value;
@@ -33,7 +33,7 @@
 </script>
 
 <main>
-  <h1>Network Graph</h1>
+
 
   <div class="graphs-container">
     <div class="graph-wrapper">
