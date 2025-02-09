@@ -11,10 +11,7 @@
     {
       label: "Network Datasets",
       options: [
-        { value: "CON_14", label: "Control_D14" },
-        { value: "FMT1_14", label: "FMT 1_D14" },
-        { value: "FMT2_14", label: "FMT 2_D14" },
-        { value: "FMT3_14", label: "FMT 3_D14" }
+
       ]
     }
   ];
