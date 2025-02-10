@@ -13,8 +13,8 @@
   // Create an array of all available datasets
   $: datasets = Object.keys(data);
   
-  let leftGraphDataset = 'Compromised';
-  let rightGraphDataset = 'Optimal';
+  let leftGraphDataset = 'Compromised_sparcc';
+  let rightGraphDataset = 'Optimal_sparcc';
 
   function handleLeftGraphChange(event) {
     leftGraphDataset = event.detail.value;

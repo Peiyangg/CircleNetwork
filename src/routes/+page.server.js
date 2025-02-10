@@ -32,14 +32,18 @@ const processData = async (fetch, filename) => {
 export const load = async ({ fetch }) => {
     try {
         // Load all network data
-        const [com_data, opt_data] = await Promise.all([
+        const [com_sparcc, opt_sparcc, com_spearman, opt_spearman] = await Promise.all([
             processData(fetch, 'Compromised_sparcc.json'),
-            processData(fetch, 'Optimal_sparcc.json')
+            processData(fetch, 'Optimal_sparcc.json'),
+            processData(fetch, 'Compromised_spearman.json'),
+            processData(fetch, 'Optimal_spearman.json')
         ]);
 
         return {
-            "Compromised": { nodes: com_data.nodes, links: com_data.links },
-            "Optimal": { nodes: opt_data.nodes, links: opt_data.links }
+            "Compromised_sparcc": { nodes: com_sparcc.nodes, links: com_sparcc.links },
+            "Optimal_sparcc": { nodes: opt_sparcc.nodes, links: opt_sparcc.links },
+            "Compromised_spearman": { nodes: com_spearman.nodes, links: com_spearman.links },
+            "Optimal_spearman": { nodes: opt_spearman.nodes, links: opt_spearman.links },
         }
     } catch (error) {
         console.error('Error loading data:', error);
