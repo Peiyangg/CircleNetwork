@@ -32,18 +32,18 @@ const processData = async (fetch, filename) => {
 export const load = async ({ fetch }) => {
     try {
         // Load all network data
-        const [con_data, fmt1_data, fmt2_data, fmt3_data] = await Promise.all([
-            processData(fetch, 'CON_sparcc.json'),
-            processData(fetch, 'FMT1_sparcc.json'),
-            processData(fetch, 'FMT2_sparcc.json'),
-            processData(fetch, 'FMT3_sparcc.json')
+        const [nat_sparcc, art_sparcc, nat_spearman, art_spearman] = await Promise.all([
+            processData(fetch, 'NAT_sparcc.json'),
+            processData(fetch, 'ART_sparcc.json'),
+            processData(fetch, 'NAT_spearman.json'),
+            processData(fetch, 'ART_spearman.json'),
         ]);
 
         return {
-            "CON_14": { nodes: con_data.nodes, links: con_data.links },
-            "FMT1_14": { nodes: fmt1_data.nodes, links: fmt1_data.links },
-            "FMT2_14": { nodes: fmt2_data.nodes, links: fmt2_data.links },
-            "FMT3_14": { nodes: fmt3_data.nodes, links: fmt3_data.links }
+            "Natural_sparcc": { nodes: nat_sparcc.nodes, links: nat_sparcc.links },
+            "Artifical_sparcc": { nodes: art_sparcc.nodes, links: art_sparcc.links },
+            "Natural_spearman": { nodes: nat_spearman.nodes, links: nat_spearman.links },
+            "Artifical_spearman": { nodes: art_spearman.nodes, links: art_spearman.links },
         }
     } catch (error) {
         console.error('Error loading data:', error);

@@ -11,10 +11,10 @@
     {
       label: "Network Datasets",
       options: [
-        { value: "CON_14", label: "Control_D14" },
-        { value: "FMT1_14", label: "FMT 1_D14" },
-        { value: "FMT2_14", label: "FMT 2_D14" },
-        { value: "FMT3_14", label: "FMT 3_D14" }
+        { value: "Natural_sparcc", label: "Natural Pond (sparcc)" },
+        { value: "Artifical_sparcc", label: "Artifical Pond (sparcc)" },
+        { value: "Natural_spearman", label: "Natural Pond (spearman)" },
+        { value: "Artifical_spearman", label: "Artifical Pond (spearman)" },
       ]
     }
   ];

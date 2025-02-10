@@ -1,0 +1,5873 @@
+{
+  "nodes": [
+    {
+      "id": "Family_unk_Arenicellaceae",
+      "label": "Family_unk_Arenicellaceae",
+      "level": "subcore",
+      "average_value": 0.00014009170548540193,
+      "average_value_log": 0.06301682646477576,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus Limnoluna",
+      "label": "Genus_Candidatus Limnoluna",
+      "level": "subcore",
+      "average_value": 0.0013026213420420673,
+      "average_value_log": 0.35737564693609536,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus Methylopumilus",
+      "label": "Genus_Candidatus Methylopumilus",
+      "level": "subcore",
+      "average_value": 0.00035053146221203314,
+      "average_value_log": 0.18408943316602708,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Chitinimonas",
+      "label": "Genus_Chitinimonas",
+      "level": "subcore",
+      "average_value": 0.00027152641878669273,
+      "average_value_log": 0.15037548388420158,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Chromobacterium",
+      "label": "Genus_Chromobacterium",
+      "level": "subcore",
+      "average_value": 0.0002700361746573598,
+      "average_value_log": 0.1496489701136851,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Corynebacterium",
+      "label": "Genus_Corynebacterium",
+      "level": "subcore",
+      "average_value": 0.012107981220657277,
+      "average_value_log": 0.6516881990187126,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_10",
+      "label": "Unclassified_10",
+      "level": "subcore",
+      "average_value": 0.0002119448418518047,
+      "average_value_log": 0.1176724136342393,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Cutibacterium",
+      "label": "Genus_Cutibacterium",
+      "level": "subcore",
+      "average_value": 0.00031731630591278517,
+      "average_value_log": 0.1709477412912446,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_DEV008",
+      "label": "Genus_DEV008",
+      "level": "subcore",
+      "average_value": 0.00011179797448375641,
+      "average_value_log": 0.033235062543317394,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_1",
+      "label": "Unclassified_1",
+      "level": "subcore",
+      "average_value": 0.07271977019851666,
+      "average_value_log": 0.888347378183645,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_hgcI clade",
+      "label": "Genus_hgcI clade",
+      "level": "subcore",
+      "average_value": 0.00012762299876025357,
+      "average_value_log": 0.0507113765511624,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Vogesella",
+      "label": "Genus_Vogesella",
+      "level": "subcore",
+      "average_value": 0.0007224632765822471,
+      "average_value_log": 0.27956057098622783,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Flavobacterium",
+      "label": "Genus_Flavobacterium",
+      "level": "subcore",
+      "average_value": 0.16942458935965388,
+      "average_value_log": 1.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Thiovirga",
+      "label": "Genus_Thiovirga",
+      "level": "subcore",
+      "average_value": 0.00016543402101985207,
+      "average_value_log": 0.08496667289901202,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Thiothrix",
+      "label": "Genus_Thiothrix",
+      "level": "subcore",
+      "average_value": 0.00020303326810176126,
+      "average_value_log": 0.11200180094594835,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus Bacilloplasma",
+      "label": "Genus_Candidatus Bacilloplasma",
+      "level": "subcore",
+      "average_value": 0.074309250584394,
+      "average_value_log": 0.8912017005574945,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Halarcobacter",
+      "label": "Genus_Halarcobacter",
+      "level": "subcore",
+      "average_value": 0.0007647941610471655,
+      "average_value_log": 0.2870771893976037,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Kocuria",
+      "label": "Genus_Kocuria",
+      "level": "subcore",
+      "average_value": 0.0008038324131211432,
+      "average_value_log": 0.2936491427947856,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Lacihabitans",
+      "label": "Genus_Lacihabitans",
+      "level": "subcore",
+      "average_value": 0.001221564063109963,
+      "average_value_log": 0.3488945093059105,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Simplicispira",
+      "label": "Genus_Simplicispira",
+      "level": "subcore",
+      "average_value": 0.004355321681856346,
+      "average_value_log": 0.5167132942327473,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_8",
+      "label": "Unclassified_8",
+      "level": "subcore",
+      "average_value": 0.008297304363424716,
+      "average_value_log": 0.6017974368252121,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Limnohabitans",
+      "label": "Genus_Limnohabitans",
+      "level": "subcore",
+      "average_value": 0.006941411259761579,
+      "average_value_log": 0.5782436294911953,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Rurimicrobium",
+      "label": "Genus_Rurimicrobium",
+      "level": "subcore",
+      "average_value": 0.0005937365679940722,
+      "average_value_log": 0.2536563044324428,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_MD3-55",
+      "label": "Genus_MD3-55",
+      "level": "subcore",
+      "average_value": 0.00046691729661004513,
+      "average_value_log": 0.22193667516543844,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_MWH-Ta3",
+      "label": "Genus_MWH-Ta3",
+      "level": "subcore",
+      "average_value": 0.00011534349856523942,
+      "average_value_log": 0.03735654325110262,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Methyloparacoccus",
+      "label": "Genus_Methyloparacoccus",
+      "level": "subcore",
+      "average_value": 0.005667131428005471,
+      "average_value_log": 0.5514692670734631,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Methylotenera",
+      "label": "Genus_Methylotenera",
+      "level": "subcore",
+      "average_value": 0.0003737103993727817,
+      "average_value_log": 0.19254207047320165,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Rhodoferax",
+      "label": "Genus_Rhodoferax",
+      "level": "subcore",
+      "average_value": 0.0044579358295259355,
+      "average_value_log": 0.5197874396147343,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Pseudomonas",
+      "label": "Genus_Pseudomonas",
+      "level": "subcore",
+      "average_value": 0.003082066939585995,
+      "average_value_log": 0.471064795849747,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Polynucleobacter",
+      "label": "Genus_Polynucleobacter",
+      "level": "subcore",
+      "average_value": 0.007170665913249295,
+      "average_value_log": 0.5825330578644795,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Pasteuria",
+      "label": "Genus_Pasteuria",
+      "level": "subcore",
+      "average_value": 0.01539341591431126,
+      "average_value_log": 0.6833802983026236,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sphingorhabdus",
+      "label": "Genus_Sphingorhabdus",
+      "level": "subcore",
+      "average_value": 0.00022558338460042108,
+      "average_value_log": 0.12590500599368054,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_C39",
+      "label": "Genus_C39",
+      "level": "subcore",
+      "average_value": 0.01101329960373336,
+      "average_value_log": 0.6391788489510709,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Pirellula",
+      "label": "Genus_Pirellula",
+      "level": "subcore",
+      "average_value": 0.029094496564128568,
+      "average_value_log": 0.7674185246700328,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_2",
+      "label": "Unclassified_2",
+      "level": "subcore",
+      "average_value": 0.03190977126610853,
+      "average_value_log": 0.7796113161068827,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_24",
+      "label": "Unclassified_24",
+      "level": "subcore",
+      "average_value": 0.0002899791002763235,
+      "average_value_log": 0.15905500701148378,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Saprospiraceae",
+      "label": "Family_unk_Saprospiraceae",
+      "level": "subcore",
+      "average_value": 0.02908142124384037,
+      "average_value_log": 0.7673591852778345,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_26",
+      "label": "Unclassified_26",
+      "level": "subcore",
+      "average_value": 0.0001476739344272971,
+      "average_value_log": 0.06997495559433049,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Rhizobiales Incertae Sedis",
+      "label": "Family_unk_Rhizobiales Incertae Sedis",
+      "level": "subcore",
+      "average_value": 0.0004684015428762316,
+      "average_value_log": 0.222355642960735,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Pirellulaceae",
+      "label": "Family_unk_Pirellulaceae",
+      "level": "subcore",
+      "average_value": 0.01657937466832699,
+      "average_value_log": 0.693177957587148,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_env.OPS 17",
+      "label": "Family_unk_env.OPS 17",
+      "level": "subcore",
+      "average_value": 0.0018362183499000672,
+      "average_value_log": 0.4026982866431121,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Aeromonas",
+      "label": "Genus_Aeromonas",
+      "level": "subcore",
+      "average_value": 0.0005673058127240761,
+      "average_value_log": 0.24764497494144136,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Mycoplasmataceae",
+      "label": "Family_unk_Mycoplasmataceae",
+      "level": "subcore",
+      "average_value": 0.0005489298711804887,
+      "average_value_log": 0.24329820224818394,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_T34",
+      "label": "Family_unk_T34",
+      "level": "subcore",
+      "average_value": 0.047443608886017494,
+      "average_value_log": 0.8319700417788205,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_21",
+      "label": "Unclassified_21",
+      "level": "subcore",
+      "average_value": 0.00010132303387838475,
+      "average_value_log": 0.020248046354447057,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Gemmataceae",
+      "label": "Family_unk_Gemmataceae",
+      "level": "subcore",
+      "average_value": 0.0001402954973913806,
+      "average_value_log": 0.06320872109114971,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_19",
+      "label": "Unclassified_19",
+      "level": "subcore",
+      "average_value": 0.0007263262270699059,
+      "average_value_log": 0.28026453243101773,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_18",
+      "label": "Unclassified_18",
+      "level": "subcore",
+      "average_value": 0.0007905902616212769,
+      "average_value_log": 0.291456342554752,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_4",
+      "label": "Unclassified_4",
+      "level": "subcore",
+      "average_value": 0.013405095284188411,
+      "average_value_log": 0.6651227743158363,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Comamonadaceae",
+      "label": "Family_unk_Comamonadaceae",
+      "level": "subcore",
+      "average_value": 0.0448499234534767,
+      "average_value_log": 0.824548495557768,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_BSV13",
+      "label": "Genus_BSV13",
+      "level": "subcore",
+      "average_value": 0.0007020547945205479,
+      "average_value_log": 0.2757778313438182,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_6",
+      "label": "Unclassified_6",
+      "level": "subcore",
+      "average_value": 0.005100662421118457,
+      "average_value_log": 0.5375670347033047,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Methylococcaceae",
+      "label": "Family_unk_Methylococcaceae",
+      "level": "subcore",
+      "average_value": 0.00015191004671546575,
+      "average_value_log": 0.07370841829125437,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_NS9 marine group",
+      "label": "Family_unk_NS9 marine group",
+      "level": "subcore",
+      "average_value": 0.0002564063193152214,
+      "average_value_log": 0.14281187897316744,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Mycobacterium",
+      "label": "Genus_Mycobacterium",
+      "level": "subcore",
+      "average_value": 0.001209068394099539,
+      "average_value_log": 0.3475372024586592,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Family_unk_Chitinophagaceae",
+      "label": "Family_unk_Chitinophagaceae",
+      "level": "subcore",
+      "average_value": 0.0023338636456957554,
+      "average_value_log": 0.43435630900963723,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Unclassified_14",
+      "label": "Unclassified_14",
+      "level": "subcore",
+      "average_value": 0.0009631131560477269,
+      "average_value_log": 0.3175137684654071,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Bdellovibrio",
+      "label": "Genus_Bdellovibrio",
+      "level": "subcore",
+      "average_value": 0.0007247389177050141,
+      "average_value_log": 0.27997572468614085,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Unclassified_11",
+      "label": "Unclassified_11",
+      "level": "subcore",
+      "average_value": 0.003041784834640425,
+      "average_value_log": 0.4693280840931544,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Tychonema CCAP 1459-11B",
+      "label": "Genus_Tychonema CCAP 1459-11B",
+      "level": "subcore",
+      "average_value": 0.0005843830498166705,
+      "average_value_log": 0.25156012369412584,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Arenimonas",
+      "label": "Genus_Arenimonas",
+      "level": "subcore",
+      "average_value": 0.0003407868755854322,
+      "average_value_log": 0.18036767540192872,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Unclassified_13",
+      "label": "Unclassified_13",
+      "level": "subcore",
+      "average_value": 0.004675628895572779,
+      "average_value_log": 0.5260813497448411,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Deefgea",
+      "label": "Genus_Deefgea",
+      "level": "subcore",
+      "average_value": 0.00017909765964707136,
+      "average_value_log": 0.09544275855122171,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Family_unk_Verrucomicrobiaceae",
+      "label": "Family_unk_Verrucomicrobiaceae",
+      "level": "subcore",
+      "average_value": 0.0003138683844717226,
+      "average_value_log": 0.16950549570163145,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Tyzzerella",
+      "label": "Genus_Tyzzerella",
+      "level": "subcore",
+      "average_value": 0.001455026455026455,
+      "average_value_log": 0.3719818550657921,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Pedobacter",
+      "label": "Genus_Pedobacter",
+      "level": "subcore",
+      "average_value": 0.005090583190514131,
+      "average_value_log": 0.537305918243598,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Methylobacterium-Methylorubrum",
+      "label": "Genus_Methylobacterium-Methylorubrum",
+      "level": "subcore",
+      "average_value": 0.005288975239617046,
+      "average_value_log": 0.542352906276369,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Clostridium sensu stricto 1",
+      "label": "Genus_Clostridium sensu stricto 1",
+      "level": "subcore",
+      "average_value": 0.005965124705125372,
+      "average_value_log": 0.5582343252572699,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Acinetobacter",
+      "label": "Genus_Acinetobacter",
+      "level": "subcore",
+      "average_value": 0.05049147460277583,
+      "average_value_log": 0.8401892842693857,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Klebsiella",
+      "label": "Genus_Klebsiella",
+      "level": "subcore",
+      "average_value": 0.0005827829074865564,
+      "average_value_log": 0.2511981639536181,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Unclassified_25",
+      "label": "Unclassified_25",
+      "level": "subcore",
+      "average_value": 0.00015369360436291523,
+      "average_value_log": 0.07524929374665706,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Enhydrobacter",
+      "label": "Genus_Enhydrobacter",
+      "level": "subcore",
+      "average_value": 0.003305537024683122,
+      "average_value_log": 0.4803052365678297,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Sphingomonas",
+      "label": "Genus_Sphingomonas",
+      "level": "subcore",
+      "average_value": 0.046004295536396164,
+      "average_value_log": 0.8279032294924985,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_CL500-29 marine group",
+      "label": "Genus_CL500-29 marine group",
+      "level": "subcore",
+      "average_value": 0.00030322549214434065,
+      "average_value_log": 0.1649515747094595,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Algoriphagus",
+      "label": "Genus_Algoriphagus",
+      "level": "subcore",
+      "average_value": 8.962179602079225e-05,
+      "average_value_log": 0.004048516005126488,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Rhodoluna",
+      "label": "Genus_Rhodoluna",
+      "level": "subcore",
+      "average_value": 0.000684947882038167,
+      "average_value_log": 0.27252133682479424,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Candidatus Planktoluna",
+      "label": "Genus_Candidatus Planktoluna",
+      "level": "subcore",
+      "average_value": 0.0004261318226704454,
+      "average_value_log": 0.20987059029062083,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Unclassified_30",
+      "label": "Unclassified_30",
+      "level": "subcore",
+      "average_value": 9.186234092131206e-05,
+      "average_value_log": 0.007308166531311323,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Holospora",
+      "label": "Genus_Holospora",
+      "level": "subcore",
+      "average_value": 0.000941762690924992,
+      "average_value_log": 0.3145544422138304,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Emticicia",
+      "label": "Genus_Emticicia",
+      "level": "subcore",
+      "average_value": 0.003833209145547776,
+      "average_value_log": 0.4998562389681855,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Unclassified_17",
+      "label": "Unclassified_17",
+      "level": "subcore",
+      "average_value": 0.00010864369214723393,
+      "average_value_log": 0.029456988068558898,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Thermomonas",
+      "label": "Genus_Thermomonas",
+      "level": "subcore",
+      "average_value": 0.00010212507061839988,
+      "average_value_log": 0.02128886930229233,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Streptococcus",
+      "label": "Genus_Streptococcus",
+      "level": "subcore",
+      "average_value": 8.908782756073182e-05,
+      "average_value_log": 0.0032596505261848338,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Unclassified_23",
+      "label": "Unclassified_23",
+      "level": "subcore",
+      "average_value": 0.00018469427665029767,
+      "average_value_log": 0.09950476658745948,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Unclassified_20",
+      "label": "Unclassified_20",
+      "level": "subcore",
+      "average_value": 0.00011950806136195731,
+      "average_value_log": 0.04203880283655507,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Unclassified_29",
+      "label": "Unclassified_29",
+      "level": "subcore",
+      "average_value": 8.691495371778715e-05,
+      "average_value_log": 0.0,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Thiodictyon",
+      "label": "Genus_Thiodictyon",
+      "level": "subcore",
+      "average_value": 0.00010647081830428927,
+      "average_value_log": 0.026790046071356467,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Leptothrix",
+      "label": "Genus_Leptothrix",
+      "level": "subcore",
+      "average_value": 8.908782756073182e-05,
+      "average_value_log": 0.0032596505261848338,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Coxiella",
+      "label": "Genus_Coxiella",
+      "level": "subcore",
+      "average_value": 0.0003259310764417018,
+      "average_value_log": 0.17448385032235514,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Bergeyella",
+      "label": "Genus_Bergeyella",
+      "level": "subcore",
+      "average_value": 0.00030202946416931035,
+      "average_value_log": 0.16442985464094387,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Family_unk_M2PB4-65 termite group",
+      "label": "Family_unk_M2PB4-65 termite group",
+      "level": "subcore",
+      "average_value": 0.0002346703750380253,
+      "average_value_log": 0.13111831130374155,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Family_unk_UBA12409",
+      "label": "Family_unk_UBA12409",
+      "level": "subcore",
+      "average_value": 0.0002455347442527487,
+      "average_value_log": 0.13709259499055867,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Unclassified_5",
+      "label": "Unclassified_5",
+      "level": "subcore",
+      "average_value": 0.01301593439697584,
+      "average_value_log": 0.6612337124711158,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Unclassified_7",
+      "label": "Unclassified_7",
+      "level": "subcore",
+      "average_value": 0.005943139326936548,
+      "average_value_log": 0.5577468865955729,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Silvanigrella",
+      "label": "Genus_Silvanigrella",
+      "level": "subcore",
+      "average_value": 0.012562659027473153,
+      "average_value_log": 0.6565545845066818,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Pseudarcicella",
+      "label": "Genus_Pseudarcicella",
+      "level": "subcore",
+      "average_value": 0.04019939104604915,
+      "average_value_log": 0.8100974505799594,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Family_unk_Candidatus Hepatincola",
+      "label": "Family_unk_Candidatus Hepatincola",
+      "level": "subcore",
+      "average_value": 0.004435853050262399,
+      "average_value_log": 0.5191318956826798,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Family_unk_FTLpost3",
+      "label": "Family_unk_FTLpost3",
+      "level": "subcore",
+      "average_value": 0.00011134166708841541,
+      "average_value_log": 0.03269515999716749,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Family_unk_Sporomusaceae",
+      "label": "Family_unk_Sporomusaceae",
+      "level": "subcore",
+      "average_value": 0.0002628942908399402,
+      "average_value_log": 0.14611060839730666,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Family_unk_TC1",
+      "label": "Family_unk_TC1",
+      "level": "subcore",
+      "average_value": 0.00023979371807917628,
+      "average_value_log": 0.13396933586688148,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Desulfovibrio",
+      "label": "Genus_Desulfovibrio",
+      "level": "subcore",
+      "average_value": 0.0005719637594950403,
+      "average_value_log": 0.24872442967926162,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Anaerovorax",
+      "label": "Genus_Anaerovorax",
+      "level": "subcore",
+      "average_value": 0.00034856969685791536,
+      "average_value_log": 0.18334856288829818,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Unclassified_15",
+      "label": "Unclassified_15",
+      "level": "subcore",
+      "average_value": 0.0002018537304990078,
+      "average_value_log": 0.1112326471606727,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Dechloromonas",
+      "label": "Genus_Dechloromonas",
+      "level": "subcore",
+      "average_value": 0.0005352392482577747,
+      "average_value_log": 0.23996406667133124,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_WCHB1-32",
+      "label": "Genus_WCHB1-32",
+      "level": "subcore",
+      "average_value": 0.0001380547034879533,
+      "average_value_log": 0.06108325710290811,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Desulfomicrobium",
+      "label": "Genus_Desulfomicrobium",
+      "level": "subcore",
+      "average_value": 0.0001140079710104781,
+      "average_value_log": 0.03581913138640533,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Erysipelothrix",
+      "label": "Genus_Erysipelothrix",
+      "level": "subcore",
+      "average_value": 0.0005152200701781836,
+      "average_value_log": 0.23493191660173895,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Paludibacter",
+      "label": "Genus_Paludibacter",
+      "level": "subcore",
+      "average_value": 0.000154360038463485,
+      "average_value_log": 0.0758204639377639,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Pseudarcobacter",
+      "label": "Genus_Pseudarcobacter",
+      "level": "subcore",
+      "average_value": 0.00016687218042291628,
+      "average_value_log": 0.08610930200999138,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Lentimicrobium",
+      "label": "Genus_Lentimicrobium",
+      "level": "subcore",
+      "average_value": 0.00011134166708841541,
+      "average_value_log": 0.03269515999716749,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Unclassified_9",
+      "label": "Unclassified_9",
+      "level": "subcore",
+      "average_value": 0.0008937443284401019,
+      "average_value_log": 0.30764593214739616,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_LD29",
+      "label": "Genus_LD29",
+      "level": "subcore",
+      "average_value": 0.002747611169228195,
+      "average_value_log": 0.4559010924890886,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Unclassified_12",
+      "label": "Unclassified_12",
+      "level": "subcore",
+      "average_value": 0.002055077938128825,
+      "average_value_log": 0.41756324982175946,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Family_unk_Lentimicrobiaceae",
+      "label": "Family_unk_Lentimicrobiaceae",
+      "level": "subcore",
+      "average_value": 0.0019832480299813203,
+      "average_value_log": 0.4128666480219341,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_[Eubacterium] brachy group",
+      "label": "Genus_[Eubacterium] brachy group",
+      "level": "subcore",
+      "average_value": 0.001466174086324499,
+      "average_value_log": 0.3729893835333046,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_Terrimicrobium",
+      "label": "Genus_Terrimicrobium",
+      "level": "subcore",
+      "average_value": 0.001913279924605472,
+      "average_value_log": 0.40812528732071623,
+      "cluster_hdbscan": "6"
+    },
+    {
+      "id": "Genus_IMCC26207",
+      "label": "Genus_IMCC26207",
+      "level": "subcore",
+      "average_value": 0.00017839299639693163,
+      "average_value_log": 0.09492234154006267,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Unclassified_22",
+      "label": "Unclassified_22",
+      "level": "subcore",
+      "average_value": 0.00031515845330312004,
+      "average_value_log": 0.17004697057726115,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Family_unk_Sandaracinaceae",
+      "label": "Family_unk_Sandaracinaceae",
+      "level": "subcore",
+      "average_value": 0.0001356280984005238,
+      "average_value_log": 0.05874228104865535,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Family_unk_Weeksellaceae",
+      "label": "Family_unk_Weeksellaceae",
+      "level": "subcore",
+      "average_value": 8.721166551845728e-05,
+      "average_value_log": 0.0004498876438460548,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Unclassified_27",
+      "label": "Unclassified_27",
+      "level": "subcore",
+      "average_value": 0.00013469524692833216,
+      "average_value_log": 0.05783118394544784,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Altererythrobacter",
+      "label": "Genus_Altererythrobacter",
+      "level": "subcore",
+      "average_value": 0.0001356280984005238,
+      "average_value_log": 0.05874228104865535,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Unclassified_28",
+      "label": "Unclassified_28",
+      "level": "subcore",
+      "average_value": 0.0001215976054625386,
+      "average_value_log": 0.04432697654371626,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Luteimonas",
+      "label": "Genus_Luteimonas",
+      "level": "subcore",
+      "average_value": 0.00014378328801877368,
+      "average_value_log": 0.06645038078246158,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Perlucidibaca",
+      "label": "Genus_Perlucidibaca",
+      "level": "subcore",
+      "average_value": 0.00016135066878683005,
+      "average_value_log": 0.08166744936327346,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Desulfobulbus",
+      "label": "Genus_Desulfobulbus",
+      "level": "subcore",
+      "average_value": 0.0002198110560284351,
+      "average_value_log": 0.12248312766857951,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Family_unk_Spirosomaceae",
+      "label": "Family_unk_Spirosomaceae",
+      "level": "subcore",
+      "average_value": 0.0004239378410158741,
+      "average_value_log": 0.20918917255621136,
+      "cluster_hdbscan": "7"
+    },
+    {
+      "id": "Genus_Pajaroellobacter",
+      "label": "Genus_Pajaroellobacter",
+      "level": "subcore",
+      "average_value": 0.0004454033548271187,
+      "average_value_log": 0.21570955854862545,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Novosphingobium",
+      "label": "Genus_Novosphingobium",
+      "level": "subcore",
+      "average_value": 0.0004077560783319249,
+      "average_value_log": 0.20405168118799996,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Rhodobacter",
+      "label": "Genus_Rhodobacter",
+      "level": "subcore",
+      "average_value": 0.0004326488175344383,
+      "average_value_log": 0.21187417387194812,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Rhizobacter",
+      "label": "Genus_Rhizobacter",
+      "level": "subcore",
+      "average_value": 0.00012127380772365696,
+      "average_value_log": 0.043974985459510715,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Alkanindiges",
+      "label": "Genus_Alkanindiges",
+      "level": "subcore",
+      "average_value": 0.0003928861312848091,
+      "average_value_log": 0.1991476313385707,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Unclassified_16",
+      "label": "Unclassified_16",
+      "level": "subcore",
+      "average_value": 0.0002934608019657008,
+      "average_value_log": 0.16063056568098347,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Chryseobacterium",
+      "label": "Genus_Chryseobacterium",
+      "level": "subcore",
+      "average_value": 0.00036258371195504183,
+      "average_value_log": 0.1885519903483553,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Gemmobacter",
+      "label": "Genus_Gemmobacter",
+      "level": "core",
+      "average_value": 0.0010916190595259812,
+      "average_value_log": 0.3340474300004651,
+      "cluster_hdbscan": "8"
+    },
+    {
+      "id": "Genus_Fluviicola",
+      "label": "Genus_Fluviicola",
+      "level": "subcore",
+      "average_value": 0.008961588746659635,
+      "average_value_log": 0.6119643635815151,
+      "cluster_hdbscan": "9"
+    },
+    {
+      "id": "Genus_Aurantimicrobium",
+      "label": "Genus_Aurantimicrobium",
+      "level": "subcore",
+      "average_value": 0.014015070725117745,
+      "average_value_log": 0.6709969633446276,
+      "cluster_hdbscan": "9"
+    },
+    {
+      "id": "Unclassified_3",
+      "label": "Unclassified_3",
+      "level": "subcore",
+      "average_value": 0.03432297346550539,
+      "average_value_log": 0.7892351305933274,
+      "cluster_hdbscan": "9"
+    },
+    {
+      "id": "Genus_Hydrogenophaga",
+      "label": "Genus_Hydrogenophaga",
+      "level": "subcore",
+      "average_value": 0.033793922957193245,
+      "average_value_log": 0.7871845114344874,
+      "cluster_hdbscan": "9"
+    },
+    {
+      "id": "Genus_GKS98 freshwater group",
+      "label": "Genus_GKS98 freshwater group",
+      "level": "subcore",
+      "average_value": 0.01876788029607617,
+      "average_value_log": 0.7095454381709123,
+      "cluster_hdbscan": "9"
+    },
+    {
+      "id": "Genus_Sediminibacterium",
+      "label": "Genus_Sediminibacterium",
+      "level": "subcore",
+      "average_value": 0.005647736965271736,
+      "average_value_log": 0.5510167211411512,
+      "cluster_hdbscan": "10"
+    },
+    {
+      "id": "Genus_Ideonella",
+      "label": "Genus_Ideonella",
+      "level": "subcore",
+      "average_value": 0.0042755333709011386,
+      "average_value_log": 0.5142724963681047,
+      "cluster_hdbscan": "10"
+    },
+    {
+      "id": "Genus_Candidatus Symbiobacter",
+      "label": "Genus_Candidatus Symbiobacter",
+      "level": "subcore",
+      "average_value": 0.004954095140115833,
+      "average_value_log": 0.5337181917990586,
+      "cluster_hdbscan": "10"
+    },
+    {
+      "id": "Genus_Luteolibacter",
+      "label": "Genus_Luteolibacter",
+      "level": "subcore",
+      "average_value": 0.010007645598120275,
+      "average_value_log": 0.6265384146165042,
+      "cluster_hdbscan": "10"
+    }
+  ],
+  "links": [
+    {
+      "Source": "Family_unk_Arenicellaceae",
+      "Target": "Family_unk_Gemmataceae",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Arenicellaceae",
+      "Target": "Genus_DEV008",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Arenicellaceae",
+      "Target": "Genus_Klebsiella",
+      "sparcc": 0.7405519376515929
+    },
+    {
+      "Source": "Family_unk_Candidatus Hepatincola",
+      "Target": "Family_unk_T34",
+      "sparcc": 0.6812732021113074
+    },
+    {
+      "Source": "Family_unk_Candidatus Hepatincola",
+      "Target": "Genus_Klebsiella",
+      "sparcc": 0.602415002688468
+    },
+    {
+      "Source": "Family_unk_Candidatus Hepatincola",
+      "Target": "Genus_Luteimonas",
+      "sparcc": 0.6085110634045321
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Family_unk_NS9 marine group",
+      "sparcc": 0.6626660987300745
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Genus_Anaerovorax",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Genus_Bdellovibrio",
+      "sparcc": 0.6626660987300745
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Genus_Deefgea",
+      "sparcc": 0.6626660987300745
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Genus_Tychonema CCAP 1459-11B",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Unclassified_11",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Unclassified_13",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Family_unk_Chitinophagaceae",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Family_unk_Sporomusaceae",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Family_unk_TC1",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Genus_Anaerovorax",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Genus_Dechloromonas",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Genus_Lentimicrobium",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Genus_Paludibacter",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Unclassified_15",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_FTLpost3",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Family_unk_Gemmataceae",
+      "Target": "Genus_DEV008",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Family_unk_Pirellulaceae",
+      "sparcc": 0.8008962013112094
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Family_unk_Sporomusaceae",
+      "sparcc": 0.7854483198497175
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Family_unk_TC1",
+      "sparcc": 0.8546508149906619
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Anaerovorax",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_C39",
+      "sparcc": 0.8424501633463417
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Candidatus Bacilloplasma",
+      "sparcc": 0.634608535757146
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Dechloromonas",
+      "sparcc": 0.7854483198497175
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Fluviicola",
+      "sparcc": 0.7067102921052777
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.987692307692308
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_LD29",
+      "sparcc": 0.8537582192301851
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.9102984986494028
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Pirellula",
+      "sparcc": 0.7226629631036575
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.987692307692308
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.6234428717024376
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.8212475585641351
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Unclassified_12",
+      "sparcc": 0.7819881950926703
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Unclassified_15",
+      "sparcc": 0.8442704407195202
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Family_unk_Lentimicrobiaceae",
+      "Target": "Unclassified_9",
+      "sparcc": 0.9907692307692308
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Family_unk_UBA12409",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Anaerovorax",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Bergeyella",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Coxiella",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Leptothrix",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Unclassified_12",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Unclassified_17",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Unclassified_20",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_M2PB4-65 termite group",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_Methylococcaceae",
+      "Target": "Genus_BSV13",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Methylococcaceae",
+      "Target": "Genus_Chitinimonas",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Methylococcaceae",
+      "Target": "Genus_MWH-Ta3",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Family_unk_Methylococcaceae",
+      "Target": "Genus_Thiothrix",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Mycoplasmataceae",
+      "Target": "Family_unk_Sandaracinaceae",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Mycoplasmataceae",
+      "Target": "Genus_Altererythrobacter",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Mycoplasmataceae",
+      "Target": "Genus_Desulfobulbus",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Mycoplasmataceae",
+      "Target": "Genus_Perlucidibaca",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Mycoplasmataceae",
+      "Target": "Genus_Rhodoluna",
+      "sparcc": 0.6083795076655815
+    },
+    {
+      "Source": "Family_unk_Mycoplasmataceae",
+      "Target": "Unclassified_27",
+      "sparcc": 0.6459143968871596
+    },
+    {
+      "Source": "Family_unk_Mycoplasmataceae",
+      "Target": "Unclassified_28",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_NS9 marine group",
+      "Target": "Family_unk_Verrucomicrobiaceae",
+      "sparcc": 0.7411125527853482
+    },
+    {
+      "Source": "Family_unk_NS9 marine group",
+      "Target": "Genus_Bdellovibrio",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_NS9 marine group",
+      "Target": "Genus_Deefgea",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_NS9 marine group",
+      "Target": "Genus_Tychonema CCAP 1459-11B",
+      "sparcc": 0.994459833795014
+    },
+    {
+      "Source": "Family_unk_NS9 marine group",
+      "Target": "Genus_Tyzzerella",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_NS9 marine group",
+      "Target": "Unclassified_11",
+      "sparcc": 0.994459833795014
+    },
+    {
+      "Source": "Family_unk_NS9 marine group",
+      "Target": "Unclassified_13",
+      "sparcc": 0.994459833795014
+    },
+    {
+      "Source": "Family_unk_NS9 marine group",
+      "Target": "Unclassified_14",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Family_unk_Rhizobiales Incertae Sedis",
+      "sparcc": 0.6259721380821321
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Family_unk_Sporomusaceae",
+      "sparcc": 0.6053972551770247
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Family_unk_TC1",
+      "sparcc": 0.7246873547192956
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_C39",
+      "sparcc": 0.889351559654832
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_Candidatus Bacilloplasma",
+      "sparcc": 0.6990632978167592
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_Dechloromonas",
+      "sparcc": 0.6053972551770247
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_Fluviicola",
+      "sparcc": 0.7623423034722525
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.779680407898992
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_LD29",
+      "sparcc": 0.8942247188858174
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.9210270946562372
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_Pirellula",
+      "sparcc": 0.7491428571428573
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.779680407898992
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.8942247188858174
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Unclassified_12",
+      "sparcc": 0.602415002688468
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Unclassified_15",
+      "sparcc": 0.7217051022307388
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Unclassified_4",
+      "sparcc": 0.6042717446421874
+    },
+    {
+      "Source": "Family_unk_Pirellulaceae",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7876363304285735
+    },
+    {
+      "Source": "Family_unk_Rhizobiales Incertae Sedis",
+      "Target": "Family_unk_Saprospiraceae",
+      "sparcc": -0.613320626228245
+    },
+    {
+      "Source": "Family_unk_Rhizobiales Incertae Sedis",
+      "Target": "Genus_C39",
+      "sparcc": 0.6840265481773338
+    },
+    {
+      "Source": "Family_unk_Rhizobiales Incertae Sedis",
+      "Target": "Genus_LD29",
+      "sparcc": 0.6829106810514327
+    },
+    {
+      "Source": "Family_unk_Rhizobiales Incertae Sedis",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.6940693523104431
+    },
+    {
+      "Source": "Family_unk_Rhizobiales Incertae Sedis",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.7007645550658492
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Family_unk_Spirosomaceae",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Family_unk_Weeksellaceae",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Genus_Altererythrobacter",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Genus_Desulfobulbus",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Genus_IMCC26207",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Genus_Luteimonas",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Genus_Perlucidibaca",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Unclassified_27",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Sandaracinaceae",
+      "Target": "Unclassified_28",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Family_unk_Verrucomicrobiaceae",
+      "sparcc": 0.6943670454951991
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Genus_Aeromonas",
+      "sparcc": 0.6570605122011474
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Genus_Emticicia",
+      "sparcc": 0.6717083580145488
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Genus_Limnohabitans",
+      "sparcc": 0.6930947413404548
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.8079128059192584
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.6106950334305505
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Genus_Rhodoferax",
+      "sparcc": 0.6188557688438764
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Unclassified_2",
+      "sparcc": 0.6350887434810452
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Unclassified_5",
+      "sparcc": 0.6497365892944467
+    },
+    {
+      "Source": "Family_unk_Saprospiraceae",
+      "Target": "Unclassified_6",
+      "sparcc": 0.8379050324852775
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Aeromonas",
+      "sparcc": 0.7038115872993982
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Alkanindiges",
+      "sparcc": 0.8235096921772368
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Altererythrobacter",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Candidatus Methylopumilus",
+      "sparcc": 0.7566238566271906
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Desulfobulbus",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Gemmobacter",
+      "sparcc": 0.8581109397477091
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Luteimonas",
+      "sparcc": 0.7939459645042157
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.6459143968871596
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.8743543403000866
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Perlucidibaca",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.6616456153096707
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.7280120301160784
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Unclassified_16",
+      "sparcc": 0.8892520625611339
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Unclassified_22",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Unclassified_27",
+      "sparcc": 0.6459143968871596
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Unclassified_28",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Unclassified_6",
+      "sparcc": 0.6460658315111508
+    },
+    {
+      "Source": "Family_unk_Spirosomaceae",
+      "Target": "Unclassified_7",
+      "sparcc": 0.6442964377041714
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Family_unk_TC1",
+      "sparcc": 0.6108949416342414
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Anaerovorax",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_C39",
+      "sparcc": 0.785235683138303
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Dechloromonas",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Fluviicola",
+      "sparcc": 0.6397781154426365
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.8546508149906619
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_LD29",
+      "sparcc": 0.7598029484617587
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Lentimicrobium",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.7121165709432382
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Paludibacter",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.8546508149906619
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.7939459645042157
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.7216538464469423
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Unclassified_12",
+      "sparcc": 0.9961089494163424
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Unclassified_15",
+      "sparcc": 0.6459143968871596
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Unclassified_21",
+      "sparcc": 0.7405519376515929
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Unclassified_26",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Unclassified_4",
+      "sparcc": 0.696221111770398
+    },
+    {
+      "Source": "Family_unk_Sporomusaceae",
+      "Target": "Unclassified_9",
+      "sparcc": 0.8165894426631425
+    },
+    {
+      "Source": "Family_unk_T34",
+      "Target": "Genus_Arenimonas",
+      "sparcc": 0.7103624095038369
+    },
+    {
+      "Source": "Family_unk_T34",
+      "Target": "Genus_Klebsiella",
+      "sparcc": 0.6137211879168378
+    },
+    {
+      "Source": "Family_unk_T34",
+      "Target": "Genus_Luteolibacter",
+      "sparcc": 0.7370885132558574
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Family_unk_env.OPS 17",
+      "sparcc": 0.6033793745632301
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_C39",
+      "sparcc": 0.6580720097555818
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_Dechloromonas",
+      "sparcc": 0.6108949416342414
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.7854483198497175
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_LD29",
+      "sparcc": 0.696221111770398
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_Lentimicrobium",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.7439074892889186
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_Paludibacter",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_Pirellula",
+      "sparcc": 0.668024557436717
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.7854483198497175
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.7939459645042157
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.6262810914099016
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Unclassified_15",
+      "sparcc": 0.9961089494163424
+    },
+    {
+      "Source": "Family_unk_TC1",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7819881950926703
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Anaerovorax",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Bergeyella",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Coxiella",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Leptothrix",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Unclassified_12",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Unclassified_17",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Unclassified_20",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_UBA12409",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Family_unk_Verrucomicrobiaceae",
+      "Target": "Genus_Bdellovibrio",
+      "sparcc": 0.7411125527853483
+    },
+    {
+      "Source": "Family_unk_Verrucomicrobiaceae",
+      "Target": "Genus_Deefgea",
+      "sparcc": 0.7411125527853483
+    },
+    {
+      "Source": "Family_unk_Verrucomicrobiaceae",
+      "Target": "Genus_Limnohabitans",
+      "sparcc": 0.6633742836271238
+    },
+    {
+      "Source": "Family_unk_Verrucomicrobiaceae",
+      "Target": "Genus_Tychonema CCAP 1459-11B",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Family_unk_Verrucomicrobiaceae",
+      "Target": "Unclassified_11",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Family_unk_Verrucomicrobiaceae",
+      "Target": "Unclassified_13",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Alkanindiges",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Altererythrobacter",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Candidatus Methylopumilus",
+      "sparcc": 0.6847124716486248
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Chryseobacterium",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Desulfobulbus",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Gemmobacter",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_MD3-55",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.6869350879815023
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Perlucidibaca",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.6847124716486248
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Unclassified_10",
+      "sparcc": 0.784660046790716
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Unclassified_16",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Unclassified_28",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Family_unk_Weeksellaceae",
+      "Target": "Unclassified_7",
+      "sparcc": 0.6079281928934619
+    },
+    {
+      "Source": "Family_unk_env.OPS 17",
+      "Target": "Genus_Fluviicola",
+      "sparcc": 0.6391727595663397
+    },
+    {
+      "Source": "Family_unk_env.OPS 17",
+      "Target": "Genus_Ideonella",
+      "sparcc": 0.7117974777178652
+    },
+    {
+      "Source": "Family_unk_env.OPS 17",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.6154616994161992
+    },
+    {
+      "Source": "Family_unk_env.OPS 17",
+      "Target": "Unclassified_15",
+      "sparcc": 0.6088398213918566
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Alkanindiges",
+      "sparcc": 0.7677465241046197
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_CL500-29 marine group",
+      "sparcc": 0.6066390928805933
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Candidatus Methylopumilus",
+      "sparcc": 0.6822422923379535
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Emticicia",
+      "sparcc": 0.9405714285714288
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Gemmobacter",
+      "sparcc": 0.7783544208107285
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Lacihabitans",
+      "sparcc": 0.7398669242532228
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Limnohabitans",
+      "sparcc": 0.7077524651582846
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_MD3-55",
+      "sparcc": 0.64973367324916
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.6650423049481602
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.7802808549713512
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.7269910607789365
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.7913703781503681
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.8235639100365294
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.7332708598097664
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Unclassified_10",
+      "sparcc": 0.6650423049481602
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Unclassified_16",
+      "sparcc": 0.7810063949872557
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Unclassified_2",
+      "sparcc": 0.6531428571428572
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Unclassified_24",
+      "sparcc": 0.7080771051327581
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Unclassified_27",
+      "sparcc": 0.6352197800625924
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Unclassified_5",
+      "sparcc": 0.6211428571428573
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Unclassified_6",
+      "sparcc": 0.7508725083591248
+    },
+    {
+      "Source": "Genus_Aeromonas",
+      "Target": "Unclassified_7",
+      "sparcc": 0.7102652898862191
+    },
+    {
+      "Source": "Genus_Algoriphagus",
+      "Target": "Genus_Pasteuria",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Algoriphagus",
+      "Target": "Unclassified_30",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Algoriphagus",
+      "Target": "Unclassified_8",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Candidatus Methylopumilus",
+      "sparcc": 0.9187795405622854
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Candidatus Symbiobacter",
+      "sparcc": 0.6355947910129227
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Chryseobacterium",
+      "sparcc": 0.7161538461538463
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Emticicia",
+      "sparcc": 0.6722754537496411
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Gemmobacter",
+      "sparcc": 0.9969230769230768
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Hydrogenophaga",
+      "sparcc": 0.706290627749265
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Luteimonas",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_MD3-55",
+      "sparcc": 0.7423076923076923
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.8892520625611339
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.994611534131982
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.6527226671094456
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.7377604793737045
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Rhizobacter",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.7746153846153847
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Rhodoferax",
+      "sparcc": 0.6033088032261602
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.8947499218091178
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Silvanigrella",
+      "sparcc": 0.6234428717024376
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.7746153846153847
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Unclassified_10",
+      "sparcc": 0.8788716882899923
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Unclassified_16",
+      "sparcc": 0.9907692307692308
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Unclassified_2",
+      "sparcc": 0.7478567177806659
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6392307692307694
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Unclassified_5",
+      "sparcc": 0.633821828189997
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Unclassified_6",
+      "sparcc": 0.7016622181148622
+    },
+    {
+      "Source": "Genus_Alkanindiges",
+      "Target": "Unclassified_7",
+      "sparcc": 0.8177673449597758
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Genus_Desulfobulbus",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Genus_IMCC26207",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Genus_Luteimonas",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Genus_Perlucidibaca",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Unclassified_27",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Altererythrobacter",
+      "Target": "Unclassified_28",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Bergeyella",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_C39",
+      "sparcc": 0.6847124716486248
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Coxiella",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Dechloromonas",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_LD29",
+      "sparcc": 0.6809190507530647
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Lentimicrobium",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Leptothrix",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Methylotenera",
+      "sparcc": 0.6234428717024377
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Paludibacter",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6126374746329801
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.6486749731408025
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Unclassified_12",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Unclassified_17",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Unclassified_20",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Unclassified_23",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Unclassified_26",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Unclassified_29",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Anaerovorax",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Genus_Arenimonas",
+      "Target": "Genus_Hydrogenophaga",
+      "sparcc": -0.6142332039504409
+    },
+    {
+      "Source": "Genus_Arenimonas",
+      "Target": "Genus_Klebsiella",
+      "sparcc": 0.6641646097919655
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Genus_C39",
+      "sparcc": 0.6713313958713217
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Genus_Candidatus Symbiobacter",
+      "sparcc": 0.6352474002424131
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Genus_Fluviicola",
+      "sparcc": 0.7728843369616027
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Genus_Ideonella",
+      "sparcc": 0.6485374764569114
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Genus_LD29",
+      "sparcc": 0.6651153644280688
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.6506112910604785
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Genus_Polynucleobacter",
+      "sparcc": 0.8226571091581673
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Genus_Sediminibacterium",
+      "sparcc": 0.7142461154007644
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.6837634587578277
+    },
+    {
+      "Source": "Genus_Aurantimicrobium",
+      "Target": "Unclassified_4",
+      "sparcc": 0.6754754168334903
+    },
+    {
+      "Source": "Genus_BSV13",
+      "Target": "Genus_Chitinimonas",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_BSV13",
+      "Target": "Genus_Thiothrix",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bdellovibrio",
+      "Target": "Genus_Deefgea",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bdellovibrio",
+      "Target": "Genus_Tychonema CCAP 1459-11B",
+      "sparcc": 0.994459833795014
+    },
+    {
+      "Source": "Genus_Bdellovibrio",
+      "Target": "Genus_Tyzzerella",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Bdellovibrio",
+      "Target": "Unclassified_11",
+      "sparcc": 0.994459833795014
+    },
+    {
+      "Source": "Genus_Bdellovibrio",
+      "Target": "Unclassified_13",
+      "sparcc": 0.994459833795014
+    },
+    {
+      "Source": "Genus_Bdellovibrio",
+      "Target": "Unclassified_14",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Genus_Coxiella",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Genus_Leptothrix",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Unclassified_12",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Unclassified_17",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Unclassified_20",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Bergeyella",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Candidatus Bacilloplasma",
+      "sparcc": 0.7562948961351745
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Dechloromonas",
+      "sparcc": 0.7852356831383029
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.6847124716486248
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.6847124716486248
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.6847124716486248
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Fluviicola",
+      "sparcc": 0.7799898923321067
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.8650662751140287
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_LD29",
+      "sparcc": 0.9948051948051948
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.966233766233766
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Methylotenera",
+      "sparcc": 0.6629347761903259
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Pirellula",
+      "sparcc": 0.7699591584956903
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.6847124716486248
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.8650662751140287
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.9948051948051948
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Unclassified_12",
+      "sparcc": 0.7884147749728709
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Unclassified_15",
+      "sparcc": 0.6612511015901498
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6847124716486248
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Unclassified_4",
+      "sparcc": 0.7714285714285714
+    },
+    {
+      "Source": "Genus_C39",
+      "Target": "Unclassified_9",
+      "sparcc": 0.856585233201146
+    },
+    {
+      "Source": "Genus_Candidatus Bacilloplasma",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.6300099231791957
+    },
+    {
+      "Source": "Genus_Candidatus Bacilloplasma",
+      "Target": "Genus_LD29",
+      "sparcc": 0.7478446738319882
+    },
+    {
+      "Source": "Genus_Candidatus Bacilloplasma",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.7710827851657505
+    },
+    {
+      "Source": "Genus_Candidatus Bacilloplasma",
+      "Target": "Genus_Pirellula",
+      "sparcc": 0.8293635439725406
+    },
+    {
+      "Source": "Genus_Candidatus Bacilloplasma",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.6300099231791957
+    },
+    {
+      "Source": "Genus_Candidatus Bacilloplasma",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.7605200072867676
+    },
+    {
+      "Source": "Genus_Candidatus Bacilloplasma",
+      "Target": "Unclassified_3",
+      "sparcc": 0.6576181701214677
+    },
+    {
+      "Source": "Genus_Candidatus Bacilloplasma",
+      "Target": "Unclassified_4",
+      "sparcc": 0.6379917838905661
+    },
+    {
+      "Source": "Genus_Candidatus Bacilloplasma",
+      "Target": "Unclassified_9",
+      "sparcc": 0.6369078420461212
+    },
+    {
+      "Source": "Genus_Candidatus Limnoluna",
+      "Target": "Genus_Limnohabitans",
+      "sparcc": 0.6126968802738906
+    },
+    {
+      "Source": "Genus_Candidatus Limnoluna",
+      "Target": "Genus_Sphingomonas",
+      "sparcc": -0.7209591356015229
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Candidatus Symbiobacter",
+      "sparcc": 0.7350690084805193
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Chryseobacterium",
+      "sparcc": 0.6431456783935998
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Gemmobacter",
+      "sparcc": 0.9159525265913244
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Hydrogenophaga",
+      "sparcc": 0.7050053494455404
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Ideonella",
+      "sparcc": 0.603931529611275
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Luteimonas",
+      "sparcc": 0.6126374746329801
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_MD3-55",
+      "sparcc": 0.6700023111177281
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.8170266014839832
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.9138287283677324
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.67150428816918
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.6271596653655549
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Rhizobacter",
+      "sparcc": 0.6050506328418596
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.6996859578128173
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.8103896103896102
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.6996859578128173
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Unclassified_10",
+      "sparcc": 0.8074893259802791
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Unclassified_16",
+      "sparcc": 0.9102984986494028
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Unclassified_2",
+      "sparcc": 0.6627496554140119
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Unclassified_22",
+      "sparcc": 0.6486749731408025
+    },
+    {
+      "Source": "Genus_Candidatus Methylopumilus",
+      "Target": "Unclassified_7",
+      "sparcc": 0.723520205285687
+    },
+    {
+      "Source": "Genus_Candidatus Planktoluna",
+      "Target": "Genus_Lacihabitans",
+      "sparcc": 0.6152738692436627
+    },
+    {
+      "Source": "Genus_Candidatus Planktoluna",
+      "Target": "Unclassified_24",
+      "sparcc": 0.7721326383393019
+    },
+    {
+      "Source": "Genus_Candidatus Planktoluna",
+      "Target": "Unclassified_8",
+      "sparcc": 0.719990611012191
+    },
+    {
+      "Source": "Genus_Candidatus Symbiobacter",
+      "Target": "Genus_Gemmobacter",
+      "sparcc": 0.6222606345581061
+    },
+    {
+      "Source": "Genus_Candidatus Symbiobacter",
+      "Target": "Genus_Hydrogenophaga",
+      "sparcc": 0.9100472229116058
+    },
+    {
+      "Source": "Genus_Candidatus Symbiobacter",
+      "Target": "Genus_Ideonella",
+      "sparcc": 0.6631698836136956
+    },
+    {
+      "Source": "Genus_Candidatus Symbiobacter",
+      "Target": "Genus_MD3-55",
+      "sparcc": 0.6544848459905794
+    },
+    {
+      "Source": "Genus_Candidatus Symbiobacter",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.6194037432589402
+    },
+    {
+      "Source": "Genus_Candidatus Symbiobacter",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.6819806912013707
+    },
+    {
+      "Source": "Genus_Candidatus Symbiobacter",
+      "Target": "Genus_Sediminibacterium",
+      "sparcc": 0.6436597110754413
+    },
+    {
+      "Source": "Genus_Candidatus Symbiobacter",
+      "Target": "Unclassified_16",
+      "sparcc": 0.6155935563306978
+    },
+    {
+      "Source": "Genus_Candidatus Symbiobacter",
+      "Target": "Unclassified_7",
+      "sparcc": 0.604318575875606
+    },
+    {
+      "Source": "Genus_Chitinimonas",
+      "Target": "Genus_Thiothrix",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Chromobacterium",
+      "Target": "Genus_Cutibacterium",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Gemmobacter",
+      "sparcc": 0.7130769230769232
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.8235096921772368
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.6989994373001855
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.7130769230769232
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Rhodoferax",
+      "sparcc": 0.6676617422369506
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.6431456783935997
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Sediminibacterium",
+      "sparcc": 0.7011543935824374
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.7130769230769232
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6459726923645607
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Unclassified_10",
+      "sparcc": 0.8062090683920008
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Unclassified_16",
+      "sparcc": 0.6838461538461539
+    },
+    {
+      "Source": "Genus_Chryseobacterium",
+      "Target": "Unclassified_22",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Genus_Clostridium sensu stricto 1",
+      "Target": "Genus_Klebsiella",
+      "sparcc": 0.6650423049481602
+    },
+    {
+      "Source": "Genus_Corynebacterium",
+      "Target": "Genus_Cutibacterium",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Genus_Leptothrix",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Unclassified_12",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Unclassified_17",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Unclassified_20",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Coxiella",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Desulfomicrobium",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Fluviicola",
+      "sparcc": 0.6397781154426365
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.8546508149906619
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_LD29",
+      "sparcc": 0.7598029484617587
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Lentimicrobium",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.7121165709432382
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Paludibacter",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.8546508149906619
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.7939459645042157
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.7216538464469423
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Unclassified_12",
+      "sparcc": 0.9961089494163424
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Unclassified_15",
+      "sparcc": 0.6459143968871596
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Unclassified_21",
+      "sparcc": 0.7405519376515929
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Unclassified_26",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Unclassified_4",
+      "sparcc": 0.696221111770398
+    },
+    {
+      "Source": "Genus_Dechloromonas",
+      "Target": "Unclassified_9",
+      "sparcc": 0.8165894426631425
+    },
+    {
+      "Source": "Genus_Deefgea",
+      "Target": "Genus_Tychonema CCAP 1459-11B",
+      "sparcc": 0.994459833795014
+    },
+    {
+      "Source": "Genus_Deefgea",
+      "Target": "Genus_Tyzzerella",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Deefgea",
+      "Target": "Unclassified_11",
+      "sparcc": 0.994459833795014
+    },
+    {
+      "Source": "Genus_Deefgea",
+      "Target": "Unclassified_13",
+      "sparcc": 0.994459833795014
+    },
+    {
+      "Source": "Genus_Deefgea",
+      "Target": "Unclassified_14",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Desulfobulbus",
+      "Target": "Genus_IMCC26207",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Desulfobulbus",
+      "Target": "Genus_Luteimonas",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfobulbus",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Desulfobulbus",
+      "Target": "Genus_Perlucidibaca",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Desulfobulbus",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfobulbus",
+      "Target": "Unclassified_27",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Desulfobulbus",
+      "Target": "Unclassified_28",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_LD29",
+      "sparcc": 0.6809190507530647
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Lentimicrobium",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Leptothrix",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Methylotenera",
+      "sparcc": 0.6234428717024377
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Paludibacter",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6126374746329801
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.6486749731408025
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Unclassified_12",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Unclassified_17",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Unclassified_20",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Unclassified_23",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Unclassified_26",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Unclassified_29",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfomicrobium",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Erysipelothrix",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_LD29",
+      "sparcc": 0.6809190507530647
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Lentimicrobium",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Leptothrix",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Methylotenera",
+      "sparcc": 0.6234428717024377
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Paludibacter",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6126374746329801
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.6486749731408025
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Unclassified_12",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Unclassified_17",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Unclassified_20",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Unclassified_23",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Unclassified_26",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Unclassified_29",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_Gemmobacter",
+      "sparcc": 0.669623479573114
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_Lacihabitans",
+      "sparcc": 0.7517523366910256
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_Limnohabitans",
+      "sparcc": 0.6732746725389366
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_MD3-55",
+      "sparcc": 0.792940278781628
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.6714661779175234
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.7131247462681666
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.7854276719314668
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_Rhodoluna",
+      "sparcc": 0.6297142857142859
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.8406199673449783
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.737248821074557
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Unclassified_16",
+      "sparcc": 0.672275453749641
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Unclassified_2",
+      "sparcc": 0.6405714285714288
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6815573633674862
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Unclassified_27",
+      "sparcc": 0.6829358198795007
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Unclassified_5",
+      "sparcc": 0.6885714285714286
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Unclassified_6",
+      "sparcc": 0.7427549677282154
+    },
+    {
+      "Source": "Genus_Emticicia",
+      "Target": "Unclassified_7",
+      "sparcc": 0.7146160726726584
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_LD29",
+      "sparcc": 0.6809190507530647
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Lentimicrobium",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Leptothrix",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Methylotenera",
+      "sparcc": 0.6234428717024377
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Paludibacter",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6126374746329801
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.6486749731408025
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Unclassified_12",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Unclassified_17",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Unclassified_20",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Unclassified_23",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Unclassified_26",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Unclassified_29",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Erysipelothrix",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Genus_Halarcobacter",
+      "sparcc": 0.7200444485600941
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Genus_Ideonella",
+      "sparcc": 0.7200248736356457
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Genus_LD29",
+      "sparcc": 0.775906175618326
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.7718224589045453
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Genus_Polynucleobacter",
+      "sparcc": 0.6649846074717581
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Genus_Sediminibacterium",
+      "sparcc": 0.84430176565008
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Genus_Simplicispira",
+      "sparcc": 0.6484527275943528
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.7200444485600941
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.7718224589045453
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Unclassified_1",
+      "sparcc": -0.6549548030124221
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Unclassified_12",
+      "sparcc": 0.6422772487060844
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Unclassified_4",
+      "sparcc": 0.6391016657066737
+    },
+    {
+      "Source": "Genus_Fluviicola",
+      "Target": "Unclassified_9",
+      "sparcc": 0.715599729741822
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Hydrogenophaga",
+      "sparcc": 0.7019308090594548
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Luteimonas",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_MD3-55",
+      "sparcc": 0.7130769230769232
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.8857919378040867
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.999230473144979
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.648126028608675
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.7400587986240899
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Rhizobacter",
+      "sparcc": 0.6626660987300745
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.7776923076923078
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Rhodoferax",
+      "sparcc": 0.607905441726931
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.8919229078381571
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.7776923076923078
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Unclassified_10",
+      "sparcc": 0.8754115635329451
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Unclassified_16",
+      "sparcc": 0.9969230769230768
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Unclassified_2",
+      "sparcc": 0.7452047436041386
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6484615384615385
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Unclassified_5",
+      "sparcc": 0.6311698540134697
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Unclassified_6",
+      "sparcc": 0.7040167893165898
+    },
+    {
+      "Source": "Genus_Gemmobacter",
+      "Target": "Unclassified_7",
+      "sparcc": 0.8127193983859501
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Genus_LD29",
+      "sparcc": 0.8650662751140288
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.904644470707481
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Genus_Pirellula",
+      "sparcc": 0.7014471696914402
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.6234428717024376
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.8382096423899004
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Unclassified_12",
+      "sparcc": 0.858110939747709
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Unclassified_15",
+      "sparcc": 0.7819881950926703
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Unclassified_21",
+      "sparcc": 0.654408577250572
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Genus_Halarcobacter",
+      "Target": "Unclassified_9",
+      "sparcc": 0.9969230769230768
+    },
+    {
+      "Source": "Genus_Holospora",
+      "Target": "Genus_MD3-55",
+      "sparcc": 0.6423076923076924
+    },
+    {
+      "Source": "Genus_Holospora",
+      "Target": "Genus_Pedobacter",
+      "sparcc": 0.6484615384615385
+    },
+    {
+      "Source": "Genus_Holospora",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.6251428361048211
+    },
+    {
+      "Source": "Genus_Holospora",
+      "Target": "Genus_Silvanigrella",
+      "sparcc": 0.6151853502229352
+    },
+    {
+      "Source": "Genus_Holospora",
+      "Target": "Unclassified_2",
+      "sparcc": 0.721336976015394
+    },
+    {
+      "Source": "Genus_Holospora",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6515384615384615
+    },
+    {
+      "Source": "Genus_Holospora",
+      "Target": "Unclassified_5",
+      "sparcc": 0.8313939043412722
+    },
+    {
+      "Source": "Genus_Holospora",
+      "Target": "Unclassified_6",
+      "sparcc": 0.634556938865622
+    },
+    {
+      "Source": "Genus_Holospora",
+      "Target": "Unclassified_8",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Genus_Ideonella",
+      "sparcc": 0.7237755600749385
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Genus_Novosphingobium",
+      "sparcc": 0.6079463183694425
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.7013805855831988
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.6370690390985821
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.6463431207643737
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Genus_Rhodoferax",
+      "sparcc": 0.6134588127294334
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.6749625078498498
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6369082418286416
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Unclassified_16",
+      "sparcc": 0.6997508997145496
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Unclassified_2",
+      "sparcc": 0.6904757466825007
+    },
+    {
+      "Source": "Genus_Hydrogenophaga",
+      "Target": "Unclassified_5",
+      "sparcc": 0.6378680707447864
+    },
+    {
+      "Source": "Genus_IMCC26207",
+      "Target": "Genus_Perlucidibaca",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_IMCC26207",
+      "Target": "Unclassified_18",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Genus_IMCC26207",
+      "Target": "Unclassified_28",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Ideonella",
+      "Target": "Genus_Polynucleobacter",
+      "sparcc": 0.6154524043769838
+    },
+    {
+      "Source": "Genus_Ideonella",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.6722583807377214
+    },
+    {
+      "Source": "Genus_Ideonella",
+      "Target": "Genus_Simplicispira",
+      "sparcc": 0.642708561804195
+    },
+    {
+      "Source": "Genus_Klebsiella",
+      "Target": "Unclassified_1",
+      "sparcc": 0.6907465238212545
+    },
+    {
+      "Source": "Genus_Klebsiella",
+      "Target": "Unclassified_19",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Klebsiella",
+      "Target": "Unclassified_25",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Kocuria",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Kocuria",
+      "Target": "Genus_hgcI clade",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Kocuria",
+      "Target": "Unclassified_21",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Genus_Methyloparacoccus",
+      "sparcc": 0.966233766233766
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Genus_Methylotenera",
+      "sparcc": 0.6572807482484042
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Genus_Pirellula",
+      "sparcc": 0.7772688973421683
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.6809190507530647
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.8650662751140287
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.992207792207792
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Unclassified_12",
+      "sparcc": 0.7566238566271907
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Unclassified_15",
+      "sparcc": 0.6930420199358301
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6809190507530647
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Unclassified_4",
+      "sparcc": 0.7584415584415585
+    },
+    {
+      "Source": "Genus_LD29",
+      "Target": "Unclassified_9",
+      "sparcc": 0.856585233201146
+    },
+    {
+      "Source": "Genus_Lacihabitans",
+      "Target": "Genus_Limnohabitans",
+      "sparcc": 0.6577748845605179
+    },
+    {
+      "Source": "Genus_Lacihabitans",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.6673819742489271
+    },
+    {
+      "Source": "Genus_Lacihabitans",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.7296137339055796
+    },
+    {
+      "Source": "Genus_Lacihabitans",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.7116256135629361
+    },
+    {
+      "Source": "Genus_Lacihabitans",
+      "Target": "Genus_Sediminibacterium",
+      "sparcc": 0.6673198828853708
+    },
+    {
+      "Source": "Genus_Lacihabitans",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.629739474605592
+    },
+    {
+      "Source": "Genus_Lacihabitans",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6963907328667677
+    },
+    {
+      "Source": "Genus_Lentimicrobium",
+      "Target": "Genus_Paludibacter",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Lentimicrobium",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Lentimicrobium",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Lentimicrobium",
+      "Target": "Unclassified_15",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Lentimicrobium",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Unclassified_12",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Unclassified_17",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Unclassified_20",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Leptothrix",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Limnohabitans",
+      "Target": "Genus_Luteolibacter",
+      "sparcc": 0.617564515789992
+    },
+    {
+      "Source": "Genus_Limnohabitans",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.6569448847061828
+    },
+    {
+      "Source": "Genus_Limnohabitans",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.8021948592148146
+    },
+    {
+      "Source": "Genus_Limnohabitans",
+      "Target": "Genus_Sediminibacterium",
+      "sparcc": 0.6296147672552166
+    },
+    {
+      "Source": "Genus_Limnohabitans",
+      "Target": "Genus_Sphingomonas",
+      "sparcc": -0.6694530294862354
+    },
+    {
+      "Source": "Genus_Limnohabitans",
+      "Target": "Unclassified_6",
+      "sparcc": 0.654742021013141
+    },
+    {
+      "Source": "Genus_Luteimonas",
+      "Target": "Genus_MD3-55",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Luteimonas",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.6869350879815023
+    },
+    {
+      "Source": "Genus_Luteimonas",
+      "Target": "Genus_Perlucidibaca",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Luteimonas",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6088440537374199
+    },
+    {
+      "Source": "Genus_Luteimonas",
+      "Target": "Unclassified_16",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Genus_Luteimonas",
+      "Target": "Unclassified_28",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Luteolibacter",
+      "Target": "Genus_Sphingomonas",
+      "sparcc": -0.6068271811718482
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.7151657238456745
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.7055840098683092
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Genus_Rhodoluna",
+      "sparcc": 0.8234379818116906
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.856585233201146
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Genus_Silvanigrella",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.6607692307692309
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Unclassified_16",
+      "sparcc": 0.7161538461538463
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Unclassified_2",
+      "sparcc": 0.6669715053965868
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Unclassified_5",
+      "sparcc": 0.737248821074557
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Unclassified_6",
+      "sparcc": 0.6781165060975849
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Unclassified_7",
+      "sparcc": 0.7647639059346051
+    },
+    {
+      "Source": "Genus_MD3-55",
+      "Target": "Unclassified_8",
+      "sparcc": 0.6151853502229352
+    },
+    {
+      "Source": "Genus_Methyloparacoccus",
+      "Target": "Genus_Pirellula",
+      "sparcc": 0.8016346934970953
+    },
+    {
+      "Source": "Genus_Methyloparacoccus",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.9046444707074812
+    },
+    {
+      "Source": "Genus_Methyloparacoccus",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.9688311688311688
+    },
+    {
+      "Source": "Genus_Methyloparacoccus",
+      "Target": "Unclassified_12",
+      "sparcc": 0.7184747546123743
+    },
+    {
+      "Source": "Genus_Methyloparacoccus",
+      "Target": "Unclassified_15",
+      "sparcc": 0.7375493056197825
+    },
+    {
+      "Source": "Genus_Methyloparacoccus",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6050506328418596
+    },
+    {
+      "Source": "Genus_Methyloparacoccus",
+      "Target": "Unclassified_4",
+      "sparcc": 0.6493506493506492
+    },
+    {
+      "Source": "Genus_Methyloparacoccus",
+      "Target": "Unclassified_9",
+      "sparcc": 0.9131255126203636
+    },
+    {
+      "Source": "Genus_Methylotenera",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.6234428717024376
+    },
+    {
+      "Source": "Genus_Methylotenera",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.6714158181032086
+    },
+    {
+      "Source": "Genus_Methylotenera",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6234428717024376
+    },
+    {
+      "Source": "Genus_Methylotenera",
+      "Target": "Unclassified_4",
+      "sparcc": 0.6304241155242759
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Genus_Pajaroellobacter",
+      "sparcc": 0.8691601561002841
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Genus_Perlucidibaca",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.6047854452439959
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.6125391047984061
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Genus_Rhizobacter",
+      "sparcc": 0.7405519376515929
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.8857919378040867
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Genus_Rhodoferax",
+      "sparcc": 0.6358000834616367
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.8170266014839831
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.8857919378040867
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Unclassified_10",
+      "sparcc": 0.9883268482490272
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Unclassified_16",
+      "sparcc": 0.8511906902336145
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Unclassified_2",
+      "sparcc": 0.668024557436717
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7939459645042157
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Unclassified_27",
+      "sparcc": 0.6108949416342414
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Unclassified_28",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Novosphingobium",
+      "Target": "Unclassified_7",
+      "sparcc": 0.7266074363536031
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Genus_Pseudarcicella",
+      "sparcc": 0.6428749400134718
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.7429288215540302
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Genus_Rhizobacter",
+      "sparcc": 0.6435497140037232
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.7636645834821412
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.8883660083822538
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.7636645834821412
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Unclassified_10",
+      "sparcc": 0.8570403929674115
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Unclassified_16",
+      "sparcc": 0.9992304731449788
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Unclassified_2",
+      "sparcc": 0.7417976155254853
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7458152383799167
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6520402240013845
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Unclassified_5",
+      "sparcc": 0.6343099467284113
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Unclassified_6",
+      "sparcc": 0.7092717353679182
+    },
+    {
+      "Source": "Genus_Pajaroellobacter",
+      "Target": "Unclassified_7",
+      "sparcc": 0.809556413856698
+    },
+    {
+      "Source": "Genus_Paludibacter",
+      "Target": "Genus_Pseudarcobacter",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Paludibacter",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Paludibacter",
+      "Target": "Unclassified_15",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Paludibacter",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Pasteuria",
+      "Target": "Unclassified_30",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Pasteuria",
+      "Target": "Unclassified_8",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Genus_Pedobacter",
+      "Target": "Unclassified_8",
+      "sparcc": 0.6234428717024376
+    },
+    {
+      "Source": "Genus_Perlucidibaca",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Perlucidibaca",
+      "Target": "Unclassified_27",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Perlucidibaca",
+      "Target": "Unclassified_28",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Pirellula",
+      "Target": "Genus_Simplicispira",
+      "sparcc": 0.6213196642149402
+    },
+    {
+      "Source": "Genus_Pirellula",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.7014471696914402
+    },
+    {
+      "Source": "Genus_Pirellula",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.7699591584956903
+    },
+    {
+      "Source": "Genus_Pirellula",
+      "Target": "Unclassified_15",
+      "sparcc": 0.6650423049481602
+    },
+    {
+      "Source": "Genus_Pirellula",
+      "Target": "Unclassified_3",
+      "sparcc": 0.6192272293431618
+    },
+    {
+      "Source": "Genus_Pirellula",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7067511180444944
+    },
+    {
+      "Source": "Genus_Polynucleobacter",
+      "Target": "Genus_Sediminibacterium",
+      "sparcc": 0.6181379306468822
+    },
+    {
+      "Source": "Genus_Polynucleobacter",
+      "Target": "Genus_Simplicispira",
+      "sparcc": 0.6760895691883516
+    },
+    {
+      "Source": "Genus_Polynucleobacter",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6726895246548178
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Genus_Pseudomonas",
+      "sparcc": 0.6858369098712447
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Genus_Rhodoferax",
+      "sparcc": 0.6755364806866954
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.7242955057925431
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.6676617422369506
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Unclassified_10",
+      "sparcc": 0.6151236579832094
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Unclassified_16",
+      "sparcc": 0.6366344323567481
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Unclassified_2",
+      "sparcc": 0.8626828527771848
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6125020802277017
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Unclassified_5",
+      "sparcc": 0.8230648113178424
+    },
+    {
+      "Source": "Genus_Pseudarcicella",
+      "Target": "Unclassified_6",
+      "sparcc": 0.8494790532274311
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Genus_Streptococcus",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Genus_Terrimicrobium",
+      "sparcc": 0.7452413135250994
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6126374746329801
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.6486749731408025
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Unclassified_12",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Unclassified_17",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Unclassified_20",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Unclassified_23",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Unclassified_26",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Unclassified_29",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Pseudarcobacter",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.6619159441109872
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Genus_Rhodoferax",
+      "sparcc": 0.6283261802575109
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Genus_Rhodoluna",
+      "sparcc": 0.6343838888677231
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.7982032104652517
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Genus_Sediminibacterium",
+      "sparcc": 0.6262348900957865
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.6814516577392629
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Genus_Vogesella",
+      "sparcc": 0.6334946114803585
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Unclassified_16",
+      "sparcc": 0.7446554371248605
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6504243478590603
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Unclassified_6",
+      "sparcc": 0.694708542494483
+    },
+    {
+      "Source": "Genus_Pseudomonas",
+      "Target": "Unclassified_7",
+      "sparcc": 0.6419416970649469
+    },
+    {
+      "Source": "Genus_Rhizobacter",
+      "Target": "Genus_Rhodobacter",
+      "sparcc": 0.6626660987300745
+    },
+    {
+      "Source": "Genus_Rhizobacter",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.6050506328418596
+    },
+    {
+      "Source": "Genus_Rhizobacter",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.6626660987300745
+    },
+    {
+      "Source": "Genus_Rhizobacter",
+      "Target": "Genus_Thiovirga",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Rhizobacter",
+      "Target": "Unclassified_10",
+      "sparcc": 0.833411114786589
+    },
+    {
+      "Source": "Genus_Rhizobacter",
+      "Target": "Unclassified_16",
+      "sparcc": 0.6234428717024377
+    },
+    {
+      "Source": "Genus_Rhizobacter",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6667948594698258
+    },
+    {
+      "Source": "Genus_Rhodobacter",
+      "Target": "Genus_Rhodoferax",
+      "sparcc": 0.6665125826117579
+    },
+    {
+      "Source": "Genus_Rhodobacter",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.6996859578128173
+    },
+    {
+      "Source": "Genus_Rhodobacter",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.7776923076923078
+    },
+    {
+      "Source": "Genus_Rhodobacter",
+      "Target": "Unclassified_10",
+      "sparcc": 0.8754115635329451
+    },
+    {
+      "Source": "Genus_Rhodobacter",
+      "Target": "Unclassified_16",
+      "sparcc": 0.7484615384615386
+    },
+    {
+      "Source": "Genus_Rhodobacter",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Genus_Rhodoferax",
+      "Target": "Unclassified_10",
+      "sparcc": 0.6254618707224231
+    },
+    {
+      "Source": "Genus_Rhodoferax",
+      "Target": "Unclassified_2",
+      "sparcc": 0.6234889274664039
+    },
+    {
+      "Source": "Genus_Rhodoferax",
+      "Target": "Unclassified_6",
+      "sparcc": 0.6305139556563851
+    },
+    {
+      "Source": "Genus_Rhodoluna",
+      "Target": "Genus_Rurimicrobium",
+      "sparcc": 0.6651862350295047
+    },
+    {
+      "Source": "Genus_Rhodoluna",
+      "Target": "Unclassified_6",
+      "sparcc": 0.6209918582645735
+    },
+    {
+      "Source": "Genus_Rhodoluna",
+      "Target": "Unclassified_7",
+      "sparcc": 0.6689328534150455
+    },
+    {
+      "Source": "Genus_Rhodoluna",
+      "Target": "Unclassified_8",
+      "sparcc": 0.6387586893632369
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.9159525265913244
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Unclassified_10",
+      "sparcc": 0.8074893259802791
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Unclassified_16",
+      "sparcc": 0.8834418659252744
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Unclassified_2",
+      "sparcc": 0.8065078527280806
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Unclassified_22",
+      "sparcc": 0.6486749731408025
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Unclassified_24",
+      "sparcc": 0.785909883927124
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Unclassified_27",
+      "sparcc": 0.7534447647926226
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Unclassified_5",
+      "sparcc": 0.779705476957661
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Unclassified_6",
+      "sparcc": 0.7441861553489381
+    },
+    {
+      "Source": "Genus_Rurimicrobium",
+      "Target": "Unclassified_7",
+      "sparcc": 0.8881674314885196
+    },
+    {
+      "Source": "Genus_Sediminibacterium",
+      "Target": "Genus_Sphingorhabdus",
+      "sparcc": 0.6267053533763782
+    },
+    {
+      "Source": "Genus_Silvanigrella",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6151853502229352
+    },
+    {
+      "Source": "Genus_Sphingorhabdus",
+      "Target": "Unclassified_10",
+      "sparcc": 0.8754115635329451
+    },
+    {
+      "Source": "Genus_Sphingorhabdus",
+      "Target": "Unclassified_16",
+      "sparcc": 0.7484615384615386
+    },
+    {
+      "Source": "Genus_Sphingorhabdus",
+      "Target": "Unclassified_2",
+      "sparcc": 0.7226629631036575
+    },
+    {
+      "Source": "Genus_Sphingorhabdus",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Genus_Sphingorhabdus",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6223076923076923
+    },
+    {
+      "Source": "Genus_Sphingorhabdus",
+      "Target": "Unclassified_27",
+      "sparcc": 0.8511906902336145
+    },
+    {
+      "Source": "Genus_Sphingorhabdus",
+      "Target": "Unclassified_5",
+      "sparcc": 0.6537116345139509
+    },
+    {
+      "Source": "Genus_Sphingorhabdus",
+      "Target": "Unclassified_6",
+      "sparcc": 0.6039475132431616
+    },
+    {
+      "Source": "Genus_Sphingorhabdus",
+      "Target": "Unclassified_7",
+      "sparcc": 0.7912656254471905
+    },
+    {
+      "Source": "Genus_Streptococcus",
+      "Target": "Genus_Thermomonas",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Streptococcus",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Streptococcus",
+      "Target": "Unclassified_12",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Streptococcus",
+      "Target": "Unclassified_17",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Streptococcus",
+      "Target": "Unclassified_20",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Streptococcus",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Streptococcus",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Streptococcus",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Streptococcus",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Terrimicrobium",
+      "Target": "Genus_WCHB1-32",
+      "sparcc": 0.6234428717024376
+    },
+    {
+      "Source": "Genus_Terrimicrobium",
+      "Target": "Genus_[Eubacterium] brachy group",
+      "sparcc": 0.8382096423899004
+    },
+    {
+      "Source": "Genus_Terrimicrobium",
+      "Target": "Unclassified_12",
+      "sparcc": 0.858110939747709
+    },
+    {
+      "Source": "Genus_Terrimicrobium",
+      "Target": "Unclassified_15",
+      "sparcc": 0.7819881950926703
+    },
+    {
+      "Source": "Genus_Terrimicrobium",
+      "Target": "Unclassified_21",
+      "sparcc": 0.654408577250572
+    },
+    {
+      "Source": "Genus_Terrimicrobium",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Genus_Terrimicrobium",
+      "Target": "Unclassified_9",
+      "sparcc": 0.9969230769230768
+    },
+    {
+      "Source": "Genus_Thermomonas",
+      "Target": "Genus_Thiodictyon",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Thermomonas",
+      "Target": "Unclassified_12",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Thermomonas",
+      "Target": "Unclassified_17",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Thermomonas",
+      "Target": "Unclassified_20",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Thermomonas",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Thermomonas",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Thermomonas",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Thermomonas",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Thiodictyon",
+      "Target": "Unclassified_12",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Genus_Thiodictyon",
+      "Target": "Unclassified_17",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Thiodictyon",
+      "Target": "Unclassified_20",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Thiodictyon",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Thiodictyon",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Thiodictyon",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Thiodictyon",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Thiovirga",
+      "Target": "Genus_hgcI clade",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Thiovirga",
+      "Target": "Unclassified_22",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Tychonema CCAP 1459-11B",
+      "Target": "Genus_Tyzzerella",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Genus_Tychonema CCAP 1459-11B",
+      "Target": "Unclassified_11",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Tychonema CCAP 1459-11B",
+      "Target": "Unclassified_13",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Tychonema CCAP 1459-11B",
+      "Target": "Unclassified_14",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Genus_Tyzzerella",
+      "Target": "Unclassified_11",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Tyzzerella",
+      "Target": "Unclassified_13",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Genus_Vogesella",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6126374746329801
+    },
+    {
+      "Source": "Genus_WCHB1-32",
+      "Target": "Unclassified_12",
+      "sparcc": 0.7451948965083428
+    },
+    {
+      "Source": "Genus_WCHB1-32",
+      "Target": "Unclassified_15",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Genus_[Eubacterium] brachy group",
+      "Target": "Unclassified_12",
+      "sparcc": 0.7280120301160784
+    },
+    {
+      "Source": "Genus_[Eubacterium] brachy group",
+      "Target": "Unclassified_15",
+      "sparcc": 0.6231019995753335
+    },
+    {
+      "Source": "Genus_[Eubacterium] brachy group",
+      "Target": "Unclassified_26",
+      "sparcc": 0.6486749731408025
+    },
+    {
+      "Source": "Genus_[Eubacterium] brachy group",
+      "Target": "Unclassified_4",
+      "sparcc": 0.748051948051948
+    },
+    {
+      "Source": "Genus_[Eubacterium] brachy group",
+      "Target": "Unclassified_9",
+      "sparcc": 0.8353826284189395
+    },
+    {
+      "Source": "Unclassified_10",
+      "Target": "Unclassified_16",
+      "sparcc": 0.8373501912054258
+    },
+    {
+      "Source": "Unclassified_10",
+      "Target": "Unclassified_2",
+      "sparcc": 0.6769713149023872
+    },
+    {
+      "Source": "Unclassified_10",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7405519376515929
+    },
+    {
+      "Source": "Unclassified_10",
+      "Target": "Unclassified_7",
+      "sparcc": 0.7266074363536031
+    },
+    {
+      "Source": "Unclassified_11",
+      "Target": "Unclassified_13",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Unclassified_11",
+      "Target": "Unclassified_14",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Unclassified_12",
+      "Target": "Unclassified_15",
+      "sparcc": 0.603112840466926
+    },
+    {
+      "Source": "Unclassified_12",
+      "Target": "Unclassified_17",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Unclassified_12",
+      "Target": "Unclassified_20",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Unclassified_12",
+      "Target": "Unclassified_21",
+      "sparcc": 0.784660046790716
+    },
+    {
+      "Source": "Unclassified_12",
+      "Target": "Unclassified_23",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Unclassified_12",
+      "Target": "Unclassified_26",
+      "sparcc": 0.8380540736433388
+    },
+    {
+      "Source": "Unclassified_12",
+      "Target": "Unclassified_29",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Unclassified_12",
+      "Target": "Unclassified_4",
+      "sparcc": 0.6866838362666942
+    },
+    {
+      "Source": "Unclassified_12",
+      "Target": "Unclassified_9",
+      "sparcc": 0.8235096921772368
+    },
+    {
+      "Source": "Unclassified_13",
+      "Target": "Unclassified_14",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Unclassified_15",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7750679455785758
+    },
+    {
+      "Source": "Unclassified_16",
+      "Target": "Unclassified_2",
+      "sparcc": 0.737248821074557
+    },
+    {
+      "Source": "Unclassified_16",
+      "Target": "Unclassified_22",
+      "sparcc": 0.7452413135250995
+    },
+    {
+      "Source": "Unclassified_16",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6546153846153847
+    },
+    {
+      "Source": "Unclassified_16",
+      "Target": "Unclassified_5",
+      "sparcc": 0.6364738023665242
+    },
+    {
+      "Source": "Unclassified_16",
+      "Target": "Unclassified_6",
+      "sparcc": 0.7134350741235007
+    },
+    {
+      "Source": "Unclassified_16",
+      "Target": "Unclassified_7",
+      "sparcc": 0.8051474785252113
+    },
+    {
+      "Source": "Unclassified_17",
+      "Target": "Unclassified_20",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Unclassified_17",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Unclassified_17",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Unclassified_17",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Unclassified_17",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Unclassified_18",
+      "Target": "Unclassified_2",
+      "sparcc": 0.6262730225969222
+    },
+    {
+      "Source": "Unclassified_18",
+      "Target": "Unclassified_27",
+      "sparcc": 0.603112840466926
+    },
+    {
+      "Source": "Unclassified_18",
+      "Target": "Unclassified_5",
+      "sparcc": 0.7336341121849658
+    },
+    {
+      "Source": "Unclassified_19",
+      "Target": "Unclassified_25",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Unclassified_2",
+      "Target": "Unclassified_24",
+      "sparcc": 0.6868613117205405
+    },
+    {
+      "Source": "Unclassified_2",
+      "Target": "Unclassified_5",
+      "sparcc": 0.9565714285714286
+    },
+    {
+      "Source": "Unclassified_2",
+      "Target": "Unclassified_6",
+      "sparcc": 0.8533564588243566
+    },
+    {
+      "Source": "Unclassified_2",
+      "Target": "Unclassified_7",
+      "sparcc": 0.6993883329201207
+    },
+    {
+      "Source": "Unclassified_20",
+      "Target": "Unclassified_21",
+      "sparcc": 0.6491103290458
+    },
+    {
+      "Source": "Unclassified_20",
+      "Target": "Unclassified_23",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Unclassified_20",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Unclassified_20",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Unclassified_21",
+      "Target": "Unclassified_23",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Unclassified_21",
+      "Target": "Unclassified_29",
+      "sparcc": 0.6491103290457999
+    },
+    {
+      "Source": "Unclassified_21",
+      "Target": "Unclassified_9",
+      "sparcc": 0.654408577250572
+    },
+    {
+      "Source": "Unclassified_22",
+      "Target": "Unclassified_27",
+      "sparcc": 0.7939459645042157
+    },
+    {
+      "Source": "Unclassified_22",
+      "Target": "Unclassified_28",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Unclassified_23",
+      "Target": "Unclassified_26",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Unclassified_23",
+      "Target": "Unclassified_29",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Unclassified_24",
+      "Target": "Unclassified_5",
+      "sparcc": 0.6842093375440134
+    },
+    {
+      "Source": "Unclassified_24",
+      "Target": "Unclassified_6",
+      "sparcc": 0.6216067972561194
+    },
+    {
+      "Source": "Unclassified_24",
+      "Target": "Unclassified_7",
+      "sparcc": 0.7256423199874554
+    },
+    {
+      "Source": "Unclassified_24",
+      "Target": "Unclassified_8",
+      "sparcc": 0.6585373379903232
+    },
+    {
+      "Source": "Unclassified_26",
+      "Target": "Unclassified_29",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Unclassified_26",
+      "Target": "Unclassified_9",
+      "sparcc": 0.7060180864974627
+    },
+    {
+      "Source": "Unclassified_27",
+      "Target": "Unclassified_28",
+      "sparcc": 0.607988326736189
+    },
+    {
+      "Source": "Unclassified_27",
+      "Target": "Unclassified_7",
+      "sparcc": 0.6130750244233526
+    },
+    {
+      "Source": "Unclassified_30",
+      "Target": "Unclassified_8",
+      "sparcc": 0.7254762501100117
+    },
+    {
+      "Source": "Unclassified_5",
+      "Target": "Unclassified_6",
+      "sparcc": 0.855385843982084
+    },
+    {
+      "Source": "Unclassified_5",
+      "Target": "Unclassified_7",
+      "sparcc": 0.6645820706286062
+    },
+    {
+      "Source": "Unclassified_6",
+      "Target": "Unclassified_7",
+      "sparcc": 0.6045389405858997
+    }
+  ]
+}
