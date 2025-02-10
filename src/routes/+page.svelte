@@ -13,8 +13,8 @@
   // Create an array of all available datasets
   $: datasets = Object.keys(data);
   
-  let leftGraphDataset = 'CON_14';
-  let rightGraphDataset = 'FMT1_14';
+  let leftGraphDataset = 'CON_14_sparcc';
+  let rightGraphDataset = 'FMT1_14_sparcc';
 
   function handleLeftGraphChange(event) {
     leftGraphDataset = event.detail.value;

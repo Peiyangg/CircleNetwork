@@ -1,0 +1,1811 @@
+{
+  "nodes": [
+    {
+      "id": "Family_unk_Atopobiaceae",
+      "label": "Family_unk_Atopobiaceae",
+      "level": "subcore",
+      "average_value": 0.00014170445496257937,
+      "average_value_log": 0.18459765542703455,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Oscillospira",
+      "label": "Genus_Oscillospira",
+      "level": "subcore",
+      "average_value": 6.315644394886342e-05,
+      "average_value_log": 0.0887191150094324,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Odoribacter",
+      "label": "Genus_Odoribacter",
+      "level": "subcore",
+      "average_value": 0.002366322061163147,
+      "average_value_log": 0.518618104962392,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Negativibacillus",
+      "label": "Genus_Negativibacillus",
+      "level": "subcore",
+      "average_value": 0.0010513740066518148,
+      "average_value_log": 0.42237055142758373,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_NK4A214_group",
+      "label": "Genus_NK4A214_group",
+      "level": "subcore",
+      "average_value": 0.00171942812387549,
+      "average_value_log": 0.4807301488708332,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Monoglobus",
+      "label": "Genus_Monoglobus",
+      "level": "subcore",
+      "average_value": 0.000659948660753859,
+      "average_value_log": 0.36711971713824015,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Methylobacterium-Methylorubrum",
+      "label": "Genus_Methylobacterium-Methylorubrum",
+      "level": "subcore",
+      "average_value": 0.0002309425152547927,
+      "average_value_log": 0.24254572647767178,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Merdibacter",
+      "label": "Genus_Merdibacter",
+      "level": "subcore",
+      "average_value": 3.571415303901302e-05,
+      "average_value_log": 0.021084749799114056,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Lactococcus",
+      "label": "Genus_Lactococcus",
+      "level": "subcore",
+      "average_value": 3.2842244139809695e-05,
+      "average_value_log": 0.01113876504191355,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_8",
+      "label": "Unclassified_8",
+      "level": "subcore",
+      "average_value": 0.0001355529584226454,
+      "average_value_log": 0.17933215353584936,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Paraprevotella",
+      "label": "Genus_Paraprevotella",
+      "level": "subcore",
+      "average_value": 0.00023871277872384404,
+      "average_value_log": 0.2464718777806775,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Lachnoclostridium",
+      "label": "Genus_Lachnoclostridium",
+      "level": "subcore",
+      "average_value": 0.004027647408056134,
+      "average_value_log": 0.5817176779850893,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Fusobacterium",
+      "label": "Genus_Fusobacterium",
+      "level": "subcore",
+      "average_value": 0.0001429351600896196,
+      "average_value_log": 0.18562361973349095,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Frisingicoccus",
+      "label": "Genus_Frisingicoccus",
+      "level": "subcore",
+      "average_value": 0.0010087109597257343,
+      "average_value_log": 0.4174558208736024,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Fournierella",
+      "label": "Genus_Fournierella",
+      "level": "subcore",
+      "average_value": 0.0036627983959685124,
+      "average_value_log": 0.5704519650042752,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Family_XIII_UCG-001",
+      "label": "Genus_Family_XIII_UCG-001",
+      "level": "subcore",
+      "average_value": 0.0004807074655557921,
+      "average_value_log": 0.3295214849461462,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Family_XIII_AD3011_group",
+      "label": "Genus_Family_XIII_AD3011_group",
+      "level": "subcore",
+      "average_value": 6.431252505138723e-05,
+      "average_value_log": 0.09087123566755895,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Faecalitalea",
+      "label": "Genus_Faecalitalea",
+      "level": "subcore",
+      "average_value": 0.0008257822673565878,
+      "average_value_log": 0.3937157353247515,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Faecalicoccus",
+      "label": "Genus_Faecalicoccus",
+      "level": "subcore",
+      "average_value": 0.0031315234209137615,
+      "average_value_log": 0.551859729405754,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Escherichia-Shigella",
+      "label": "Genus_Escherichia-Shigella",
+      "level": "subcore",
+      "average_value": 0.006536970659991324,
+      "average_value_log": 0.6391753014232053,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Erysipelatoclostridium",
+      "label": "Genus_Erysipelatoclostridium",
+      "level": "subcore",
+      "average_value": 0.0018118312699784173,
+      "average_value_log": 0.48694065750344284,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Helicobacter",
+      "label": "Genus_Helicobacter",
+      "level": "subcore",
+      "average_value": 0.004409558559187686,
+      "average_value_log": 0.5924657716866062,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Peptococcus",
+      "label": "Genus_Peptococcus",
+      "level": "subcore",
+      "average_value": 0.0029101920792614306,
+      "average_value_log": 0.5431631609876716,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Proteus",
+      "label": "Genus_Proteus",
+      "level": "subcore",
+      "average_value": 0.00026353829531165123,
+      "average_value_log": 0.25821010090060814,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_RF39",
+      "label": "Genus_RF39",
+      "level": "subcore",
+      "average_value": 7.150834228534135e-05,
+      "average_value_log": 0.10345444262388812,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_7",
+      "label": "Unclassified_7",
+      "level": "subcore",
+      "average_value": 0.0011676664376688082,
+      "average_value_log": 0.43481727872835846,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_6",
+      "label": "Unclassified_6",
+      "level": "subcore",
+      "average_value": 0.00020698935928890704,
+      "average_value_log": 0.22955418408013264,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_5",
+      "label": "Unclassified_5",
+      "level": "subcore",
+      "average_value": 0.0005185344341010097,
+      "average_value_log": 0.33850837369341424,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_4",
+      "label": "Unclassified_4",
+      "level": "subcore",
+      "average_value": 0.0003582661497210133,
+      "average_value_log": 0.2946425876190517,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_3",
+      "label": "Unclassified_3",
+      "level": "subcore",
+      "average_value": 0.0007088306713973115,
+      "average_value_log": 0.37559728412396715,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_2",
+      "label": "Unclassified_2",
+      "level": "subcore",
+      "average_value": 0.001442546265471844,
+      "average_value_log": 0.4598986379994397,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_10",
+      "label": "Unclassified_10",
+      "level": "subcore",
+      "average_value": 9.7830966991118e-05,
+      "average_value_log": 0.14064026161810628,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_1",
+      "label": "Unclassified_1",
+      "level": "subcore",
+      "average_value": 0.09462037360472118,
+      "average_value_log": 0.9562358289151502,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_[Ruminococcus]_gauvreauii_group",
+      "label": "Genus_[Ruminococcus]_gauvreauii_group",
+      "level": "subcore",
+      "average_value": 0.001967086357963087,
+      "average_value_log": 0.4966949062954541,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_[Eubacterium]_coprostanoligenes_group",
+      "label": "Genus_[Eubacterium]_coprostanoligenes_group",
+      "level": "subcore",
+      "average_value": 0.000953829035121276,
+      "average_value_log": 0.4108184674383816,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_UCG-010",
+      "label": "Genus_UCG-010",
+      "level": "subcore",
+      "average_value": 0.001148110660490232,
+      "average_value_log": 0.43281345493908674,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_UCG-007",
+      "label": "Genus_UCG-007",
+      "level": "subcore",
+      "average_value": 3.403114605159005e-05,
+      "average_value_log": 0.01535776310638556,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_UCG-004",
+      "label": "Genus_UCG-004",
+      "level": "subcore",
+      "average_value": 8.929518001871903e-05,
+      "average_value_log": 0.1298089397513156,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Tyzzerella",
+      "label": "Genus_Tyzzerella",
+      "level": "subcore",
+      "average_value": 0.00023203056539788553,
+      "average_value_log": 0.2431033805128398,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Tuzzerella",
+      "label": "Genus_Tuzzerella",
+      "level": "subcore",
+      "average_value": 0.0008054390461242549,
+      "average_value_log": 0.39075635875814546,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Succinatimonas",
+      "label": "Genus_Succinatimonas",
+      "level": "subcore",
+      "average_value": 0.002135943546319072,
+      "average_value_log": 0.5064657285933511,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Sellimonas",
+      "label": "Genus_Sellimonas",
+      "level": "subcore",
+      "average_value": 0.0024798112372742655,
+      "average_value_log": 0.524175987681864,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Saccharimonadales",
+      "label": "Genus_Saccharimonadales",
+      "level": "subcore",
+      "average_value": 0.00022725399397068437,
+      "average_value_log": 0.24063551795557647,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Ruminococcus",
+      "label": "Genus_Ruminococcus",
+      "level": "subcore",
+      "average_value": 0.0013180657017137147,
+      "average_value_log": 0.4491917893629706,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Romboutsia",
+      "label": "Genus_Romboutsia",
+      "level": "subcore",
+      "average_value": 0.00015673350621547797,
+      "average_value_log": 0.1965572349993067,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Rikenella",
+      "label": "Genus_Rikenella",
+      "level": "subcore",
+      "average_value": 3.541733042241417e-05,
+      "average_value_log": 0.020094582628655024,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Enterorhabdus",
+      "label": "Genus_Enterorhabdus",
+      "level": "subcore",
+      "average_value": 0.00015910943391897898,
+      "average_value_log": 0.19834224691217453,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Enterococcus",
+      "label": "Genus_Enterococcus",
+      "level": "subcore",
+      "average_value": 0.0007721845046528214,
+      "average_value_log": 0.3857539082987678,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Unclassified_9",
+      "label": "Unclassified_9",
+      "level": "subcore",
+      "average_value": 0.000798912027035519,
+      "average_value_log": 0.3897909999827626,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Elusimicrobium",
+      "label": "Genus_Elusimicrobium",
+      "level": "subcore",
+      "average_value": 0.0019196214211102823,
+      "average_value_log": 0.4937970056745734,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Bacillus",
+      "label": "Genus_Bacillus",
+      "level": "subcore",
+      "average_value": 0.0010771531832574305,
+      "average_value_log": 0.42524451960106113,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Butyricimonas",
+      "label": "Genus_Butyricimonas",
+      "level": "subcore",
+      "average_value": 3.783736802091184e-05,
+      "average_value_log": 0.027936379252378556,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Anaerostipes",
+      "label": "Genus_Anaerostipes",
+      "level": "subcore",
+      "average_value": 0.0016455712400372633,
+      "average_value_log": 0.47552124160187115,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_CAG-56",
+      "label": "Genus_CAG-56",
+      "level": "subcore",
+      "average_value": 0.00101999551625157,
+      "average_value_log": 0.4187757196887245,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_CHKCI001",
+      "label": "Genus_CHKCI001",
+      "level": "subcore",
+      "average_value": 0.003479812792784636,
+      "average_value_log": 0.5643716534751541,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Anaerofustis",
+      "label": "Genus_Anaerofustis",
+      "level": "subcore",
+      "average_value": 0.00012341799284107822,
+      "average_value_log": 0.16820519319076868,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Campylobacter",
+      "label": "Genus_Campylobacter",
+      "level": "subcore",
+      "average_value": 0.0008886901071727668,
+      "average_value_log": 0.40242617692457056,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Arthromitus",
+      "label": "Genus_Candidatus_Arthromitus",
+      "level": "subcore",
+      "average_value": 6.797165853112498e-05,
+      "average_value_log": 0.09743649690813484,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Candidatus_Koribacter",
+      "label": "Genus_Candidatus_Koribacter",
+      "level": "subcore",
+      "average_value": 4.131377814501136e-05,
+      "average_value_log": 0.03836493511488942,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Anaerofilum",
+      "label": "Genus_Anaerofilum",
+      "level": "subcore",
+      "average_value": 0.0002548019905420721,
+      "average_value_log": 0.25421042482979606,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Alistipes",
+      "label": "Genus_Alistipes",
+      "level": "subcore",
+      "average_value": 0.0008776167225241594,
+      "average_value_log": 0.40093856104147135,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Barnesiella",
+      "label": "Genus_Barnesiella",
+      "level": "subcore",
+      "average_value": 0.001095829584759623,
+      "average_value_log": 0.4272839951018173,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_ASF356",
+      "label": "Genus_ASF356",
+      "level": "subcore",
+      "average_value": 0.00011307679913029828,
+      "average_value_log": 0.1578228113386805,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Catenibacillus",
+      "label": "Genus_Catenibacillus",
+      "level": "subcore",
+      "average_value": 3.7901925641944464e-05,
+      "average_value_log": 0.028138633313974076,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Ruminococcaceae",
+      "label": "Family_unk_Ruminococcaceae",
+      "level": "subcore",
+      "average_value": 0.0001773813439922536,
+      "average_value_log": 0.2112398517766693,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Acidothermus",
+      "label": "Genus_Acidothermus",
+      "level": "subcore",
+      "average_value": 3.983828606840381e-05,
+      "average_value_log": 0.03405018099063115,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Bifidobacterium",
+      "label": "Genus_Bifidobacterium",
+      "level": "subcore",
+      "average_value": 0.0012941236412549171,
+      "average_value_log": 0.4470168862718262,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Prevotellaceae",
+      "label": "Family_unk_Prevotellaceae",
+      "level": "subcore",
+      "average_value": 4.170700826692485e-05,
+      "average_value_log": 0.03948885165315997,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Barnesiellaceae",
+      "label": "Family_unk_Barnesiellaceae",
+      "level": "subcore",
+      "average_value": 6.656491601867599e-05,
+      "average_value_log": 0.0949553015864032,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Dielma",
+      "label": "Genus_Dielma",
+      "level": "subcore",
+      "average_value": 2.989916724878615e-05,
+      "average_value_log": 0.0,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Oscillospiraceae",
+      "label": "Family_unk_Oscillospiraceae",
+      "level": "subcore",
+      "average_value": 0.004991868029520728,
+      "average_value_log": 0.6071816866511713,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Coprobacter",
+      "label": "Genus_Coprobacter",
+      "level": "subcore",
+      "average_value": 0.00036472311363309784,
+      "average_value_log": 0.2967618217378772,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_DTU014",
+      "label": "Genus_DTU014",
+      "level": "subcore",
+      "average_value": 0.0001816638275951041,
+      "average_value_log": 0.21407018841361014,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Family_unk_Coriobacteriaceae",
+      "label": "Family_unk_Coriobacteriaceae",
+      "level": "subcore",
+      "average_value": 0.002933782601634758,
+      "average_value_log": 0.5441210219414853,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_DTU089",
+      "label": "Genus_DTU089",
+      "level": "subcore",
+      "average_value": 0.00011604328779242627,
+      "average_value_log": 0.16089518954315837,
+      "cluster_hdbscan": "-1"
+    },
+    {
+      "id": "Genus_Enorma",
+      "label": "Genus_Enorma",
+      "level": "subcore",
+      "average_value": 0.006231151843742671,
+      "average_value_log": 0.6334908165999664,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Phascolarctobacterium",
+      "label": "Genus_Phascolarctobacterium",
+      "level": "subcore",
+      "average_value": 0.0077773975110030395,
+      "average_value_log": 0.6597892167089161,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Parasutterella",
+      "label": "Genus_Parasutterella",
+      "level": "subcore",
+      "average_value": 0.005319715305144449,
+      "average_value_log": 0.6147284981720206,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Butyricicoccus",
+      "label": "Genus_Butyricicoccus",
+      "level": "subcore",
+      "average_value": 0.00793127587010194,
+      "average_value_log": 0.6621136806179775,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Desulfovibrio",
+      "label": "Genus_Desulfovibrio",
+      "level": "subcore",
+      "average_value": 0.009932651523562394,
+      "average_value_log": 0.6888098871912902,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_F082",
+      "label": "Genus_F082",
+      "level": "subcore",
+      "average_value": 0.007515401729718751,
+      "average_value_log": 0.6557236538094686,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Subdoligranulum",
+      "label": "Genus_Subdoligranulum",
+      "level": "subcore",
+      "average_value": 0.005961662452664997,
+      "average_value_log": 0.6282454079608075,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Sutterella",
+      "label": "Genus_Sutterella",
+      "level": "subcore",
+      "average_value": 0.007718841350663433,
+      "average_value_log": 0.6588925743839658,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Collinsella",
+      "label": "Genus_Collinsella",
+      "level": "subcore",
+      "average_value": 0.007293490900157182,
+      "average_value_log": 0.6521676738753347,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Colidextribacter",
+      "label": "Genus_Colidextribacter",
+      "level": "subcore",
+      "average_value": 0.004854761235482511,
+      "average_value_log": 0.6038774561314241,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Christensenellaceae_R-7_group",
+      "label": "Genus_Christensenellaceae_R-7_group",
+      "level": "subcore",
+      "average_value": 0.006249428020759668,
+      "average_value_log": 0.6338382901741967,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Genus_Clostridia_UCG-014",
+      "label": "Genus_Clostridia_UCG-014",
+      "level": "subcore",
+      "average_value": 0.006302225031209652,
+      "average_value_log": 0.6348364080790393,
+      "cluster_hdbscan": "0"
+    },
+    {
+      "id": "Family_unk_Lachnospiraceae",
+      "label": "Family_unk_Lachnospiraceae",
+      "level": "subcore",
+      "average_value": 0.03378519887129452,
+      "average_value_log": 0.8340516813793034,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Streptococcus",
+      "label": "Genus_Streptococcus",
+      "level": "subcore",
+      "average_value": 0.015331098978647997,
+      "average_value_log": 0.7403074364536059,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Sphaerochaeta",
+      "label": "Genus_Sphaerochaeta",
+      "level": "subcore",
+      "average_value": 0.013717004515227546,
+      "average_value_log": 0.7271087831847247,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_UCG-005",
+      "label": "Genus_UCG-005",
+      "level": "subcore",
+      "average_value": 0.025293451449287324,
+      "average_value_log": 0.7997073265589516,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Bacteroides",
+      "label": "Genus_Bacteroides",
+      "level": "subcore",
+      "average_value": 0.13683100587247343,
+      "average_value_log": 1.0,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_UCG-008",
+      "label": "Genus_UCG-008",
+      "level": "subcore",
+      "average_value": 0.017376436821924846,
+      "average_value_log": 0.7551652592619181,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_uncultured",
+      "label": "Genus_uncultured",
+      "level": "subcore",
+      "average_value": 0.019565032470531492,
+      "average_value_log": 0.7692396997654473,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Rikenellaceae_RC9_gut_group",
+      "label": "Genus_Rikenellaceae_RC9_gut_group",
+      "level": "subcore",
+      "average_value": 0.09523053340181406,
+      "average_value_log": 0.9569984403044058,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_[Eubacterium]_hallii_group",
+      "label": "Genus_[Eubacterium]_hallii_group",
+      "level": "subcore",
+      "average_value": 0.012466507958116903,
+      "average_value_log": 0.7157676618569678,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_[Ruminococcus]_torques_group",
+      "label": "Genus_[Ruminococcus]_torques_group",
+      "level": "subcore",
+      "average_value": 0.018124000487538337,
+      "average_value_log": 0.7601627220271456,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Prevotellaceae_Ga6A1_group",
+      "label": "Genus_Prevotellaceae_Ga6A1_group",
+      "level": "subcore",
+      "average_value": 0.013578354902685202,
+      "average_value_log": 0.7259034573721216,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Lactobacillus",
+      "label": "Genus_Lactobacillus",
+      "level": "subcore",
+      "average_value": 0.047472185707255164,
+      "average_value_log": 0.8744045627263943,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Gastranaerophilales",
+      "label": "Genus_Gastranaerophilales",
+      "level": "subcore",
+      "average_value": 0.023804093259649894,
+      "average_value_log": 0.7925071436805246,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Clostridia_vadinBB60_group",
+      "label": "Genus_Clostridia_vadinBB60_group",
+      "level": "subcore",
+      "average_value": 0.017577673628050107,
+      "average_value_log": 0.756531366646816,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Megamonas",
+      "label": "Genus_Megamonas",
+      "level": "subcore",
+      "average_value": 0.026648207833645503,
+      "average_value_log": 0.8058976704590435,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Mucispirillum",
+      "label": "Genus_Mucispirillum",
+      "level": "core",
+      "average_value": 0.01903180382420143,
+      "average_value_log": 0.7659613123307044,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Olsenella",
+      "label": "Genus_Olsenella",
+      "level": "subcore",
+      "average_value": 0.021523757196403058,
+      "average_value_log": 0.780559799043513,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Muribaculaceae",
+      "label": "Genus_Muribaculaceae",
+      "level": "core",
+      "average_value": 0.020868609069496676,
+      "average_value_log": 0.7768924073002377,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Prevotellaceae_UCG-001",
+      "label": "Genus_Prevotellaceae_UCG-001",
+      "level": "subcore",
+      "average_value": 0.015402391504173687,
+      "average_value_log": 0.740857868576067,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Blautia",
+      "label": "Genus_Blautia",
+      "level": "subcore",
+      "average_value": 0.0128960567414412,
+      "average_value_log": 0.7197867888952211,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Faecalibacterium",
+      "label": "Genus_Faecalibacterium",
+      "level": "subcore",
+      "average_value": 0.09745124626285337,
+      "average_value_log": 0.9597333429313849,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Parabacteroides",
+      "label": "Genus_Parabacteroides",
+      "level": "subcore",
+      "average_value": 0.015385446895009786,
+      "average_value_log": 0.7407272745591088,
+      "cluster_hdbscan": "1"
+    },
+    {
+      "id": "Genus_Alloprevotella",
+      "label": "Genus_Alloprevotella",
+      "level": "subcore",
+      "average_value": 0.001216146653896473,
+      "average_value_log": 0.4396436765102288,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Flavonifractor",
+      "label": "Genus_Flavonifractor",
+      "level": "subcore",
+      "average_value": 0.0011859540235808843,
+      "average_value_log": 0.43666101826011905,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Marvinbryantia",
+      "label": "Genus_Marvinbryantia",
+      "level": "subcore",
+      "average_value": 0.0013580562790157593,
+      "average_value_log": 0.4527379220169997,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Oscillibacter",
+      "label": "Genus_Oscillibacter",
+      "level": "subcore",
+      "average_value": 0.0012358849479522367,
+      "average_value_log": 0.44155381040681163,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Family_unk_Tannerellaceae",
+      "label": "Family_unk_Tannerellaceae",
+      "level": "subcore",
+      "average_value": 0.0017241958832241223,
+      "average_value_log": 0.4810586748785319,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Eisenbergiella",
+      "label": "Genus_Eisenbergiella",
+      "level": "subcore",
+      "average_value": 0.0013644955212732683,
+      "average_value_log": 0.4532991383499773,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_Incertae_Sedis",
+      "label": "Genus_Incertae_Sedis",
+      "level": "subcore",
+      "average_value": 0.0013817213430666756,
+      "average_value_log": 0.4547875453200252,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_CHKCI002",
+      "label": "Genus_CHKCI002",
+      "level": "subcore",
+      "average_value": 0.0012956571352260356,
+      "average_value_log": 0.44715739069613614,
+      "cluster_hdbscan": "2"
+    },
+    {
+      "id": "Genus_GCA-900066575",
+      "label": "Genus_GCA-900066575",
+      "level": "subcore",
+      "average_value": 0.0021283099017179743,
+      "average_value_log": 0.5060409523005494,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Slackia",
+      "label": "Genus_Slackia",
+      "level": "subcore",
+      "average_value": 0.001864420687836823,
+      "average_value_log": 0.4903352965365498,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_WCHB1-41",
+      "label": "Genus_WCHB1-41",
+      "level": "subcore",
+      "average_value": 0.002085050376848356,
+      "average_value_log": 0.5036046044846378,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Synergistes",
+      "label": "Genus_Synergistes",
+      "level": "subcore",
+      "average_value": 0.0026484361514093877,
+      "average_value_log": 0.531981119569069,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Shuttleworthia",
+      "label": "Genus_Shuttleworthia",
+      "level": "subcore",
+      "average_value": 0.002281340976861757,
+      "average_value_log": 0.5142789324192999,
+      "cluster_hdbscan": "3"
+    },
+    {
+      "id": "Genus_Coriobacteriaceae_UCG-002",
+      "label": "Genus_Coriobacteriaceae_UCG-002",
+      "level": "subcore",
+      "average_value": 0.000544218225464855,
+      "average_value_log": 0.34424402028564605,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Family_unk_Rikenellaceae",
+      "label": "Family_unk_Rikenellaceae",
+      "level": "subcore",
+      "average_value": 0.00032022651844500097,
+      "average_value_log": 0.2813252418699281,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Lachnospiraceae_FCS020_group",
+      "label": "Genus_Lachnospiraceae_FCS020_group",
+      "level": "subcore",
+      "average_value": 0.0004140676223629646,
+      "average_value_log": 0.31181648722204763,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_UCG-009",
+      "label": "Genus_UCG-009",
+      "level": "subcore",
+      "average_value": 0.00041785515719389214,
+      "average_value_log": 0.3128967949898387,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Pseudoflavonifractor",
+      "label": "Genus_Pseudoflavonifractor",
+      "level": "subcore",
+      "average_value": 0.00024955022906755206,
+      "average_value_log": 0.25173951081375284,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Candidatus_Soleaferrea",
+      "label": "Genus_Candidatus_Soleaferrea",
+      "level": "subcore",
+      "average_value": 0.00026104171793900994,
+      "average_value_log": 0.257080805788853,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Mailhella",
+      "label": "Genus_Mailhella",
+      "level": "subcore",
+      "average_value": 0.000442394407925503,
+      "average_value_log": 0.3196673700104111,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Paludicola",
+      "label": "Genus_Paludicola",
+      "level": "subcore",
+      "average_value": 0.00038417576058037315,
+      "average_value_log": 0.3029266943571504,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_Intestinimonas",
+      "label": "Genus_Intestinimonas",
+      "level": "subcore",
+      "average_value": 0.0003015545909892767,
+      "average_value_log": 0.27419748126651655,
+      "cluster_hdbscan": "4"
+    },
+    {
+      "id": "Genus_[Eubacterium]_nodatum_group",
+      "label": "Genus_[Eubacterium]_nodatum_group",
+      "level": "subcore",
+      "average_value": 0.0001572930480300319,
+      "average_value_log": 0.19698003746539547,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_[Eubacterium]_brachy_group",
+      "label": "Genus_[Eubacterium]_brachy_group",
+      "level": "subcore",
+      "average_value": 0.000108894886228948,
+      "average_value_log": 0.15335186277465507,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Lachnospiraceae_UCG-010",
+      "label": "Genus_Lachnospiraceae_UCG-010",
+      "level": "subcore",
+      "average_value": 0.00021948674799808135,
+      "average_value_log": 0.23650954722241274,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Unclassified_11",
+      "label": "Unclassified_11",
+      "level": "subcore",
+      "average_value": 5.2472318578246366e-05,
+      "average_value_log": 0.0667311747999196,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Oribacterium",
+      "label": "Genus_Oribacterium",
+      "level": "subcore",
+      "average_value": 0.00010747325452425429,
+      "average_value_log": 0.15179277374427214,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Family_unk_Eggerthellaceae",
+      "label": "Family_unk_Eggerthellaceae",
+      "level": "subcore",
+      "average_value": 7.096075495364955e-05,
+      "average_value_log": 0.10254241973573902,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Family_unk_Desulfovibrionaceae",
+      "label": "Family_unk_Desulfovibrionaceae",
+      "level": "subcore",
+      "average_value": 4.5597863036337305e-05,
+      "average_value_log": 0.05007078925327656,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Anaerotruncus",
+      "label": "Genus_Anaerotruncus",
+      "level": "subcore",
+      "average_value": 0.00013525905394440384,
+      "average_value_log": 0.17907463450534922,
+      "cluster_hdbscan": "5"
+    },
+    {
+      "id": "Genus_Bilophila",
+      "label": "Genus_Bilophila",
+      "level": "subcore",
+      "average_value": 0.00017349385939898474,
+      "average_value_log": 0.2086107666167938,
+      "cluster_hdbscan": "5"
+    }
+  ],
+  "links": [
+    {
+      "Source": "Family_unk_Coriobacteriaceae",
+      "Target": "Genus_Bifidobacterium",
+      "sparcc": 0.8060606060606059
+    },
+    {
+      "Source": "Family_unk_Coriobacteriaceae",
+      "Target": "Genus_CHKCI001",
+      "sparcc": 0.8060606060606059
+    },
+    {
+      "Source": "Family_unk_Coriobacteriaceae",
+      "Target": "Genus_Enorma",
+      "sparcc": 0.8545454545454544
+    },
+    {
+      "Source": "Family_unk_Coriobacteriaceae",
+      "Target": "Genus_Subdoligranulum",
+      "sparcc": 0.8303030303030302
+    },
+    {
+      "Source": "Family_unk_Lachnospiraceae",
+      "Target": "Genus_Blautia",
+      "sparcc": 0.8060606060606059
+    },
+    {
+      "Source": "Family_unk_Lachnospiraceae",
+      "Target": "Genus_Lachnospiraceae_FCS020_group",
+      "sparcc": 0.8267515394048879
+    },
+    {
+      "Source": "Family_unk_Lachnospiraceae",
+      "Target": "Genus_[Ruminococcus]_torques_group",
+      "sparcc": 0.8060606060606059
+    },
+    {
+      "Source": "Family_unk_Tannerellaceae",
+      "Target": "Genus_Christensenellaceae_R-7_group",
+      "sparcc": 0.9483326481409008
+    },
+    {
+      "Source": "Family_unk_Tannerellaceae",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.8449887057152897
+    },
+    {
+      "Source": "Family_unk_Tannerellaceae",
+      "Target": "Genus_Sutterella",
+      "sparcc": 0.8997002046464956
+    },
+    {
+      "Source": "Family_unk_Tannerellaceae",
+      "Target": "Genus_uncultured",
+      "sparcc": 0.8936211492096949
+    },
+    {
+      "Source": "Genus_ASF356",
+      "Target": "Genus_CHKCI001",
+      "sparcc": 0.8528249356043898
+    },
+    {
+      "Source": "Genus_ASF356",
+      "Target": "Genus_Lachnospiraceae_UCG-010",
+      "sparcc": 0.8730691997013862
+    },
+    {
+      "Source": "Genus_Acidothermus",
+      "Target": "Genus_Candidatus_Koribacter",
+      "sparcc": 1.0
+    },
+    {
+      "Source": "Genus_Alistipes",
+      "Target": "Genus_Helicobacter",
+      "sparcc": 0.8181818181818182
+    },
+    {
+      "Source": "Genus_Alistipes",
+      "Target": "Genus_Parabacteroides",
+      "sparcc": 0.8181818181818182
+    },
+    {
+      "Source": "Genus_Alistipes",
+      "Target": "Genus_uncultured",
+      "sparcc": 0.9151515151515152
+    },
+    {
+      "Source": "Genus_Alloprevotella",
+      "Target": "Genus_GCA-900066575",
+      "sparcc": 0.8424242424242423
+    },
+    {
+      "Source": "Genus_Anaerofilum",
+      "Target": "Genus_Fusobacterium",
+      "sparcc": 0.8739695897586163
+    },
+    {
+      "Source": "Genus_Anaerofustis",
+      "Target": "Genus_Frisingicoccus",
+      "sparcc": -0.8149920291050033
+    },
+    {
+      "Source": "Genus_Anaerofustis",
+      "Target": "Genus_Peptococcus",
+      "sparcc": -0.8466580400786594
+    },
+    {
+      "Source": "Genus_Anaerostipes",
+      "Target": "Genus_GCA-900066575",
+      "sparcc": 0.8424242424242423
+    },
+    {
+      "Source": "Genus_Anaerostipes",
+      "Target": "Genus_UCG-005",
+      "sparcc": 0.8424242424242423
+    },
+    {
+      "Source": "Genus_Bacillus",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": -0.8181818181818182
+    },
+    {
+      "Source": "Genus_Bacteroides",
+      "Target": "Genus_Catenibacillus",
+      "sparcc": 0.8842048302391148
+    },
+    {
+      "Source": "Genus_Bacteroides",
+      "Target": "Genus_Desulfovibrio",
+      "sparcc": 0.8060606060606059
+    },
+    {
+      "Source": "Genus_Barnesiella",
+      "Target": "Genus_Enterococcus",
+      "sparcc": -0.8060606060606059
+    },
+    {
+      "Source": "Genus_Barnesiella",
+      "Target": "Genus_Flavonifractor",
+      "sparcc": 0.8909090909090909
+    },
+    {
+      "Source": "Genus_Barnesiella",
+      "Target": "Genus_Lactobacillus",
+      "sparcc": -0.8303030303030302
+    },
+    {
+      "Source": "Genus_Barnesiella",
+      "Target": "Genus_Prevotellaceae_UCG-001",
+      "sparcc": 0.8909090909090909
+    },
+    {
+      "Source": "Genus_Barnesiella",
+      "Target": "Genus_Saccharimonadales",
+      "sparcc": 0.8884730095773006
+    },
+    {
+      "Source": "Genus_Barnesiella",
+      "Target": "Genus_Shuttleworthia",
+      "sparcc": -0.8060606060606059
+    },
+    {
+      "Source": "Genus_Barnesiella",
+      "Target": "Genus_[Eubacterium]_coprostanoligenes_group",
+      "sparcc": -0.8060606060606059
+    },
+    {
+      "Source": "Genus_Barnesiella",
+      "Target": "Genus_[Eubacterium]_hallii_group",
+      "sparcc": 0.8181818181818182
+    },
+    {
+      "Source": "Genus_Barnesiella",
+      "Target": "Unclassified_7",
+      "sparcc": 0.8170883606475996
+    },
+    {
+      "Source": "Genus_Bifidobacterium",
+      "Target": "Genus_Fournierella",
+      "sparcc": 0.8666666666666665
+    },
+    {
+      "Source": "Genus_Bifidobacterium",
+      "Target": "Genus_UCG-008",
+      "sparcc": -0.8424242424242423
+    },
+    {
+      "Source": "Genus_Bilophila",
+      "Target": "Genus_GCA-900066575",
+      "sparcc": 0.8719674296463189
+    },
+    {
+      "Source": "Genus_Bilophila",
+      "Target": "Genus_Oscillibacter",
+      "sparcc": 0.8841627783127011
+    },
+    {
+      "Source": "Genus_Butyricicoccus",
+      "Target": "Genus_Mucispirillum",
+      "sparcc": 0.8424242424242423
+    },
+    {
+      "Source": "Genus_CAG-56",
+      "Target": "Genus_[Ruminococcus]_gauvreauii_group",
+      "sparcc": 0.8753839828992931
+    },
+    {
+      "Source": "Genus_CHKCI001",
+      "Target": "Genus_Sellimonas",
+      "sparcc": 0.8060606060606059
+    },
+    {
+      "Source": "Genus_CHKCI002",
+      "Target": "Genus_Subdoligranulum",
+      "sparcc": 0.8303030303030302
+    },
+    {
+      "Source": "Genus_Campylobacter",
+      "Target": "Unclassified_5",
+      "sparcc": 0.8060606060606059
+    },
+    {
+      "Source": "Genus_Candidatus_Arthromitus",
+      "Target": "Genus_Lactococcus",
+      "sparcc": 0.8147015986084702
+    },
+    {
+      "Source": "Genus_Candidatus_Soleaferrea",
+      "Target": "Genus_Coriobacteriaceae_UCG-002",
+      "sparcc": 0.825153374233129
+    },
+    {
+      "Source": "Genus_Catenibacillus",
+      "Target": "Genus_Coprobacter",
+      "sparcc": 0.818144814684677
+    },
+    {
+      "Source": "Genus_Catenibacillus",
+      "Target": "Unclassified_2",
+      "sparcc": 0.818144814684677
+    },
+    {
+      "Source": "Genus_Christensenellaceae_R-7_group",
+      "Target": "Genus_Sutterella",
+      "sparcc": 0.8909090909090909
+    },
+    {
+      "Source": "Genus_Christensenellaceae_R-7_group",
+      "Target": "Genus_UCG-010",
+      "sparcc": 0.8787878787878788
+    },
+    {
+      "Source": "Genus_Christensenellaceae_R-7_group",
+      "Target": "Genus_uncultured",
+      "sparcc": 0.8545454545454544
+    },
+    {
+      "Source": "Genus_Clostridia_vadinBB60_group",
+      "Target": "Genus_Enterorhabdus",
+      "sparcc": -0.8475767323135548
+    },
+    {
+      "Source": "Genus_Clostridia_vadinBB60_group",
+      "Target": "Genus_Olsenella",
+      "sparcc": -0.8303030303030302
+    },
+    {
+      "Source": "Genus_Collinsella",
+      "Target": "Genus_Enorma",
+      "sparcc": 0.8303030303030302
+    },
+    {
+      "Source": "Genus_Collinsella",
+      "Target": "Genus_Slackia",
+      "sparcc": 0.8181818181818182
+    },
+    {
+      "Source": "Genus_DTU014",
+      "Target": "Unclassified_1",
+      "sparcc": -0.8868874774629015
+    },
+    {
+      "Source": "Genus_DTU014",
+      "Target": "Unclassified_3",
+      "sparcc": -0.8461578516442811
+    },
+    {
+      "Source": "Genus_DTU014",
+      "Target": "Unclassified_6",
+      "sparcc": -0.8808303292720553
+    },
+    {
+      "Source": "Genus_DTU089",
+      "Target": "Genus_Eisenbergiella",
+      "sparcc": 0.8185584150125625
+    },
+    {
+      "Source": "Genus_DTU089",
+      "Target": "Genus_Incertae_Sedis",
+      "sparcc": 0.8739495859532623
+    },
+    {
+      "Source": "Genus_DTU089",
+      "Target": "Genus_NK4A214_group",
+      "sparcc": 0.9108770332470622
+    },
+    {
+      "Source": "Genus_DTU089",
+      "Target": "Genus_Sutterella",
+      "sparcc": 0.8370221386594626
+    },
+    {
+      "Source": "Genus_DTU089",
+      "Target": "Genus_UCG-010",
+      "sparcc": 0.8247129895615292
+    },
+    {
+      "Source": "Genus_DTU089",
+      "Target": "Genus_WCHB1-41",
+      "sparcc": -0.8431767132084292
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_Parabacteroides",
+      "sparcc": 0.8666666666666665
+    },
+    {
+      "Source": "Genus_Desulfovibrio",
+      "Target": "Genus_uncultured",
+      "sparcc": 0.8303030303030302
+    },
+    {
+      "Source": "Genus_Dielma",
+      "Target": "Genus_Ruminococcus",
+      "sparcc": 0.8156618201430593
+    },
+    {
+      "Source": "Genus_Elusimicrobium",
+      "Target": "Unclassified_8",
+      "sparcc": -0.8128970193249391
+    },
+    {
+      "Source": "Genus_Enterococcus",
+      "Target": "Genus_Flavonifractor",
+      "sparcc": -0.8060606060606059
+    },
+    {
+      "Source": "Genus_Enterococcus",
+      "Target": "Genus_Lactobacillus",
+      "sparcc": 0.8787878787878788
+    },
+    {
+      "Source": "Genus_Enterococcus",
+      "Target": "Genus_NK4A214_group",
+      "sparcc": -0.8060606060606059
+    },
+    {
+      "Source": "Genus_Enterococcus",
+      "Target": "Genus_Paraprevotella",
+      "sparcc": -0.8210653934707496
+    },
+    {
+      "Source": "Genus_Enterococcus",
+      "Target": "Genus_Proteus",
+      "sparcc": -0.812776759390954
+    },
+    {
+      "Source": "Genus_Enterorhabdus",
+      "Target": "Genus_Succinatimonas",
+      "sparcc": -0.8048930119812174
+    },
+    {
+      "Source": "Genus_Escherichia-Shigella",
+      "Target": "Genus_GCA-900066575",
+      "sparcc": 0.8303030303030302
+    },
+    {
+      "Source": "Genus_Escherichia-Shigella",
+      "Target": "Genus_Intestinimonas",
+      "sparcc": -0.8170883606475996
+    },
+    {
+      "Source": "Genus_Escherichia-Shigella",
+      "Target": "Genus_Lachnospiraceae_FCS020_group",
+      "sparcc": 0.8085143730944859
+    },
+    {
+      "Source": "Genus_Escherichia-Shigella",
+      "Target": "Genus_Oscillospira",
+      "sparcc": -0.8218053479440763
+    },
+    {
+      "Source": "Genus_Escherichia-Shigella",
+      "Target": "Unclassified_11",
+      "sparcc": 0.8657186108113171
+    },
+    {
+      "Source": "Genus_F082",
+      "Target": "Genus_Marvinbryantia",
+      "sparcc": -0.9151515151515152
+    },
+    {
+      "Source": "Genus_F082",
+      "Target": "Genus_UCG-008",
+      "sparcc": 0.8787878787878788
+    },
+    {
+      "Source": "Genus_F082",
+      "Target": "Genus_[Eubacterium]_hallii_group",
+      "sparcc": -0.8545454545454544
+    },
+    {
+      "Source": "Genus_Faecalibacterium",
+      "Target": "Genus_UCG-007",
+      "sparcc": 0.830398873772291
+    },
+    {
+      "Source": "Genus_Faecalibacterium",
+      "Target": "Unclassified_2",
+      "sparcc": 0.9300954818304988
+    },
+    {
+      "Source": "Genus_Faecalitalea",
+      "Target": "Genus_Paludicola",
+      "sparcc": 0.8181818181818182
+    },
+    {
+      "Source": "Genus_Faecalitalea",
+      "Target": "Genus_Sphaerochaeta",
+      "sparcc": -0.8060606060606059
+    },
+    {
+      "Source": "Genus_Flavonifractor",
+      "Target": "Genus_Lactobacillus",
+      "sparcc": -0.8181818181818182
+    },
+    {
+      "Source": "Genus_Fournierella",
+      "Target": "Genus_Subdoligranulum",
+      "sparcc": 0.8424242424242423
+    },
+    {
+      "Source": "Genus_Frisingicoccus",
+      "Target": "Genus_Peptococcus",
+      "sparcc": 0.8814630383360937
+    },
+    {
+      "Source": "Genus_GCA-900066575",
+      "Target": "Genus_Oscillibacter",
+      "sparcc": 0.9030303030303028
+    },
+    {
+      "Source": "Genus_Helicobacter",
+      "Target": "Unclassified_1",
+      "sparcc": -0.8424242424242423
+    },
+    {
+      "Source": "Genus_Incertae_Sedis",
+      "Target": "Genus_NK4A214_group",
+      "sparcc": 0.8909090909090909
+    },
+    {
+      "Source": "Genus_Incertae_Sedis",
+      "Target": "Unclassified_5",
+      "sparcc": 0.8303030303030302
+    },
+    {
+      "Source": "Genus_Incertae_Sedis",
+      "Target": "Unclassified_7",
+      "sparcc": 0.8292837093139818
+    },
+    {
+      "Source": "Genus_Lachnoclostridium",
+      "Target": "Genus_Lachnospiraceae_UCG-010",
+      "sparcc": 0.8318392892065836
+    },
+    {
+      "Source": "Genus_Lachnospiraceae_FCS020_group",
+      "Target": "Unclassified_11",
+      "sparcc": 0.8180146241024584
+    },
+    {
+      "Source": "Genus_Lactobacillus",
+      "Target": "Genus_NK4A214_group",
+      "sparcc": -0.8181818181818182
+    },
+    {
+      "Source": "Genus_Mailhella",
+      "Target": "Genus_Parasutterella",
+      "sparcc": 0.8510677611520904
+    },
+    {
+      "Source": "Genus_Marvinbryantia",
+      "Target": "Genus_UCG-008",
+      "sparcc": -0.8666666666666665
+    },
+    {
+      "Source": "Genus_Marvinbryantia",
+      "Target": "Genus_[Eubacterium]_hallii_group",
+      "sparcc": 0.8303030303030302
+    },
+    {
+      "Source": "Genus_Methylobacterium-Methylorubrum",
+      "Target": "Genus_Odoribacter",
+      "sparcc": 0.812776759390954
+    },
+    {
+      "Source": "Genus_Monoglobus",
+      "Target": "Genus_[Eubacterium]_coprostanoligenes_group",
+      "sparcc": 0.857146816588891
+    },
+    {
+      "Source": "Genus_Monoglobus",
+      "Target": "Genus_[Eubacterium]_hallii_group",
+      "sparcc": -0.8085143730944858
+    },
+    {
+      "Source": "Genus_Mucispirillum",
+      "Target": "Genus_Tyzzerella",
+      "sparcc": 0.8060606060606059
+    },
+    {
+      "Source": "Genus_Mucispirillum",
+      "Target": "Genus_UCG-008",
+      "sparcc": -0.8303030303030302
+    },
+    {
+      "Source": "Genus_Muribaculaceae",
+      "Target": "Genus_[Eubacterium]_nodatum_group",
+      "sparcc": 0.8370221386594626
+    },
+    {
+      "Source": "Genus_NK4A214_group",
+      "Target": "Genus_UCG-010",
+      "sparcc": 0.9151515151515152
+    },
+    {
+      "Source": "Genus_Negativibacillus",
+      "Target": "Genus_Pseudoflavonifractor",
+      "sparcc": 0.8470987622662832
+    },
+    {
+      "Source": "Genus_Odoribacter",
+      "Target": "Genus_Ruminococcus",
+      "sparcc": -0.8181818181818182
+    },
+    {
+      "Source": "Genus_Paludicola",
+      "Target": "Genus_Sphaerochaeta",
+      "sparcc": -0.8060606060606059
+    },
+    {
+      "Source": "Genus_Parabacteroides",
+      "Target": "Genus_uncultured",
+      "sparcc": 0.8181818181818182
+    },
+    {
+      "Source": "Genus_Parabacteroides",
+      "Target": "Unclassified_2",
+      "sparcc": 0.8328305948416885
+    },
+    {
+      "Source": "Genus_Paraprevotella",
+      "Target": "Genus_Proteus",
+      "sparcc": 0.8192943777689721
+    },
+    {
+      "Source": "Genus_Paraprevotella",
+      "Target": "Unclassified_7",
+      "sparcc": 0.8846288629080046
+    },
+    {
+      "Source": "Genus_Phascolarctobacterium",
+      "Target": "Genus_RF39",
+      "sparcc": 0.8112696481747218
+    },
+    {
+      "Source": "Genus_Phascolarctobacterium",
+      "Target": "Genus_Romboutsia",
+      "sparcc": 0.824307044287862
+    },
+    {
+      "Source": "Genus_Prevotellaceae_UCG-001",
+      "Target": "Genus_Proteus",
+      "sparcc": 0.812776759390954
+    },
+    {
+      "Source": "Genus_Prevotellaceae_UCG-001",
+      "Target": "Genus_Saccharimonadales",
+      "sparcc": 0.9506039892680208
+    },
+    {
+      "Source": "Genus_Prevotellaceae_UCG-001",
+      "Target": "Genus_Shuttleworthia",
+      "sparcc": -0.9151515151515152
+    },
+    {
+      "Source": "Genus_Prevotellaceae_UCG-001",
+      "Target": "Genus_[Eubacterium]_coprostanoligenes_group",
+      "sparcc": -0.8666666666666665
+    },
+    {
+      "Source": "Genus_Proteus",
+      "Target": "Genus_Saccharimonadales",
+      "sparcc": 0.8332271694583459
+    },
+    {
+      "Source": "Genus_RF39",
+      "Target": "Genus_Tyzzerella",
+      "sparcc": 0.8156618201430593
+    },
+    {
+      "Source": "Genus_Rikenellaceae_RC9_gut_group",
+      "Target": "Genus_Sphaerochaeta",
+      "sparcc": 0.8787878787878788
+    },
+    {
+      "Source": "Genus_Saccharimonadales",
+      "Target": "Genus_Shuttleworthia",
+      "sparcc": -0.8387682258247244
+    },
+    {
+      "Source": "Genus_Shuttleworthia",
+      "Target": "Genus_Sphaerochaeta",
+      "sparcc": -0.8666666666666665
+    },
+    {
+      "Source": "Genus_Shuttleworthia",
+      "Target": "Genus_[Eubacterium]_coprostanoligenes_group",
+      "sparcc": 0.9030303030303028
+    },
+    {
+      "Source": "Genus_Subdoligranulum",
+      "Target": "Genus_[Eubacterium]_brachy_group",
+      "sparcc": -0.8085143730944859
+    },
+    {
+      "Source": "Genus_Sutterella",
+      "Target": "Genus_UCG-010",
+      "sparcc": 0.8787878787878788
+    },
+    {
+      "Source": "Genus_Sutterella",
+      "Target": "Genus_WCHB1-41",
+      "sparcc": -0.9151515151515152
+    },
+    {
+      "Source": "Genus_Sutterella",
+      "Target": "Genus_[Ruminococcus]_torques_group",
+      "sparcc": 0.8666666666666665
+    },
+    {
+      "Source": "Genus_Sutterella",
+      "Target": "Genus_uncultured",
+      "sparcc": 0.8666666666666665
+    },
+    {
+      "Source": "Genus_UCG-008",
+      "Target": "Genus_[Eubacterium]_hallii_group",
+      "sparcc": -0.8424242424242423
+    },
+    {
+      "Source": "Genus_UCG-010",
+      "Target": "Genus_uncultured",
+      "sparcc": 0.8181818181818182
+    },
+    {
+      "Source": "Genus_WCHB1-41",
+      "Target": "Genus_[Ruminococcus]_torques_group",
+      "sparcc": -0.8666666666666665
+    },
+    {
+      "Source": "Unclassified_1",
+      "Target": "Unclassified_6",
+      "sparcc": 0.8857162118542732
+    },
+    {
+      "Source": "Unclassified_10",
+      "Target": "Unclassified_8",
+      "sparcc": -0.8486342233325573
+    },
+    {
+      "Source": "Unclassified_3",
+      "Target": "Unclassified_6",
+      "sparcc": 0.858610366940122
+    }
+  ]
+}

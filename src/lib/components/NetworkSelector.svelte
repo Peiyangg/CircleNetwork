@@ -11,11 +11,15 @@
     {
       label: "Network Datasets",
       options: [
-        { value: "CON_14", label: "Control_D14" },
-        { value: "FMT1_14", label: "FMT 1_D14" },
-        { value: "FMT2_14", label: "FMT 2_D14" },
-        { value: "FMT3_14", label: "FMT 3_D14" }
-      ]
+        { value: "CON_14_sparcc", label: "CON_D14 (sparcc)" },
+        { value: "FMT1_14_sparcc", label: "FMT 1_D14 (sparcc)" },
+        { value: "FMT2_14_sparcc", label: "FMT 2_D14 (sparcc)" },
+        { value: "FMT3_14_sparcc", label: "FMT 3_D14 (sparcc)" },
+        { value: "CON_14_spearman", label: "CON_D14 (spearman)" },
+        { value: "FMT1_14_spearman", label: "FMT 1_D14 (spearman)" },
+        { value: "FMT2_14_spearman", label: "FMT 2_D14 (spearman)" },
+        { value: "FMT3_14_spearman", label: "FMT 3_D14 (spearman)" }
+    ]
     }
   ];
 

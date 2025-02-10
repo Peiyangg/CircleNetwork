@@ -32,18 +32,26 @@ const processData = async (fetch, filename) => {
 export const load = async ({ fetch }) => {
     try {
         // Load all network data
-        const [con_data, fmt1_data, fmt2_data, fmt3_data] = await Promise.all([
+        const [con_sparcc, fmt1_sparcc, fmt2_sparcc, fmt3_sparcc,con_spearman, fmt1_spearman, fmt2_spearman, fmt3_spearman] = await Promise.all([
             processData(fetch, 'CON_sparcc.json'),
             processData(fetch, 'FMT1_sparcc.json'),
             processData(fetch, 'FMT2_sparcc.json'),
-            processData(fetch, 'FMT3_sparcc.json')
+            processData(fetch, 'FMT3_sparcc.json'),
+            processData(fetch, 'CON_spearman.json'),
+            processData(fetch, 'FMT1_spearman.json'),
+            processData(fetch, 'FMT2_spearman.json'),
+            processData(fetch, 'FMT3_spearman.json')
         ]);
 
         return {
-            "CON_14": { nodes: con_data.nodes, links: con_data.links },
-            "FMT1_14": { nodes: fmt1_data.nodes, links: fmt1_data.links },
-            "FMT2_14": { nodes: fmt2_data.nodes, links: fmt2_data.links },
-            "FMT3_14": { nodes: fmt3_data.nodes, links: fmt3_data.links }
+            "CON_14_sparcc": { nodes: con_sparcc.nodes, links: con_sparcc.links },
+            "FMT1_14_sparcc": { nodes: fmt1_sparcc.nodes, links: fmt1_sparcc.links },
+            "FMT2_14_sparcc": { nodes: fmt2_sparcc.nodes, links: fmt2_sparcc.links },
+            "FMT3_14_sparcc": { nodes: fmt3_sparcc.nodes, links: fmt3_sparcc.links },
+            "CON_14_spearman": { nodes: con_spearman.nodes, links: con_spearman.links },
+            "FMT1_14_spearman": { nodes: fmt1_spearman.nodes, links: fmt1_spearman.links },
+            "FMT2_14_spearman": { nodes: fmt2_spearman.nodes, links: fmt2_spearman.links },
+            "FMT3_14_spearman": { nodes: fmt3_spearman.nodes, links: fmt3_spearman.links }
         }
     } catch (error) {
         console.error('Error loading data:', error);
