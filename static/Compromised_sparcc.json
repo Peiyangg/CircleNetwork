@@ -83,7 +83,7 @@
     {
       "id": "Genus_Bradymonadales",
       "label": "Genus_Bradymonadales",
-      "level": "subcore",
+      "level": "core",
       "average_value": 0.002637347767109916,
       "average_value_log": 0.6080936579877864,
       "cluster_hdbscan": "-1"
