@@ -12,9 +12,7 @@
       label: "Network Datasets",
       options: [
         { value: "Compromised_sparcc", label: "Compromised (sparcc)" },
-        { value: "Optimal_sparcc", label: "Optimal (sparcc)" },
-        { value: "Compromised_spearman", label: "Compromised (spearman)" },
-        { value: "Optimal_spearman", label: "Optimal (spearman)" },
+        { value: "Optimal_sparcc", label: "Optimal (sparcc)" }
       ]
     }
   ];
