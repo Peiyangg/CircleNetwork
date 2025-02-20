@@ -295,16 +295,25 @@
       }
 
       const link = svgContainer
-        .append("g")
-        .selectAll("line")
-        .data(filteredLinks)
-        .enter()
-        .append("line")
-        .attr("data-core", d => d.source.level === "core" || d.target.level === "core")
-        .attr("data-negative", d => d.sparcc < 0)
-        .each(function (d) {
-          d.element = this;
-        });
+  .append("g")
+  .selectAll("line")
+  .data(filteredLinks)
+  .enter()
+  .append("line")
+  .attr("class", d => {
+    const classes = ["link"];
+    // Use the pre-calculated sign property
+    if (d.source.level === "core" || d.target.level === "core") {
+      classes.push("core-link");
+    }
+    classes.push(d.sign === "negative" ? "negative-link" : "positive-link");
+    return classes.join(" ");
+  })
+  .each(function (d) {
+    d.element = this;
+  });
+
+  console.log("All links:", svgContainer.selectAll("line").nodes().map(n => n.getAttribute("class")));
 
       // Aggregate nodes by their cluster_hdbscan values
       const clusters = d3.group(filteredSubcoreNodes, (d) => d.cluster_hdbscan);
@@ -590,40 +599,60 @@ function handleArcClick(event, d) {
         node.cluster_hdbscan === selectedCluster
     );
     
-    // Find related links and connected nodes
+    // Find only links that connect to the selected cluster
     const relatedLinksArray = filteredLinks.filter(link => 
         link.source.cluster_hdbscan === selectedCluster || 
         link.target.cluster_hdbscan === selectedCluster
     );
 
-    // Find connected nodes that aren't in the selected cluster
-    const relatedNodesArray = relatedLinksArray.reduce((nodes, link) => {
-        if (link.source.cluster_hdbscan !== selectedCluster) {
-            nodes.push(link.source);
-        }
-        if (link.target.cluster_hdbscan !== selectedCluster) {
-            nodes.push(link.target);
-        }
-        return nodes;
-    }, []);
+    console.log("Links connecting to cluster:", relatedLinksArray);
+
+    // Create a Set to track ALL nodes that should be visible
+    const visibleNodesSet = new Set(selectedNodesArray.map(node => node.id));
+    
+    // Add connected nodes to the visible set
+    relatedLinksArray.forEach(link => {
+        visibleNodesSet.add(link.source.id);
+        visibleNodesSet.add(link.target.id);
+    });
+
+    // Get all nodes that should be visible
+    const allVisibleNodes = [...filteredSubcoreNodes, ...filteredCoreNodes]
+        .filter(node => visibleNodesSet.has(node.id));
 
     // Update stores
-    selectedNodes.set([...selectedNodesArray, ...relatedNodesArray]);
+    selectedNodes.set(allVisibleNodes);
     relatedLinks.set(relatedLinksArray);
     
     // Update node classes
     svgContainer.selectAll("circle")
         .attr("class", node => {
-            if (node.cluster_hdbscan === selectedCluster) return "node-selected";
-            if (relatedNodesArray.includes(node)) return "node-related";
+            if (visibleNodesSet.has(node.id)) {
+                if (node.cluster_hdbscan === selectedCluster) {
+                    return "node-selected";
+                }
+                return "node-related";
+            }
             return "node-dimmed";
         });
 
-    // Update link classes
+    // Update link classes - only highlight links that connect to selected cluster
     svgContainer.selectAll("line")
         .attr("class", link => {
-            if (relatedLinksArray.includes(link)) return "link-highlighted";
-            return "link-dimmed";
+            const classes = ["link"];
+            if (link.source.level === "core" || link.target.level === "core") {
+                classes.push("core-link");
+            }
+            classes.push(link.sparcc < 0 ? "negative-link" : "positive-link");
+            
+            // Only highlight links that connect to the selected cluster
+            if (link.source.cluster_hdbscan === selectedCluster || 
+                link.target.cluster_hdbscan === selectedCluster) {
+                classes.push("line-highlighted");
+            } else {
+                classes.push("line-dimmed");
+            }
+            return classes.join(" ");
         });
 
     // Update arc appearance
@@ -643,20 +672,16 @@ function resetStyles() {
 
     // Reset link styles
     svgContainer.selectAll("line")
-        .attr("class", null)
+        .attr("class", d => {
+                const classes = ["link"];
+                if (d.source.level === "core" || d.target.level === "core") {
+                  classes.push("core-link");
+                }
+                classes.push(d.sparcc < 0 ? "negative-link" : "positive-link");
+                return classes.join(" ");
+            })
         .style("opacity", 1)
-        .attr("stroke-width", d => 
-            d.source.level === "core" || d.target.level === "core" ? 1 : 
-            d.sparcc < 0 ? 1.5 : 0.75
-        )
-        .attr("stroke", d => {
-            if (d.sparcc < 0) {
-                return "rgba(255, 0, 0, 0.7)";
-            } else {
-                const alpha = d.source.level === "core" || d.target.level === "core" ? "0.4" : "0.1";
-                return `rgba(0, 128, 0, ${alpha})`;
-            }
-        });
+    ;
 
     // Reset arc strokes
     svgContainer.selectAll(".hdbscanArc")
@@ -695,11 +720,21 @@ function applyLocalHighlighting(nodeIds, storedLinks) {
         const elem = d3.select(this);
         const linkId = `${link.source.id}-${link.target.id}`;
         
-        if (linkLookup.has(linkId)) {
-            elem.attr("class", "line-highlighted");
-        } else {
-            elem.attr("class", "line-dimmed");
+        // Get existing classes for link type
+        const classes = ["link"];
+        if (link.source.level === "core" || link.target.level === "core") {
+            classes.push("core-link");
         }
+        classes.push(link.sparcc < 0 ? "negative-link" : "positive-link");
+        
+        // Add highlighting class
+        if (linkLookup.has(linkId)) {
+            classes.push("line-highlighted");
+        } else {
+            classes.push("line-dimmed");
+        }
+        
+        elem.attr("class", classes.join(" "));
     });
 }
 
@@ -740,10 +775,7 @@ function updateLinkVisibility(threshold) {
     margin: auto;
     display: block;
   }
-  select {
-    display: block;
-   
-  }
+ 
 
   .brush-active {
     background-color: #007bff; /* Example color */
@@ -767,19 +799,28 @@ function updateLinkVisibility(threshold) {
     stroke-width: 2px !important;
 }
 
-:global(line) {
-    stroke: rgba(0, 128, 0, 0.25) !important; 
+:global(line.link) {
     pointer-events: none; 
 }
 
-:global(line[data-core="true"]) {
-    stroke-width: 2px !important;
-    stroke: rgba(255, 0, 0, 0.5) !important;
+:global(g line.link.positive-link) {
+    stroke: rgba(0, 128, 0, 0.25) !important;
+    stroke-width: 0.75px !important;
 }
 
-:global(line[data-negative="true"]) {
-    stroke-width: 1px !important;
+:global(g line.link.negative-link) {
     stroke: rgba(255, 0, 0, 0.25) !important;
+    stroke-width: 1px !important;
+}
+
+:global(g line.link.core-link.positive-link) {
+    stroke: rgba(0, 128, 0, 0.4) !important;
+    stroke-width: 2px !important;
+}
+
+:global(g line.link.core-link.negative-link) {
+    stroke: rgba(255, 0, 0, 0.4) !important;
+    stroke-width: 2px !important;
 }
 
   :global(.node-selected) {
@@ -822,11 +863,7 @@ function updateLinkVisibility(threshold) {
   align-items: center
 }
 
-.control-group {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
+
 
 .threshold-group {
   display: flex;
@@ -835,13 +872,7 @@ function updateLinkVisibility(threshold) {
 }
 
 /* Rest of your existing styles remain the same */
-.control-group label,
-.threshold-group label {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-  font-size: 16px;
-  margin-right: 8px;
-  white-space: nowrap;
-}
+
 
 button {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
